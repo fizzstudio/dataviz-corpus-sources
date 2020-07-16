@@ -1,0 +1,130 @@
+h1, h2 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+a {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: DarkOliveGreen;
+}
+table {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	width:100%;
+	border-collapse:collapse;
+}
+table td, table th {
+	border:1px solid #98bf21;
+	padding:3px 5px 3px 5px;
+}
+table th {
+	font-size:1em;
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:4px;
+	background-color:#A7C942;
+	color:#EAF2D3;
+}
+table td {
+	font-size:.8em;
+}
+table td.headline ul {
+	list-style-type: none;
+	padding: 0px;
+}
+table td.headline li {
+	margin: 5px;
+}	
+table tr.alt {
+	background-color:#EAF2D3;
+}
+table a {
+	color: DarkOliveGreen;
+}	
+table td a{
+	font-size:1.2em;
+}	
+
+.deprecated {
+	color: red;
+	text-decoration: line-through;
+}
+
+.cautioned {
+	color: orange;
+}
+
+.deprecatedlink,.cautionlink {
+	color: black;
+	font-size:1em;
+	font-style:italic;
+	// text-decoration: underline;
+	border-bottom: 1px dotted;
+	text-decoration: none;
+}
+
+
+
+#view-graph {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;		
+}
+#view-graph a, #view-graph > #multimodaldoc a  {
+	color: DarkOliveGreen;
+}
+#multimodaldoc {
+	margin: 10px;
+	border: 1px solid DarkOliveGreen;
+	padding: 10px;
+	background-color:#EAF2D3;		
+}
+#multimodaldoc .source {
+	font-style: italic;
+	font-size: 1em;
+	color: gray;
+}
+#multimodaldoc .headline {
+	font-family: serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+#multimodaldoc .subheadline {
+	font-family: serif;
+	font-size: 1.5em;
+}
+#multimodaldoc .articletext {
+	font-family: serif;
+	font-size: 1em;
+}	
+#graphic {
+	width: 500px;
+	margin: 10px;
+	border: 1px dotted DarkOliveGreen;
+	padding: 5px;
+	float: right;
+}
+#graphic .captionheadline {
+	font-family: serif;
+	font-size: 1.1em;
+	font-weight: bold;
+}	
+#graphic .captionsubheadline {
+	font-family: Arial;
+	font-size: 1.1em;
+}
+#graphic .captiontext {
+	font-family: serif;
+	font-size: .9em;
+}
+#graphic img {
+	max-width: 400px;
+}
+
+
+
+ul.annotation-form {
+	list-style-type: circle;
+	border: 1px dotted DarkOliveGreen;
+	width: 600px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+}
+ul.annotation-form  > li {
+	padding: 5px;
+}
+
