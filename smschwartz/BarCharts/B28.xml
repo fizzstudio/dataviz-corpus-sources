@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="descending"  Current="false">
+	<Caption>
+		<Content>Mother's Day Shopping</Content>
+	</Caption>
+	<Source>USA Today</Source>
+	<MeasurementAxis Length="4.0">
+	</MeasurementAxis>
+	<BarAxis Length="3.7">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>One month before</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.6</Height>
+		<AxisDistance>0.4</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>52%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>52%                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Two weeks before</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.5</Height>
+		<AxisDistance>1.4</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>33%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>33%                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Three months before</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.1</Height>
+		<AxisDistance>2.3</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>10%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>10%                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Mother's Day</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.8</Height>
+		<AxisDistance>3.2</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>Less then 1%                                                                                       </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>Less then 1%</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+		<Caption>
+			<Content>Most men prefer hanging hanging out with family</Content>
+			<Noun>Hanging out with family</Noun>
+		</Caption>
+		<DatePublished>August 23, 2004</DatePublished>
+		<Source>Time</Source>
+		<MeasurementAxis Length="2.4">
+			<Label>How do you spend your free time?</Label>
+		</MeasurementAxis>
+		<BarAxis Length="3.0">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Hanging out with family</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.3</Height>
+			<AxisDistance>0.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>20%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>20</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Playing sports/exercising</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.3</Height>
+			<AxisDistance>0.6</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>11%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>11</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Watching tv</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.3</Height>
+			<AxisDistance>1.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>11%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>11</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Hanging out with friends</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.0</Height>
+			<AxisDistance>1.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>9%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>9</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Working around the house</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.0</Height>
+			<AxisDistance>1.9</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>9%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>9</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Watching sports events</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.3</Height>
+			<AxisDistance>2.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>3%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>3</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Playing golf</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.2</Height>
+			<AxisDistance>2.7</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>2%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>2</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

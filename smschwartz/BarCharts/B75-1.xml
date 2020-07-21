@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+	<BarChart BarDirection="horizontal" Current="false">
+	<Caption>
+		<Content>Southwest's Big Cost Advantage</Content>
+		<Noun>Southwest</Noun>
+	</Caption>
+	<DatePublished>February 3, 2003</DatePublished>
+	<Source>Business Week</Source>
+		<MeasurementAxis Length="3.7">
+		<Label>Cents
+		</Label>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>4</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>8</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>12</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>16</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		</MeasurementAxis>
+		<BarAxis Length="4.5">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Southwest</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>6</Color>
+			<Height>2.1</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+		<Value>9.08</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>true</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>Delta</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.9</Height>
+			<AxisDistance>1.4</AxisDistance>
+			<SightLine>false</SightLine>
+		<Value>12.54</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>American</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.45</Height>
+			<AxisDistance>2.3</AxisDistance>
+			<SightLine>false</SightLine>
+		<Value>14.92</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>United</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.4</Height>
+			<AxisDistance>3.2</AxisDistance>
+			<SightLine>false</SightLine>
+                <Value>14.70</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	</BarChart>
+</InformationGraphic>

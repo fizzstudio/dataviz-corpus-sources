@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Southwest has delivered top margins</Content>
+		<Verb>top</Verb>
+		<Noun>Southwest</Noun>
+	</Caption>
+	<DatePublished>February 3, 2003</DatePublished>
+	<Source>Business Week</Source>
+		<MeasurementAxis Length="4.5">
+		<Label>Percent</Label>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>4</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>8</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>12</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>16</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		</MeasurementAxis>
+		<BarAxis Length="4.5">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Southwest</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>5</Color>
+			<Height>3.75</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+		<Value>13.33</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>true</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>Delta</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.65</Height>
+			<AxisDistance>1.4</AxisDistance>
+			<SightLine>false</SightLine>
+		<Value>5.87</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>American</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.6</Height>
+			<AxisDistance>2.3</AxisDistance>
+			<SightLine>false</SightLine>
+		<Value>5.69</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>United</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.7</Height>
+			<AxisDistance>3.2</AxisDistance>
+			<SightLine>false</SightLine>
+                <Value>2.49</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	</BarChart>
+</InformationGraphic>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Top U.S. Sectors Receiving Venture Capital, 2002, in billions </Content>
+		<Verb>top</Verb>
+	</Caption>
+	<MeasurementAxis Length="4.4">
+	<Label> (billions) </Label>
+	</MeasurementAxis>
+	<BarAxis Length="2.9">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Biotech</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>4.4</Height>
+		<AxisDistance>0.2</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3.2                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>3.2                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Enterprise software</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.3</Height>
+		<AxisDistance>0.9</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.4                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.4                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Wireless</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.2</Height>
+		<AxisDistance>1.5</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>1.6                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>1.6                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Medical devices</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.7</Height>
+		<AxisDistance>2.2</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>1.2                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>1.2                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Semiconductors</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.5</Height>
+		<AxisDistance>2.8</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>1.1                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>1.1                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

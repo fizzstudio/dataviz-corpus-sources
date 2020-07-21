@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content> Air Force has Largest Percentage of Women</Content>
+		<Adjective>largest</Adjective>
+		<Noun>Air Force</Noun>
+	</Caption>
+	<Source>USA Today</Source>
+	<MeasurementAxis Length="5.4">
+	<Label>Percentage of Female Personnel in U.S. Military Branches (percent)</Label>
+	</MeasurementAxis>
+	<BarAxis Length="4.3">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Air Force</Content>
+			<Color>5</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>5.3</Height>
+		<AxisDistance>0.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>19.4%</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+			<Type>Value</Type>
+		</Annotation>	
+		<Value>19.4</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Army</Content>
+			<Color>5</Color>
+			<Bold>false</Bold>
+
+		</Label>
+		<Color>1</Color>
+		<Height>4.1</Height>
+		<AxisDistance>2.5</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>15.4%</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+			<Type>Value</Type>
+		</Annotation>	
+		<Value>15.4</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Navy</Content>
+			<Color>5</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.8</Height>
+		<AxisDistance>3.3</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>14.4%</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+			<Type>Value</Type>
+		</Annotation>	
+		<Value>14.4</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Marine Corps</Content>
+			<Color>5</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.4</Height>
+		<AxisDistance>4.1</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>6%</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+			<Type>Value</Type>
+		</Annotation>	
+		<Value>6</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+</BarChart>
+</InformationGraphic>

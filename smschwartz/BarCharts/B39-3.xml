@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="descending" LabelsSorted="alphabetic" Current="false">
+	<Caption>
+		<Content>and Hammered Them in the Stock Market</Content>
+		<Verb>hammer</Verb>
+		<Noun>SOUTHWEST</Noun>
+		<Noun>TRADITIONAL CARRIERS</Noun>
+	</Caption>
+	<DatePublished> April 14, 2003 </DatePublished>
+	<Source>BusinessWeek</Source>
+	<MeasurementAxis Length="3.2">
+	<Label> Market CAP (billions of dollars)</Label>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>0</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>4</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>8</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>12</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="3.8">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>SOUTHWEST</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3</Height>
+		<AxisDistance>1.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>$11.2</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+	<Value>11.25</Value>
+	<SpecialAnnotation>false</SpecialAnnotation>
+	<BarHighlighted>false</BarHighlighted>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>TRADITIONAL CARRIERS</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.6</Height>
+		<AxisDistance>3.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>$2.4</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+	<Value>2.4</Value>
+	<SpecialAnnotation>false</SpecialAnnotation>
+	<BarHighlighted>false</BarHighlighted>
+	</Bar>
+	</BarChart>
+</InformationGraphic>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="ascending" LabelsSorted="time" Current="true">
+	<Caption>
+		<Content> Bas Moon Rising</Content>
+		<Verb>rise</Verb>
+	</Caption>
+	<DatePublished> April 7,2003 </DatePublished>
+	<Source>BusinessWeek</Source>
+	<MeasurementAxis Length="3.9">
+	<Label> Delinquent Loans as a Percentage of Total Loans Insured by Mgic Investment(percent) </Label>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>0</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>1</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>2</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>3</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>4</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>5</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="3.2">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>2000</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.1</Height>
+		<AxisDistance>0.5</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>2.69</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>2001</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.8</Height>
+		<AxisDistance>1.6</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>3.59</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>2002</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.5</Height>
+		<AxisDistance>2.7</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>4.49</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.4</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>2</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>1.5</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+	</Divisions>
+	</BarChart>
+</InformationGraphic>

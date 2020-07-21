@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Carrying a Balance</Content>
+                <Adjective>carrying</Adjective>
+	</Caption>
+	<MeasurementAxis Length="4.0">
+	</MeasurementAxis>
+	<BarAxis Length="4.3">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Made the minimum payment</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.4</Height>
+		<AxisDistance>0.6</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>47%</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Value>47</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Paid less than half the balance outstanding</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.7</Height>
+		<AxisDistance>1.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>37%</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Value>37</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Paid more than half the balance outstanding</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.95</Height>
+		<AxisDistance>3.1</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>13%</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Value>13</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Couldn't afford to pay anything</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.2</Height>
+		<AxisDistance>4.0</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3%</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Value>3</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+</BarChart>
+</InformationGraphic>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" Current="false">
+		<Caption>
+			<Content>Following the Homeland Security warnings:</Content>
+		</Caption>
+		<DatePublished>August 16, 2004</DatePublished>
+		<Source>Time</Source>
+		<BarAxis Length="1.7">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Very Closely</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.3</Height>
+			<AxisDistance>0.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>31%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>31</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Somewhat Closely</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>4</Color>
+			<Height>3.7</Height>
+			<AxisDistance>0.6</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>49%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>49</Value>
+			<BarHighlighted>true</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Not very closely</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.9</Height>
+			<AxisDistance>1.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>12%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>12</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Not closely at all</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.45</Height>
+			<AxisDistance>1.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>6%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>6</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

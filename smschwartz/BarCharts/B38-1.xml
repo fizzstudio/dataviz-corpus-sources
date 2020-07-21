@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationGraphic>
+<BarChart BarDirection="vertical" LabelsSorted="time" Current="true">
+	<Caption>
+		<Content>Chirac is Riding High in the Polls </Content>
+	</Caption>
+	<DatePublished> March 14,2003 </DatePublished>
+	<Source>BusinessWeek</Source>
+	<MeasurementAxis Length="2.6">
+	<Label> Approval Rating  (percent)</Label>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>0</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>20</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>40</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>60</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>80</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="3.3">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>DEC'02</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.9</Height>
+		<AxisDistance>0.4</AxisDistance>
+		<SightLine>false</SightLine>
+		<Value>58</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>JAN.'03</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2</Height>
+		<AxisDistance>1.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Value>61</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>FEB.</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.1</Height>
+		<AxisDistance>2.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Value>63</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>MAR.</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.5</Height>
+		<AxisDistance>2.9</AxisDistance>
+		<SightLine>false</SightLine>
+		<Value>77</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.4</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>3</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>0.75</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+</Divisions>
+	</BarChart>
+</InformationGraphic>

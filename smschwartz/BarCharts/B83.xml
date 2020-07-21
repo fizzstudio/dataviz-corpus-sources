@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="vertical" BarsSorted="ascending" LabelsSorted="time" Current="true">
+		<Caption>
+			<Content>With a Recovery Looking More Likely...</Content>
+			<Verb>recover</Verb>
+			<Adjective>more</Adjective>
+		</Caption>
+		<DatePublished>August 8, 2003</DatePublished>
+		<Source>Business Week</Source>
+		<MeasurementAxis Length="2.5">
+		<Label>Annual Rate of Growth of Gross Domestic Product in 2003</Label>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>1</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>2</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>3</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>4</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		</MeasurementAxis>
+		<BarAxis Length="5.5">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>I</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.9</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>1.4</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>II</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.2</Height>
+			<AxisDistance>2.1</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>1.97</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>III</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.3</Height>
+			<AxisDistance>3.6</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>3.7</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>IV</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.4</Height>
+			<AxisDistance>5.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>3.9</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.4</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>3</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>1.96</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+	</Divisions>
+	</BarChart>
+</InformationGraphic>
+

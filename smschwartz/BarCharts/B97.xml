@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="vertical" Current="false">
+		<Caption>
+			<Content>% of classmates who are poor</Content>
+		</Caption>
+		<DatePublished>May 17, 2004</DatePublished>
+		<Source>Newsweek</Source>
+		<MeasurementAxis Length="3.0">
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>10</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>20</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>30</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>40</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>50</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		</MeasurementAxis>
+		<BarAxis Length="2.8">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>White</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.1</Height>
+			<AxisDistance>0.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>19</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Black</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>2</Color>
+			<Height>2.7</Height>
+			<AxisDistance>1.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>44</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Latino</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>4</Color>
+			<Height>2.65</Height>
+			<AxisDistance>1.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>42</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Asian</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>5</Color>
+			<Height>1.6</Height>
+			<AxisDistance>2.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>27</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Native American</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>6</Color>
+			<Height>1.9</Height>
+			<AxisDistance>2.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>31</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+
+

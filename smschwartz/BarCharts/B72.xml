@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+	<BarChart BarDirection="vertical" LabelsSorted="time" Current="true">
+	<Caption>
+		<Content>The sound of sales</Content>
+	</Caption>
+		<Source>USA Today</Source>
+		<MeasurementAxis Length="4.2">
+		<Label>Total albums sold in the first quarter: in millions</Label>
+		</MeasurementAxis>
+		<BarAxis Length="3.3">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>1998</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.65</Height>
+			<AxisDistance>0.2</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>158.8                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+		<Value>158.8                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>1999</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.9</Height>
+			<AxisDistance>0.9</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>165.6                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+		<Value>165.6                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>2000</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>4.1</Height>
+			<AxisDistance>1.6</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>177.3                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+                <Value>177.3                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>2001</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>4.0</Height>
+			<AxisDistance>2.2</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>175.2                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+                <Value>175.2                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>2002</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.7</Height>
+			<AxisDistance>3.0</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>160.6                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+                <Value>160.6                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.4</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>2</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>0.75</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+		<Chunk>
+		<Initial>
+			<X>2</X>
+			<Y>0</Y>
+		</Initial>
+		<Final>
+			<X>4</X>
+			<Y>0</Y>
+		</Final>
+		<Slope>-0.75</Slope>
+		<Variance>0.0</Variance>
+	</Chunk>	
+	</Division>
+</Divisions>
+	</BarChart>
+</InformationGraphic>

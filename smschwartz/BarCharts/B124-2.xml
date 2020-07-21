@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="ascending" LabelsSorted="numeric" Current="true">
+	<Caption>
+		<Content>U.S. Credit Card Debt</Content>
+	</Caption>
+	<DatePublished>June 28, 2004</DatePublished>
+	<Source>U.S. News and World Report</Source>
+	<MeasurementAxis Length="4.4">
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>200</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>400</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>600</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>800</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="2.8">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>1990</Content>
+			<Color>3</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.4</Height>
+		<AxisDistance>1.0</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Value>205</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>2000</Content>
+			<Color>3</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.8</Height>
+		<AxisDistance>1.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Value>680</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>2005</Content>
+			<Color>3</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>5.5</Height>
+		<AxisDistance>2.5</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>$985</Content> 
+			<Color>3</Color>
+			<Bold>true</Bold>
+			<Type>Value</Type> 
+		</Annotation>
+		<Annotation>
+			<Content>Projected</Content> 
+			<Color>4</Color>
+			<Bold>false</Bold>
+			<Type>Note</Type> 
+		</Annotation>
+		<Value>985</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>true</SpecialAnnotation>
+	</Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.0</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>2</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>2.0</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+</Divisions>
+</BarChart>
+</InformationGraphic>

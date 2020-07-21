@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="vertical" BarsSorted="descending" LabelsSorted="alphabetic" Current="false">
+		<Caption>
+			<Content>Seeking Help</Content>
+		</Caption>
+		<DatePublished>April 26, 2004</DatePublished>
+		<Source>Newsweek</Source>
+		<MeasurementAxis Length="2.8">
+		<Label>Visits to doctors' offices by the source of patients' pain, 1999 (millions)</Label>
+		</MeasurementAxis>
+		<BarAxis Length="4.2">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Back</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.7</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>14</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>14</Value>
+			<BarHighlighted>true</BarHighlighted>
+			<SpecialAnnotation>true</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Knee</Content>
+				<Color>5</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.6</Height>
+			<AxisDistance>2.1</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>8.2</Content>
+				<Color>6</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>8.2</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Shoulder</Content>
+				<Color>5</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.0</Height>
+			<AxisDistance>3.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>5.1</Content>
+				<Color>6</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>5.1</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

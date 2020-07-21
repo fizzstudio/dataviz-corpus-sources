@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>South Africa Tops in Gold Production</Content>
+		<Verb>top</Verb>
+		<Noun>South Africa</Noun>
+	</Caption>
+	<Source>USA Today</Source>
+	<MeasurementAxis Length="3.7">
+	<Label>metric tons</Label>
+	</MeasurementAxis>
+	<BarAxis Length="3.6">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>South Africa</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.7</Height>
+		<AxisDistance>0.4</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>428                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>428                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>United States</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.1</Height>
+		<AxisDistance>1.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>355                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>355                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Other African Countries</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.7</Height>
+		<AxisDistance>1.8</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>187                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>187                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Canada</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.3</Height>
+		<AxisDistance>2.5</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>155                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+
+	<Value>155                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Europe</Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>.2</Height>	
+		<AxisDistance>3.3</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>21                                                                                                 </Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+
+	<Value>21                                                                                                 </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+
+</InformationGraphic>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Civilians Serving the Defense Department</Content>
+	</Caption>
+	<Source>USA Today</Source>
+	<MeasurementAxis Length="4.2">
+	</MeasurementAxis>
+	<BarAxis Length="4.8">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Army</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>4.1</Height>
+		<AxisDistance>0.5</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>233030                                                                                             </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>233030                                                                                             </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Navy</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.2</Height>
+		<AxisDistance>1.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>186251                                                                                             </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>186251</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Air Force</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.2</Height>
+		<AxisDistance>3.0</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>154265                                                                                             </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>154265</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Other Defense Agencies</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.7</Height>
+		<AxisDistance>4.1</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>100678                                                                                             </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>100678                                                                                             </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

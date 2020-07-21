@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+		<Caption>
+			<Content>Back to School</Content>
+		</Caption>
+		<DatePublished>September 6, 2004</DatePublished>
+		<Source>Business Week</Source>
+		<MeasurementAxis Length="5.5">
+		<Label>Here is the percentage of parents who plan to shell out for:"</Label>
+		</MeasurementAxis>
+		<BarAxis Length="2.5">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>School Supplies</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>5.1</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>86%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>86</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Clothes</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>4.4</Height>
+			<AxisDistance>1.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>71%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>71</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Shoes</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.4</Height>
+			<AxisDistance>2.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>56%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>56</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Bags and Backpacks</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.8</Height>
+			<AxisDistance>2.9</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>46%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>46</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

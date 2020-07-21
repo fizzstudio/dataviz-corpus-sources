@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>American Express' Billings Still Lag</Content>
+		<Noun>American Express</Noun>
+		<Verb>lag</Verb>
+	</Caption>
+	<DatePublished>September 13, 2004</DatePublished>
+	<Source>Business Week</Source>
+	<MeasurementAxis Length="4.0">
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>200</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>400</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>600</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="2.7">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Visa</Content>
+			<Color>3</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.6</Height>
+		<AxisDistance>2.5</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Value>570</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Mastercard</Content>
+			<Color>3</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.7</Height>
+		<AxisDistance>1.9</AxisDistance>
+		<SightLine>false</SightLine>
+		<Value>400</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>American Express</Content>
+			<Color>3</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>2</Color>
+		<Height>1.7</Height>
+		<AxisDistance>1.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Value>225</Value>
+		<BarHighlighted>true</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Discover</Content>
+			<Color>3</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.5</Height>
+		<AxisDistance>0.8</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Value>40</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Diner's Club</Content>
+			<Color>3</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.1</Height>
+		<AxisDistance>0.3</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Value>5</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+	</Bar>
+</BarChart>
+</InformationGraphic>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" LabelsSorted="time" Current="true">
+	<Caption>
+		<Content>Boating Deaths Decline</Content>
+	</Caption>
+	<Source>USA Today</Source>
+	<MeasurementAxis Length="5.3">
+	</MeasurementAxis>
+	<BarAxis Length="2.6">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>1997</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>5.3</Height>
+		<AxisDistance>0.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>821                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>821                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>1998</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>5.3</Height>
+		<AxisDistance>0.9</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>815                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>815                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>1999</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>4.7</Height>
+		<AxisDistance>1.3</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>734                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>734                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>2000</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>4.5</Height>
+		<AxisDistance>1.8</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>701                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>701                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>2001</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>4.1</Height>
+		<AxisDistance>2.3</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>645                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>645                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.4</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>4</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>-1.5</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+</Divisions>
+</BarChart>
+</InformationGraphic>

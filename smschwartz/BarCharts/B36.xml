@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="horizontal" Current="false">
+	<Caption>
+		<Content>Running Tops in Sneaker Wear in 2002 </Content>
+		<Verb>top</Verb>
+		<Noun>Running</Noun>
+	</Caption>
+	<DatePublished> April 3,2003 </DatePublished>
+	<Source>USA Today</Source>
+	<MeasurementAxis Length="3.1">
+	<Label> Athletic footwear U.S. Retail Dollar Sales by Classification (percent)</Label>
+	</MeasurementAxis>
+	<BarAxis Length="5.3">
+	</BarAxis>
+		<Bar>
+		<Label>
+			<Content>Running</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.1</Height>
+		<AxisDistance>0.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>27.9%                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>27.9%                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Basketball</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.7</Height>
+		<AxisDistance>0.7</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>15.6%                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>	<Value>15.6%                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Cross Training</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.3</Height>
+		<AxisDistance>1.2</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>10.9%                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>10.9%                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Walking</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1</Height>
+		<AxisDistance>1.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>9.1%                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>9.1%                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Low Performance</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.7</Height>
+		<AxisDistance>2.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>6.3%                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>6.3%                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Hiking</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.6</Height>
+		<AxisDistance>2.9</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>5.8%                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>5.8%                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Tennis</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.5</Height>
+		<AxisDistance>3.5</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>4.8%                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>4.8%                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Skateboard</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.3</Height>
+		<AxisDistance>4</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.7%                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.7%                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Sport sandals</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.3</Height>
+		<AxisDistance>4.6</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.6%                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.6%                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Other</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.6</Height>
+		<AxisDistance>5.2</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>14.3%                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>14.3%                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

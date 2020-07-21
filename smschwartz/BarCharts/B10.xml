@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="descending" LabelsSorted="time" Current="true">
+	<Caption>
+		<Content>Measuring Home Improvement Stores</Content>
+	</Caption>
+	<DatePublished> March 10,2003 </DatePublished>
+	<Source> Intelligencer Journal</Source>
+	<MeasurementAxis Length="1.7">
+	<Label>Lowe's(percent)</Label>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>0</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>5</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>10</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>15</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>20</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>25</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="3">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Q1</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.9</Height>
+		<AxisDistance>0.3</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>27.94</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Q2</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.8</Height>
+		<AxisDistance>1.1</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>26.47</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Q3</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.5</Height>
+		<AxisDistance>1.8</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>22.06</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Q4</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.4</Height>
+		<AxisDistance>2.4</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>20.59</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>3</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>-1</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+</Divisions>
+	</BarChart>
+</InformationGraphic>

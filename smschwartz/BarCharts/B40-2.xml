@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Top Metro Areas Receiving Venture Capital, 2002, in billions </Content>
+		<Verb>top</Verb>
+	</Caption>
+	<MeasurementAxis Length="5">
+	<Label> (billions) </Label>
+	</MeasurementAxis>
+	<BarAxis Length="3">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Silicon Valley</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>5</Height>
+		<AxisDistance>0.2</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>4.8                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>4.8                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Boston</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2</Height>
+		<AxisDistance>0.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.0                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.0                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>East Bay.Calif.</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.1</Height>
+		<AxisDistance>1.4</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>1.1                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>1.1                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>New York</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.0</Height>
+		<AxisDistance>2.2</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>1.0                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>1.0                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Washington,D.C.</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.7</Height>
+		<AxisDistance>2.2</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>0.                                                                                                 </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>0.                                                                                                 </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	</BarChart>
+</InformationGraphic>

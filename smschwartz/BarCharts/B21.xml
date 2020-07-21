@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="ascending" LabelsSorted="time" Current="true">
+	<Caption>
+		<Content> Active Users</Content>
+	</Caption>
+	<MeasurementAxis Length="2">
+	<Label> Registered Users in Millions (millions)</Label>
+	</MeasurementAxis>
+	<BarAxis Length="2.2">
+	</BarAxis>
+		<Bar>
+		<Label>
+			<Content>2000</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.2</Height>
+		<AxisDistance>0.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>60                                                                                                 </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>60</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>2001</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.7</Height>
+		<AxisDistance>1.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>86                                                                                                 </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>86</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>2002</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2</Height>
+		<AxisDistance>1.9</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>101                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>101</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.0</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>2</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>1.0</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+</Divisions>
+	</BarChart>
+</InformationGraphic>

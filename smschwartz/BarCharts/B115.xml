@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="vertical" BarsSorted="ascending" Current="false">
+		<Caption>
+			<Content>Wall Street Sees Red</Content>
+		</Caption>
+		<MeasurementAxis Length="3.5">
+		<Label>Largest IPOs of 2003, amounts raised, millions</Label>
+		</MeasurementAxis>
+		<BarAxis Length="4.2">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Maguire Properties</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.7</Height>
+			<AxisDistance>0.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>$694</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>694</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>American Finl. Realty</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>.071</Height>
+			<AxisDistance>1.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>$699</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>699</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Multiplex</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.85</Height>
+			<AxisDistance>2.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>$828</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>828</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Bank Austria Creditanstalt</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.1</Height>
+			<AxisDistance>2.9</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>$1,087</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>1087</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>China Life Insurance</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.1</Height>
+			<AxisDistance>3.7</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>$3,022</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>3022</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+
