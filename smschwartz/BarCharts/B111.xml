@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+		<Caption>
+			<Content>A Do-Nothing Congress?</Content>
+		</Caption>
+		<DatePublished>December 13, 2003</DatePublished>
+		<Source>National Journal</Source>
+		<MeasurementAxis Length="3.0">
+		<Label>In general, what would you say has been the most important achievement of Congress this year? (open-ended)</Label>
+		</MeasurementAxis>
+		<BarAxis Length="2.5">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Can't think of any</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.0</Height>
+			<AxisDistance>0.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>55%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>55</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Other</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.6</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>11</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>11</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Medicare reform-prescription drugs</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.55</Height>
+			<AxisDistance>0.8</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>10</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>10</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Cutting taxes</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.4</Height>
+			<AxisDistance>1.1</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>7</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>7</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Improving National Security</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.35</Height>
+			<AxisDistance>1.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>6</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>6</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Refused to answer</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.35</Height>
+			<AxisDistance>1.7</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>6</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>6</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Funding the war in Iraq</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.2</Height>
+			<AxisDistance>2.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>4</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>4</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Energy</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.05</Height>
+			<AxisDistance>2.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>1</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>1</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

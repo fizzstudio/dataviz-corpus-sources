@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="ascending" LabelsSorted="time" Current="false">
+	<Caption>
+		<Content>A Growing Consumer Menace</Content>
+		<Verb>skyrocket</Verb>
+	</Caption>
+	<DatePublished> March 31,2003 </DatePublished>
+	<Source>BusinessWeek</Source>
+	<MeasurementAxis Length="2.2">
+	<Label> Identity-theft Complaints are Skyrocketing (thousands)</Label>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>0</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>40</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>80</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>120</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>160</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="3.6">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>'00</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.5</Height>
+		<AxisDistance>0.6</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>36.36</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>'01</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.2</Height>
+		<AxisDistance>1.7</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>87.27</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>'02</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.2</Height>
+		<AxisDistance>2.9</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>160.00</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.0</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>2</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>2</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+</Divisions>
+	</BarChart>
+</InformationGraphic>

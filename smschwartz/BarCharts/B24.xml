@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" Current="false">
+	<Caption>
+		<Content> Yearly Ridership </Content>
+	</Caption>
+	<MeasurementAxis Length="3.2">
+	<Label> Amtrak Passangers Embarking in 2001 by Station </Label>
+	</MeasurementAxis>
+	<BarAxis Length="9">
+	</BarAxis>
+		<Bar>
+		<Label>
+			<Content>Greensburg</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.1</Height>
+		<AxisDistance>0.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>8706                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>8706</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Latrobe</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+	  	<Color>1</Color>
+		<Height>0</Height>
+		<AxisDistance>0.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3305                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>3305</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Johnstown</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.2</Height>
+		<AxisDistance>1.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>15523                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>15523                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Altoona</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.3</Height>
+		<AxisDistance>1.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>28745                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>28745                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Tyrone</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0</Height>
+		<AxisDistance>2.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>821                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>	<Value>821                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Huntingdon</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.05</Height>
+		<AxisDistance>2.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>4353                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>4353                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Lewistown</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.1</Height>
+		<AxisDistance>3.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>7348                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>7348</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Harrisburg</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.1</Height>
+		<AxisDistance>3.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>274917                                                                                             </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>274917</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Middletown</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.2</Height>
+		<AxisDistance>4.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>19554                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>19554                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Elizabethtown</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.4</Height>
+		<AxisDistance>4.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>37385                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>37385                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Mount Joy</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.1</Height>
+		<AxisDistance>5.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>12775                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>12775                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Lancaster</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.2</Height>
+		<AxisDistance>5.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>279189                                                                                             </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>279189</Value><SpecialAnnotation>true</SpecialAnnotation><BarHighlighted>true</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Parkesburg</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.2</Height>
+		<AxisDistance>6.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>15330                                                                                              </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>15330                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Coatesville</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.05</Height>
+		<AxisDistance>6.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>4451                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>4451                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</InformationGraphic>

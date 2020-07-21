@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" LabelsSorted="alphabetic" Current="false">
+	<Caption>
+		<Content> Percentage of women</Content>
+	</Caption>
+	<DatePublished> April 14,2003 </DatePublished>
+	<Source>BusinessWeek</Source>
+	<MeasurementAxis Length="2.3">
+	<Label> by service branch(percent) </Label>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>0</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>5</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>10</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>15</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	<Tickmark>
+		<TickLabelled>true</TickLabelled>
+		<TickValue>20</TickValue>
+		<GridLine>true</GridLine>
+	</Tickmark>
+	</MeasurementAxis>
+	<BarAxis Length="3.2">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Air Force</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>2.2</Height>
+		<AxisDistance>0.6</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>19.13</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Army</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.8</Height>
+		<AxisDistance>1.2</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>15.65</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Marine Corps</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.7</Height>
+		<AxisDistance>1.8</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>6.09</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Navy</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.6</Height>
+		<AxisDistance>2.4</AxisDistance>
+		<SightLine>false</SightLine>
+	<Value>13.91</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+		<Caption>
+			<Content>Despite the intense financial demands placed on men, most do not define success through work</Content>
+			<Noun>Work</Noun>
+		</Caption>
+		<DatePublished>August 23, 2004</DatePublished>
+		<Source>Time</Source>
+		<MeasurementAxis Length="3.0">
+			<Label>What is the most important measure of success for you?</Label>
+		</MeasurementAxis>
+		<BarAxis Length="2.6">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Faith in God</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.0</Height>
+			<AxisDistance>0.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>31%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>31</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Being the best person possible</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.5</Height>
+			<AxisDistance>0.7</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>26%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>26</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Family and friends</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.1</Height>
+			<AxisDistance>1.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>22%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>22</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Maintaining work-life balance</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.6</Height>
+			<AxisDistance>1.7</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>17%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>17</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Work</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.2</Height>
+			<AxisDistance>2.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>3%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>3</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

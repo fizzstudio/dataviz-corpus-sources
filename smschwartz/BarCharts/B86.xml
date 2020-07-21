@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="vertical" BarsSorted="ascending" LabelsSorted="time" Current="true">
+		<Caption>
+			<Content>Lights Out</Content>
+		</Caption>
+		<DatePublished>August 4, 2003</DatePublished>
+		<Source>Business Week</Source>
+		<MeasurementAxis Length="1.9">
+		<Label>Number of Filings to Deregister Securities</Label>
+		</MeasurementAxis>
+		<BarAxis Length="2.5">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>2002</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.7</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>459</Content>
+				<Color>4</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>459</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>2003</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.9</Height>
+			<AxisDistance>1.8</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>509</Content>
+				<Color>4</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>509</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.0</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>1</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>1.5</Slope>
+			<Variance>0.0</Variance>
+		</Chunk>
+	</Division>
+	</Divisions>
+	</BarChart>
+</InformationGraphic>
+

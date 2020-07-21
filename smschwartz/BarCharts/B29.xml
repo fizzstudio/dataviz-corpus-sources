@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="vertical" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Basic Performers</Content>
+	</Caption>
+	<DatePublished>May 31, 2002</DatePublished>
+	<Source>USA Today</Source>
+	<MeasurementAxis Length="2.3">
+	</MeasurementAxis>
+	<BarAxis Length="4.0">
+	</BarAxis>
+	<Bar>
+		<Label>
+			<Content>Providian financial, credit cards</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.5</Height>
+		<AxisDistance>0.2</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>122%                                                                                               </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>122</Value>
+		<SpecialAnnotation>false</SpecialAnnotation>
+		<BarHighlighted>false</BarHighlighted>
+	</Bar>
+	<Bar>
+		<Label>
+			<Content>Dillard's, department stores</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.05</Height>
+		<AxisDistance>0.5</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>84%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>84</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Big Lots, closeout retailer</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.95</Height>
+		<AxisDistance>1.0</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>74%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>74</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Newmont Mining, gold mining</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.8</Height>
+		<AxisDistance>1.4</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>60%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>60</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Dana, car parts</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.65</Height>
+		<AxisDistance>1.75</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>50%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>50</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>American Greetings, greeting cards</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.64</Height>
+		<AxisDistance>2.2</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>49%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>49</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>TRW, auto air bags, seat belts</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.6</Height>
+		<AxisDistance>2.6</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>48%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>48</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Aetna, insurance</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.55</Height>
+		<AxisDistance>3.0</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>44%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>44</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Maytag, appliances</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.55</Height>
+		<AxisDistance>3.4</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>44%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>44</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Freeport-McMoRan, gold mining</Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.54</Height>
+		<AxisDistance>3.8</AxisDistance>	
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>43%                                                                                                </Content>
+			<Color>2</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>43</Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

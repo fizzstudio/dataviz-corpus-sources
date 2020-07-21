@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>WorldCom is Top U.S. Bankruptcy </Content>
+		<Verb>top</Verb>
+		<Noun>WorldCom</Noun>
+	</Caption>
+	<DatePublished> July 23,2002 </DatePublished>
+	<MeasurementAxis Length="3.1">
+	<Label> Top Bankruptcies Since 1980, by company, filling date and assets (in billions)</Label>
+	</MeasurementAxis>
+	<BarAxis Length="8.3">
+	</BarAxis>
+		<Bar>
+		<Label>
+			<Content>WorldCom Inc.,July 21,2002 </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.1</Height>
+		<AxisDistance>0.2</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>107                                                                                                </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>107                                                                                                </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>true</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Enron Corp., Dec. 2,2001</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.8</Height>
+		<AxisDistance>0.9</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>49.5                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>	
+	<Value>49.5                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Texaco Inc., April 12, 1987</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.5</Height>
+		<AxisDistance>1.7</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>35.9                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>35.9                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Financial Corp. of America, Sept.9,1988</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.45</Height>
+		<AxisDistance>2.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>33.9                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>33.9                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Adelphia, June 26,2002</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.2</Height>
+		<AxisDistance>3.5</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>22.4                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>22.4                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Global Crossing Ltd., Jan.28, 2002</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.2</Height>
+		<AxisDistance>4.6</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>21.5                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>21.5                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Pacific Gas and Electric Co., April 6, 2001</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.15</Height>
+		<AxisDistance>5.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>20.2                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>20.2                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>MCorp., March 31, 1989</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.1</Height>
+		<AxisDistance>6.5</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>16.8                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>16.8                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>NTL Inc., May 8, 2002 </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.1</Height>
+		<AxisDistance>7.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>16.3                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>16.3                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Kmart Corp., Jan.22, 2002 </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1</Height>
+		<AxisDistance>8.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>15.2                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>15.2                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

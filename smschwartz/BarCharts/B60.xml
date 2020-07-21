@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="vertical" Current="true">
+	<Caption>
+		<Content>Unemployment Rate</Content>
+	</Caption>
+		<MeasurementAxis Length="3.1">
+		<Label>Lancaster County Seasonally Adjusted
+		</Label>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+		<TickValue>1%</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>2%</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>3%</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>4%</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		</MeasurementAxis>
+		<BarAxis Length="4.4">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Mar. '01</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>6</Color>
+			<Height>2.3</Height>
+			<AxisDistance>0.6</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3.0%</Content>
+			<Color>4</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Annotation>
+			<Content>One year ago</Content>
+			<Color>4</Color>
+			<Bold>true</Bold>
+			<Type>Note</Type>
+		</Annotation>
+		<Value>3</Value>
+		<BarHighlighted>true</BarHighlighted>
+		<SpecialAnnotation>true</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Jan. '02</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.9</Height>
+			<AxisDistance>1.6</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3.8%</Content>
+			<Color>5</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Value>3.8</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Feb. '02</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.0</Height>
+			<AxisDistance>2.7</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3.9%</Content>
+			<Color>5</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Value>3.9</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Mar. '02</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.8</Height>
+			<AxisDistance>3.6</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3.7%</Content>
+			<Color>5</Color>
+			<Bold>false</Bold>
+			<Type>Value</Type>
+		</Annotation>
+		<Value>2.8</Value>
+		<BarHighlighted>false</BarHighlighted>
+		<SpecialAnnotation>false</SpecialAnnotation>
+                </Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.6</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>3</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>1.5</Slope>
+			<Variance>0.6</Variance>
+		</Chunk>
+	</Division>
+</Divisions>
+	</BarChart>
+</InformationGraphic>
+

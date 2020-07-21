@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="ascending" Current="false">
+		<Caption>
+			<Content>Most men value family time over their job</Content>
+		</Caption>
+		<DatePublished>August 23, 2004</DatePublished>
+		<Source>Time</Source>
+		<MeasurementAxis Length="5.4">
+			<Label>Which of the following is closer to your point of view?</Label>
+		</MeasurementAxis>
+		<BarAxis Length="3.0">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>I would sacrifice family time for exciting opportunities and higher pay at my job</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.5</Height>
+			<AxisDistance>1.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>21%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>21</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>I would sacrifice exciting opportunities and higher pay at my j ob for more time with my family</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>5.4</Height>
+			<AxisDistance>2.7</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>72%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>72</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

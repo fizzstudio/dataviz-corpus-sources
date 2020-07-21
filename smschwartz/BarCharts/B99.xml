@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="vertical" BarsSorted="ascending" LabelsSorted="time" Current="true">
+		<Caption>
+			<Content>Arbitration awards against brokerages are soaring ...</Content>
+			<Verb>soar</Verb>
+		</Caption>
+		<DatePublished>August 16, 2004</DatePublished>
+		<Source>Business Week</Source>
+		<MeasurementAxis Length="2.75">
+		<Label>Millions of Dollars</Label>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>30</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>60</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>90</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>120</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>150</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>180</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		</MeasurementAxis>
+		<BarAxis Length="3.85">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>'00</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.15</Height>
+			<AxisDistance>0.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>80</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>'01</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.5</Height>
+			<AxisDistance>1.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>95</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>'02</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.1</Height>
+			<AxisDistance>2.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>145</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>'03</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.5</Height>
+			<AxisDistance>3.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>160</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.4</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>3</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>1.5</Slope>
+			<Variance>0.4</Variance>
+		</Chunk>
+	</Division>
+	</Divisions>
+	</BarChart>
+</InformationGraphic>
+
+

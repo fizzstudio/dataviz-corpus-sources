@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+		<Caption>
+			<Content>PBGC May Face More Troubles</Content>
+			<Adjective>more</Adjective>
+		</Caption>
+		<DatePublished>September 6, 2004</DatePublished>
+		<Source>Business Week</Source>
+		<MeasurementAxis Length="3.5">
+		<Label>Billions of Dollars</Label>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>0</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>2</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>4</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>6</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		<Tickmark>
+			<TickLabelled>true</TickLabelled>
+			<TickValue>8</TickValue>
+			<GridLine>true</GridLine>
+		</Tickmark>
+		</MeasurementAxis>
+		<BarAxis Length="3.0">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>UAL</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.7</Height>
+			<AxisDistance>0.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>8.1</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Delta Air Lines</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.5</Height>
+			<AxisDistance>0.8</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>5.7</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Northwest Airlines</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.7</Height>
+			<AxisDistance>1.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>3.8</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>AMR</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.0</Height>
+			<AxisDistance>1.8</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>2.2</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>US Airways Group</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.75</Height>
+			<AxisDistance>2.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>1.7</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Continental Airlines</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.5</Height>
+			<AxisDistance>2.8</AxisDistance>
+			<SightLine>false</SightLine>
+			<Value>1</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+

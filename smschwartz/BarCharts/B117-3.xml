@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" LabelsSorted="numeric" Current="false">
+		<Caption>
+			<Content>can we talk?</Content>
+		</Caption>
+		<DatePublished>August 23, 2004</DatePublished>
+		<Source>Time</Source>
+		<MeasurementAxis Length="3.2">
+			<Label>Men who feel comfortable discussing personal problems with others</Label>
+		</MeasurementAxis>
+		<BarAxis Length="2.1">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>18 to 24</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.2</Height>
+			<AxisDistance>0.2</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>62%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>62</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>25 to 34</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.7</Height>
+			<AxisDistance>0.6</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>53%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>53</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>35 to 49</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.6</Height>
+			<AxisDistance>1.0</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>50%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>50</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>50 to 64</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.1</Height>
+			<AxisDistance>1.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>41%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>41</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>65 and over</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>1.9</Height>
+			<AxisDistance>1.9</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>37%</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>37</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	<Divisions>
+	<Division>
+		<MinVariance>0.0</MinVariance>
+		<MaxVariance>0.4</MaxVariance>
+		<Chunk>
+			<Initial>
+				<X>0</X>
+				<Y>0</Y>
+			</Initial>
+			<Final>
+				<X>4</X>
+				<Y>0</Y>
+			</Final>
+			<Slope>-1.5</Slope>
+			<Variance>0.4</Variance>
+		</Chunk>
+	</Division>
+	</Divisions>
+	</BarChart>
+</InformationGraphic>
+

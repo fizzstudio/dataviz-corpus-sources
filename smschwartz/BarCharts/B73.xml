@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Logging on worldwide</Content>
+	</Caption>
+	<Source>USA Today</Source>
+		<MeasurementAxis Length="3.0">
+		<Label>Countries with most active Internet users in millions</Label>
+		</MeasurementAxis>
+		<BarAxis Length="3.5">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>United States</Content>
+				<Color>2</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.0</Height>
+			<AxisDistance>0.4</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>104.8                                                                                              </Content>
+			<Color>2</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+		<Value>104.8                                                                                              </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>Japan</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.6</Height>
+			<AxisDistance>1.1</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>21.6                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+		<Value>21.6                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>South Korea</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.5</Height>
+			<AxisDistance>1.8</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>18.2                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+		<Value>18.2                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>Germany</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.49</Height>
+			<AxisDistance>2.5</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>17.9                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+                <Value>17.9                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+		<Bar>
+			<Label>
+				<Content>United Kingdom</Content>
+				<Color>1</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>0.48</Height>
+			<AxisDistance>3.2</AxisDistance>
+			<SightLine>false</SightLine>
+		<Annotation>
+			<Content>17.0                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		<Type>Value</Type></Annotation>
+                <Value>17.0                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	</BarChart>
+</InformationGraphic>

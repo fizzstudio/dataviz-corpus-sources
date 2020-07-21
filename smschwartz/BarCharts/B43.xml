@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><InformationGraphic>
+<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+	<Caption>
+		<Content>Top Global Oil Producers, miilions of barrels per day </Content>
+		<Verb>top</Verb>
+	</Caption>
+	<DatePublished> April 9,2002 </DatePublished>
+	<MeasurementAxis Length="3.6">
+	<Label> (millions)</Label>
+	</MeasurementAxis>
+	<BarAxis Length="4.1">
+	</BarAxis>
+		<Bar>
+		<Label>
+			<Content>Saudi Arabia</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>3.6</Height>
+		<AxisDistance>0.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>8.03                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>8.03                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Iran</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.6</Height>
+		<AxisDistance>0.8</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>3.72                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>	
+	<Value>3.72                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Venezuella</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.2</Height>
+		<AxisDistance>1.4</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.88                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.88                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Iraq</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1.1</Height>
+		<AxisDistance>2.1</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.43                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.43                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Nigeria</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1</Height>
+		<AxisDistance>2.7</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.26                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.26                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>United Arab Emirates</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>1</Height>
+		<AxisDistance>3.3</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.26                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.26                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+	<Bar>
+		<Label>
+			<Content>Kuwait</Content>
+			<Color>1</Color>
+			<Bold>false</Bold>
+		</Label>
+		<Color>1</Color>
+		<Height>0.9</Height>
+		<AxisDistance>4</AxisDistance>
+		<SightLine>false</SightLine>
+		<Annotation>
+			<Content>2.03                                                                                               </Content>
+			<Color>1</Color>
+			<Bold>true</Bold>
+		<Type>Value</Type></Annotation>
+	<Value>2.03                                                                                               </Value><SpecialAnnotation>false</SpecialAnnotation><BarHighlighted>false</BarHighlighted></Bar>
+</BarChart>
+</InformationGraphic>

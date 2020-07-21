@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<InformationGraphic>
+	<BarChart BarDirection="horizontal" BarsSorted="descending" Current="false">
+		<Caption>
+			<Content>Types of Taxes</Content>
+		</Caption>
+		<BarAxis Length="3.6">
+		</BarAxis>
+		<Bar>
+			<Label>
+				<Content>Property taxes</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>3.1</Height>
+			<AxisDistance>0.6</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>32%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>32</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Sales taxes</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.45</Height>
+			<AxisDistance>1.5</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>25%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>25</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Other taxes</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.1</Height>
+			<AxisDistance>2.4</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>22%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>22</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+		<Bar>
+			<Label>
+				<Content>Income Taxes</Content>
+				<Color>3</Color>
+				<Bold>false</Bold>
+			</Label>
+			<Color>1</Color>
+			<Height>2.05</Height>
+			<AxisDistance>3.3</AxisDistance>
+			<SightLine>false</SightLine>
+			<Annotation>
+				<Content>21%</Content>
+				<Color>2</Color>
+				<Bold>true</Bold>
+				<Type>Value</Type>
+			</Annotation>
+			<Value>21</Value>
+			<BarHighlighted>false</BarHighlighted>
+			<SpecialAnnotation>false</SpecialAnnotation>
+		</Bar>
+	</BarChart>
+</InformationGraphic>
+
