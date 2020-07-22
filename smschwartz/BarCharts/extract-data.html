@@ -1,12 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Extract XML Data using JavaScript</title>
+  <title>Extract XML Data using JavaScript</title>
+  <style>
+
+    /* table */
+    table {
+      font-size: 15px;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 0.25rem 0.75rem;
+      text-align: left;
+      border: 1px solid  hsl(0, 0%, 60%);
+    }
+
+    th {
+      text-align: center;
+    }
+
+  </style>
 </head>
 <body>
     <p>Data extracted from an XML file</p>
     <table id="barchart_index">
-
+      <thead>
+        <tr>
+          <th>file</th>
+          <th>source</th>
+          <th>date published</th>
+          <th>caption</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
     </table>
 </body>
 
@@ -35,16 +63,28 @@
         const DatePublished = data.querySelector(`DatePublished`);
         const DatePublished_text = DatePublished ? DatePublished.textContent : "";
 
-        // make table row
-        const cells = [file, DatePublished_text, caption_text];
+        const source = data.querySelector(`Source`);
+        const source_text = source ? source.textContent : "";
 
-        const table = document.querySelector(`table#barchart_index`);
+        // make table row
+        const cells = [file, source_text, DatePublished_text, caption_text];
+
+        const table = document.querySelector(`table#barchart_index > tbody`);
 
         const row_el = table.insertRow();
 
+        let is_filename = true;
         for (let record of cells) {
           let cell = document.createElement(`td`);
-          cell.textContent = record;
+          if (is_filename) {
+            let a = document.createElement(`a`);
+            a.setAttribute(`href`, record);
+            a.textContent = record;
+            cell.appendChild(a);
+            is_filename = false;
+          } else {
+            cell.textContent = record;
+          }
           row_el.appendChild(cell);
         }
         table.appendChild(row_el);

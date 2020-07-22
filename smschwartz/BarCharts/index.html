@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bar Chart Corpus</title>
+  <style>
+    /* table */
+    table {
+      font-size: 15px;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      padding: 0.25rem 0.5rem;
+      text-align: left;
+      border: 1px solid hsl(0, 0%, 60%);
+    }
+
+    th {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bar Chart Corpus</h1>
+  <p>Included by permission from <a href="http://cs.millersville.edu/~schwartz">Stephanie Schwartz, Ph.D. Professor and Chair of Computer Science, Millersville University</a>.</p>
+
+  <table id="barchart_index">
+    <thead>
+      <tr>
+        <th>file</th>
+        <th>source</th>
+        <th>date published</th>
+        <th>caption</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="B2.xml">B2.xml</a></td>
+        <td></td>
+        <td> August 13,2002 </td>
+        <td>India's reported cases</td>
+      </tr>
+      <tr>
+        <td><a href="B25.xml">B25.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Carrying a Balance</td>
+      </tr>
+      <tr>
+        <td><a href="B3.xml">B3.xml</a></td>
+        <td> BusinessWeek</td>
+        <td></td>
+        <td>A Growing Biotech Market</td>
+      </tr>
+      <tr>
+        <td><a href="B4.xml">B4.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> March 24,2003 </td>
+        <td>China's Deficits Keep Rising</td>
+      </tr>
+      <tr>
+        <td><a href="B6.xml">B6.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Civilians Serving the Defense Department</td>
+      </tr>
+      <tr>
+        <td><a href="B10.xml">B10.xml</a></td>
+        <td> Intelligencer Journal</td>
+        <td> March 10,2003 </td>
+        <td>Measuring Home Improvement Stores</td>
+      </tr>
+      <tr>
+        <td><a href="B8.xml">B8.xml</a></td>
+        <td>Intelligencer Journal</td>
+        <td> March 1,2003 </td>
+        <td>UGI Monthly Gas Rates</td>
+      </tr>
+      <tr>
+        <td><a href="B13.xml">B13.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> April 7,2003 </td>
+        <td>Employers are Ending Retiree Health Coverage</td>
+      </tr>
+      <tr>
+        <td><a href="B14.xml">B14.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> April 7,2003 </td>
+        <td> Bas Moon Rising</td>
+      </tr>
+      <tr>
+        <td><a href="B15-1.xml">B15-1.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> March 31,2003 </td>
+        <td>A Growing Consumer Menace</td>
+      </tr>
+      <tr>
+        <td><a href="B15-2.xml">B15-2.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> March 31,2003 </td>
+        <td>The Expense is Expected to Soar</td>
+      </tr>
+      <tr>
+        <td><a href="B19-1.xml">B19-1.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Countries with the Most Hacker Attacks, 2002</td>
+      </tr>
+      <tr>
+        <td><a href="B16.xml">B16.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Decade of High-Octane Growth</td>
+      </tr>
+      <tr>
+        <td><a href="B17.xml">B17.xml</a></td>
+        <td>BusinessWeek</td>
+        <td></td>
+        <td> Click,Click,Ka-Ching</td>
+      </tr>
+      <tr>
+        <td><a href="B18.xml">B18.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td> More Communication Towers</td>
+      </tr>
+      <tr>
+        <td><a href="B19-2.xml">B19-2.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Top Types of Web Scams, 2002</td>
+      </tr>
+      <tr>
+        <td><a href="B21.xml">B21.xml</a></td>
+        <td></td>
+        <td></td>
+        <td> Active Users</td>
+      </tr>
+      <tr>
+        <td><a href="B22.xml">B22.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Tennis Players Top Nominees</td>
+      </tr>
+      <tr>
+        <td><a href="B23.xml">B23.xml</a></td>
+        <td></td>
+        <td> December 4,2002 </td>
+        <td> AOL's ad Revenue Expected to Decline </td>
+      </tr>
+      <tr>
+        <td><a href="B26.xml">B26.xml</a></td>
+        <td></td>
+        <td> Septemmber 23,2002 </td>
+        <td>Spending Increases From 2001 to 2002</td>
+      </tr>
+      <tr>
+        <td><a href="B27.xml">B27.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Boating Deaths Decline</td>
+      </tr>
+      <tr>
+        <td><a href="B24.xml">B24.xml</a></td>
+        <td></td>
+        <td></td>
+        <td> Yearly Ridership </td>
+      </tr>
+      <tr>
+        <td><a href="B28.xml">B28.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Mother's Day Shopping</td>
+      </tr>
+      <tr>
+        <td><a href="B30.xml">B30.xml</a></td>
+        <td></td>
+        <td> July 30,2002 </td>
+        <td> Unemployment Rate, Lancaster Country, Seasonally Adjusted</td>
+      </tr>
+      <tr>
+        <td><a href="B29.xml">B29.xml</a></td>
+        <td>USA Today</td>
+        <td>May 31, 2002</td>
+        <td>Basic Performers</td>
+      </tr>
+      <tr>
+        <td><a href="B31.xml">B31.xml</a></td>
+        <td></td>
+        <td></td>
+        <td> Construction Spending</td>
+      </tr>
+      <tr>
+        <td><a href="B32.xml">B32.xml</a></td>
+        <td></td>
+        <td> April 9,2002 </td>
+        <td>Net Income</td>
+      </tr>
+      <tr>
+        <td><a href="B33.xml">B33.xml</a></td>
+        <td></td>
+        <td></td>
+        <td> Construction Spending</td>
+      </tr>
+      <tr>
+        <td><a href="B35.xml">B35.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Germans Miss Their Marks</td>
+      </tr>
+      <tr>
+        <td><a href="B38-1.xml">B38-1.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> March 14,2003 </td>
+        <td>Chirac is Riding High in the Polls </td>
+      </tr>
+      <tr>
+        <td><a href="B36.xml">B36.xml</a></td>
+        <td>USA Today</td>
+        <td> April 3,2003 </td>
+        <td>Running Tops in Sneaker Wear in 2002 </td>
+      </tr>
+      <tr>
+        <td><a href="B37.xml">B37.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td> Air Force has Largest Percentage of Women</td>
+      </tr>
+      <tr>
+        <td><a href="B38-2.xml">B38-2.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> April 14,2003 </td>
+        <td>Even While the Economy is Sputtering</td>
+      </tr>
+      <tr>
+        <td><a href="B39-2.xml">B39-2.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> March 14,2003 </td>
+        <td>Combined With Falling Fares </td>
+      </tr>
+      <tr>
+        <td><a href="B39-3.xml">B39-3.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> April 14, 2003 </td>
+        <td>and Hammered Them in the Stock Market</td>
+      </tr>
+      <tr>
+        <td><a href="B40-1.xml">B40-1.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Top U.S. Sectors Receiving Venture Capital, 2002, in billions </td>
+      </tr>
+      <tr>
+        <td><a href="B41.xml">B41.xml</a></td>
+        <td>BusinessWeek</td>
+        <td> April 14,2003 </td>
+        <td> Percentage of women</td>
+      </tr>
+      <tr>
+        <td><a href="B42-2.xml">B42-2.xml</a></td>
+        <td></td>
+        <td> April,2003 </td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="B40-2.xml">B40-2.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Top Metro Areas Receiving Venture Capital, 2002, in billions </td>
+      </tr>
+      <tr>
+        <td><a href="B43.xml">B43.xml</a></td>
+        <td></td>
+        <td> April 9,2002 </td>
+        <td>Top Global Oil Producers, miilions of barrels per day </td>
+      </tr>
+      <tr>
+        <td><a href="B42-1.xml">B42-1.xml</a></td>
+        <td>Money</td>
+        <td>April 2003</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="B48.xml">B48.xml</a></td>
+        <td>Intelligencer Journal</td>
+        <td> May 29,2002 </td>
+        <td>Unemployement Rate</td>
+      </tr>
+      <tr>
+        <td><a href="B47.xml">B47.xml</a></td>
+        <td></td>
+        <td> July 23,2002 </td>
+        <td>WorldCom is Top U.S. Bankruptcy </td>
+      </tr>
+      <tr>
+        <td><a href="B51.xml">B51.xml</a></td>
+        <td>Intelligencer Journal</td>
+        <td>November 25, 2002</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="B53.xml">B53.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Drop in Donations</td>
+      </tr>
+      <tr>
+        <td><a href="B54.xml">B54.xml</a></td>
+        <td>Intelligencer Journal</td>
+        <td>May 13, 2002</td>
+        <td>Connected</td>
+      </tr>
+      <tr>
+        <td><a href="B56.xml">B56.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Connected</td>
+      </tr>
+      <tr>
+        <td><a href="B60.xml">B60.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Unemployment Rate</td>
+      </tr>
+      <tr>
+        <td><a href="B65-2.xml">B65-2.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Advertising, in billions</td>
+      </tr>
+      <tr>
+        <td><a href="B65-1.xml">B65-1.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Direct Marketing, in billions</td>
+      </tr>
+      <tr>
+        <td><a href="B69.xml">B69.xml</a></td>
+        <td>Intelligencer Journal</td>
+        <td>August 2, 2002</td>
+        <td>Lancaster rainfall totals for July</td>
+      </tr>
+      <tr>
+        <td><a href="B71-old.xml">B71-old.xml</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a href="B71.xml">B71.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>South Africa Tops in Gold Production</td>
+      </tr>
+      <tr>
+        <td><a href="B72.xml">B72.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>The sound of sales</td>
+      </tr>
+      <tr>
+        <td><a href="B73.xml">B73.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Logging on worldwide</td>
+      </tr>
+      <tr>
+        <td><a href="B75-1.xml">B75-1.xml</a></td>
+        <td>Business Week</td>
+        <td>February 3, 2003</td>
+        <td>Southwest's Big Cost Advantage</td>
+      </tr>
+      <tr>
+        <td><a href="B74.xml">B74.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Delaware Bankruptcy</td>
+      </tr>
+      <tr>
+        <td><a href="B75-2.xml">B75-2.xml</a></td>
+        <td>Business Week</td>
+        <td>February 3, 2003</td>
+        <td>Southwest has delivered top margins</td>
+      </tr>
+      <tr>
+        <td><a href="B75-3.xml">B75-3.xml</a></td>
+        <td>Business Week</td>
+        <td>February 3, 2003</td>
+        <td>Expansion is slowing down</td>
+      </tr>
+      <tr>
+        <td><a href="B75-4.xml">B75-4.xml</a></td>
+        <td>Business Week</td>
+        <td>February 3, 2003</td>
+        <td>Profits are getting squeezed</td>
+      </tr>
+      <tr>
+        <td><a href="B76.xml">B76.xml</a></td>
+        <td>Intelligencer Journal</td>
+        <td>September 18, 2002</td>
+        <td>Factory Output</td>
+      </tr>
+      <tr>
+        <td><a href="B77.xml">B77.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Ups and Downs</td>
+      </tr>
+      <tr>
+        <td><a href="B81-1.xml">B81-1.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>More Unmarried Couples are Cohabiting</td>
+      </tr>
+      <tr>
+        <td><a href="B81-2.xml">B81-2.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Divorce Rates in the U.S. Are High</td>
+      </tr>
+      <tr>
+        <td><a href="B82.xml">B82.xml</a></td>
+        <td>Newsweek</td>
+        <td>December 15, 2003</td>
+        <td>Rising Jury Awards</td>
+      </tr>
+      <tr>
+        <td><a href="B83.xml">B83.xml</a></td>
+        <td>Business Week</td>
+        <td>August 8, 2003</td>
+        <td>With a Recovery Looking More Likely...</td>
+      </tr>
+      <tr>
+        <td><a href="B85.xml">B85.xml</a></td>
+        <td>Business Week</td>
+        <td>August 8, 2003</td>
+        <td>Cable on the Rise</td>
+      </tr>
+      <tr>
+        <td><a href="B86.xml">B86.xml</a></td>
+        <td>Business Week</td>
+        <td>August 4, 2003</td>
+        <td>Lights Out</td>
+      </tr>
+      <tr>
+        <td><a href="B87.xml">B87.xml</a></td>
+        <td>Business Week</td>
+        <td>August 4, 2003</td>
+        <td>Building Fast</td>
+      </tr>
+      <tr>
+        <td><a href="B88-1.xml">B88-1.xml</a></td>
+        <td>Newsweek</td>
+        <td>April 26, 2004</td>
+        <td>Seeking Help</td>
+      </tr>
+      <tr>
+        <td><a href="B88-2.xml">B88-2.xml</a></td>
+        <td>Newsweek</td>
+        <td>April 26, 2004</td>
+        <td>Who Gets Treated</td>
+      </tr>
+      <tr>
+        <td><a href="B88-3.xml">B88-3.xml</a></td>
+        <td>Newsweek</td>
+        <td>April 26, 2004</td>
+        <td>Loss of Productivity</td>
+      </tr>
+      <tr>
+        <td><a href="B90.xml">B90.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Notable Meetings</td>
+      </tr>
+      <tr>
+        <td><a href="B91.xml">B91.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>U.S. viewed with skepticism</td>
+      </tr>
+      <tr>
+        <td><a href="B92.xml">B92.xml</a></td>
+        <td>USA Today</td>
+        <td></td>
+        <td>Tight Iowa Race</td>
+      </tr>
+      <tr>
+        <td><a href="B96.xml">B96.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Types of Taxes</td>
+      </tr>
+      <tr>
+        <td><a href="B98.xml">B98.xml</a></td>
+        <td>Wilmington News Journal</td>
+        <td>September 17, 2004</td>
+        <td>Card Debt Soars</td>
+      </tr>
+      <tr>
+        <td><a href="B97.xml">B97.xml</a></td>
+        <td>Newsweek</td>
+        <td>May 17, 2004</td>
+        <td>% of classmates who are poor</td>
+      </tr>
+      <tr>
+        <td><a href="B99.xml">B99.xml</a></td>
+        <td>Business Week</td>
+        <td>August 16, 2004</td>
+        <td>Arbitration awards against brokerages are soaring ...</td>
+      </tr>
+      <tr>
+        <td><a href="B100.xml">B100.xml</a></td>
+        <td>Business Week</td>
+        <td>August 16, 2004</td>
+        <td>A Growing World Economy</td>
+      </tr>
+      <tr>
+        <td><a href="B102.xml">B102.xml</a></td>
+        <td>Business Week</td>
+        <td>September 6, 2004</td>
+        <td>PBGC May Face More Troubles</td>
+      </tr>
+      <tr>
+        <td><a href="B101.xml">B101.xml</a></td>
+        <td>Business Week</td>
+        <td>September 6, 2004</td>
+        <td>Back to School</td>
+      </tr>
+      <tr>
+        <td><a href="B103.xml">B103.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Soaring Demand for Servers</td>
+      </tr>
+      <tr>
+        <td><a href="B106-2.xml">B106-2.xml</a></td>
+        <td>Business Week</td>
+        <td>September 13, 2004</td>
+        <td>American Express Customers Spend More Than With Rival Cards</td>
+      </tr>
+      <tr>
+        <td><a href="B106-3.xml">B106-3.xml</a></td>
+        <td>Business Week</td>
+        <td>September 13, 2004</td>
+        <td>American Express' Billings Still Lag</td>
+      </tr>
+      <tr>
+        <td><a href="B106-1.xml">B106-1.xml</a></td>
+        <td>Business Week</td>
+        <td>September 13, 2004</td>
+        <td>American Express Customers Use Their Cards More Often</td>
+      </tr>
+      <tr>
+        <td><a href="B106-5.xml">B106-5.xml</a></td>
+        <td>Business Week</td>
+        <td>September 13, 2004</td>
+        <td>American Express Needs More Merchants to Accept Them</td>
+      </tr>
+      <tr>
+        <td><a href="B106-4.xml">B106-4.xml</a></td>
+        <td>Business Week</td>
+        <td>September 13, 2004</td>
+        <td>American Express Needs to Get More Cards Out</td>
+      </tr>
+      <tr>
+        <td><a href="B107.xml">B107.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Caution: Obstacles Ahead</td>
+      </tr>
+      <tr>
+        <td><a href="B108.xml">B108.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>VW's Slide</td>
+      </tr>
+      <tr>
+        <td><a href="B109.xml">B109.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Married Couples Who Can Afford a Policy</td>
+      </tr>
+      <tr>
+        <td><a href="B110-1.xml">B110-1.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Net worth has recovered</td>
+      </tr>
+      <tr>
+        <td><a href="B110-2.xml">B110-2.xml</a></td>
+        <td>Money</td>
+        <td>July 2004</td>
+        <td>Profits are up big-time</td>
+      </tr>
+      <tr>
+        <td><a href="B111.xml">B111.xml</a></td>
+        <td>National Journal</td>
+        <td>December 13, 2003</td>
+        <td>A Do-Nothing Congress?</td>
+      </tr>
+      <tr>
+        <td><a href="B113.xml">B113.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>The DJIA Trailed Other Indexes</td>
+      </tr>
+      <tr>
+        <td><a href="B115.xml">B115.xml</a></td>
+        <td></td>
+        <td></td>
+        <td>Wall Street Sees Red</td>
+      </tr>
+      <tr>
+        <td><a href="B116-1.xml">B116-1.xml</a></td>
+        <td>Time</td>
+        <td>August 16, 2004</td>
+        <td>Fear of a terrorist attack in the U.S.:</td>
+      </tr>
+      <tr>
+        <td><a href="B116-2.xml">B116-2.xml</a></td>
+        <td>Time</td>
+        <td>August 16, 2004</td>
+        <td>Following the Homeland Security warnings:</td>
+      </tr>
+      <tr>
+        <td><a href="B116-3.xml">B116-3.xml</a></td>
+        <td>Time</td>
+        <td>August 16, 2004</td>
+        <td>What's the most important issue affecting your vote?</td>
+      </tr>
+      <tr>
+        <td><a href="B117-1.xml">B117-1.xml</a></td>
+        <td>Time</td>
+        <td>August 23, 2004</td>
+        <td>Despite the intense financial demands placed on men, most do not define success through work</td>
+      </tr>
+      <tr>
+        <td><a href="B117-2.xml">B117-2.xml</a></td>
+        <td>Time</td>
+        <td>August 23, 2004</td>
+        <td>Most men prefer hanging hanging out with family</td>
+      </tr>
+      <tr>
+        <td><a href="B117-3.xml">B117-3.xml</a></td>
+        <td>Time</td>
+        <td>August 23, 2004</td>
+        <td>can we talk?</td>
+      </tr>
+      <tr>
+        <td><a href="B117-4.xml">B117-4.xml</a></td>
+        <td>Time</td>
+        <td>August 23, 2004</td>
+        <td>Most men value family time over their job</td>
+      </tr>
+      <tr>
+        <td><a href="B120.xml">B120.xml</a></td>
+        <td>Business Week</td>
+        <td>December 29, 2003</td>
+        <td>Explosive Growth</td>
+      </tr>
+      <tr>
+        <td><a href="B118.xml">B118.xml</a></td>
+        <td>Business Week</td>
+        <td>December 29, 2003</td>
+        <td>SUV Surge</td>
+      </tr>
+      <tr>
+        <td><a href="B122.xml">B122.xml</a></td>
+        <td>Time</td>
+        <td>September 20, 2004</td>
+        <td>Number of INS fines against employers for immigration-law violations</td>
+      </tr>
+      <tr>
+        <td><a href="B121.xml">B121.xml</a></td>
+        <td>Time</td>
+        <td>September 20, 2004</td>
+        <td>Legal Immigration to the U.S. has been rising for decades</td>
+      </tr>
+      <tr>
+        <td><a href="B124-1.xml">B124-1.xml</a></td>
+        <td>U.S. News and World Report</td>
+        <td>June 28, 2004</td>
+        <td>People Who Say Religion Plays a Very Important Role in Their Lives</td>
+      </tr>
+      <tr>
+        <td><a href="B124-2.xml">B124-2.xml</a></td>
+        <td>U.S. News and World Report</td>
+        <td>June 28, 2004</td>
+        <td>U.S. Credit Card Debt</td>
+      </tr>
+      <tr>
+        <td><a href="B124-3.xml">B124-3.xml</a></td>
+        <td>U.S. News and World Report</td>
+        <td>June 28, 2004</td>
+        <td>Gross Domestic Product per Capita, 2001</td>
+      </tr>
+      <tr>
+        <td><a href="B124-4.xml">B124-4.xml</a></td>
+        <td>U.S. News and World Report</td>
+        <td>June 28, 2004</td>
+        <td>Military Budgets in 2003</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
