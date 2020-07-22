@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Extract XML Data using JavaScript</title>
+</head>
+<body>
+    <p>Data extracted from an XML file</p>
+    <table id="barchart_index">
+
+    </table>
+</body>
+
+<script>
+
+  const files = ["B2.xml", "B3.xml", "B4.xml", "B6.xml", "B8.xml", "B10.xml", "B13.xml", "B14.xml", "B15-1.xml", "B15-2.xml", "B16.xml", "B17.xml", "B18.xml", "B19-1.xml", "B19-2.xml", "B21.xml", "B22.xml", "B23.xml", "B24.xml", "B25.xml", "B26.xml", "B27.xml", "B28.xml", "B29.xml", "B30.xml", "B31.xml", "B32.xml", "B33.xml", "B35.xml", "B36.xml", "B37.xml", "B38-1.xml", "B38-2.xml", "B39-2.xml", "B39-3.xml", "B40-1.xml", "B40-2.xml", "B41.xml", "B42-1.xml", "B42-2.xml", "B43.xml", "B47.xml", "B48.xml", "B51.xml", "B53.xml", "B54.xml", "B56.xml", "B60.xml", "B65-1.xml", "B65-2.xml", "B69.xml", "B71-old.xml", "B71.xml", "B72.xml", "B73.xml", "B74.xml", "B75-1.xml", "B75-2.xml", "B75-3.xml", "B75-4.xml", "B76.xml", "B77.xml", "B81-1.xml", "B81-2.xml", "B82.xml", "B83.xml", "B85.xml", "B86.xml", "B87.xml", "B88-1.xml", "B88-2.xml", "B88-3.xml", "B90.xml", "B91.xml", "B92.xml", "B96.xml", "B97.xml", "B98.xml", "B99.xml", "B100.xml", "B101.xml", "B102.xml", "B103.xml", "B106-1.xml", "B106-2.xml", "B106-3.xml", "B106-4.xml", "B106-5.xml", "B107.xml", "B108.xml", "B109.xml", "B110-1.xml", "B110-2.xml", "B111.xml", "B113.xml", "B115.xml", "B116-1.xml", "B116-2.xml", "B116-3.xml", "B117-1.xml", "B117-2.xml", "B117-3.xml", "B117-4.xml", "B118.xml", "B120.xml", "B121.xml", "B122.xml", "B124-1.xml", "B124-2.xml", "B124-3.xml", "B124-4.xml"];
+
+  files.forEach(file => {
+    // console.log(file);
+    fetch(file)
+      .then( response =>  response.text() )
+      .then((str) => {
+        let xml = null;
+        try {
+          console.log(file)
+          xml = (new window.DOMParser()).parseFromString(str, "text/xml");
+        } catch(err) {
+          console.log(file, err.message);
+        }
+        return xml;
+      })
+      .then((data) => {
+        // console.log(data)
+        const caption = data.querySelector(`Caption > Content`);
+        const caption_text = caption ? caption.textContent : "";
+        const DatePublished = data.querySelector(`DatePublished`);
+        const DatePublished_text = DatePublished ? DatePublished.textContent : "";
+
+        // make table row
+        const cells = [file, DatePublished_text, caption_text];
+
+        const table = document.querySelector(`table#barchart_index`);
+
+        const row_el = table.insertRow();
+
+        for (let record of cells) {
+          let cell = document.createElement(`td`);
+          cell.textContent = record;
+          row_el.appendChild(cell);
+        }
+        table.appendChild(row_el);
+      })
+  });
+</script>
+</html>
