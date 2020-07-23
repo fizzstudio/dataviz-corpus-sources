@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G291">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Japan's e-commerce sales
+	</y-axis>
+  <legend>
+    <series id="1">
+			1998
+		</series>
+    <series id="2">
+			2003
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Sales to consumers
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.65 trillion yen
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.2 trillion yen
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Business-to-business
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.6 trillion yen
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				64.8 trillion yen
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

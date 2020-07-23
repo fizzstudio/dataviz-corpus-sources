@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G222">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Portion of establishments that offered health insurance to employees in 2004, by size of establishment:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Massachusetts
+		</series>
+    <series id="2">
+			U.S.
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			More than 50 employees
+		</label>
+    <bar id="1">
+      <annotated_value>
+				100%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				96
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Less than 50 employees
+		</label>
+    <bar id="1">
+      <annotated_value>
+				52.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				41.9
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G379">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Chrysler gross profit per vehicle
+		</series>
+    <series id="2">
+			Industry average profit per vehicle
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3,716
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$3,544
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$4,192
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$3,962
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3,624
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$4,063
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,382
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$3,591
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,147
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$4,770
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,845
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$3,624
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

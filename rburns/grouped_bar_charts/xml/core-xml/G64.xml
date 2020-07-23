@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G64">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		$bn
+	</y-axis>
+  <legend>
+    <series id="1">
+			China
+		</series>
+    <series id="2">
+			Taiwan
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2000
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			01
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			02
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			03
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			04
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

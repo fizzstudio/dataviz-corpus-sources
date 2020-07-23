@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G219">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		GDP per capita
+	</y-axis>
+  <legend>
+    <series id="1">
+			2006
+		</series>
+    <series id="2">
+			1997
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Hong Kong
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$27,526
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$26,400
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Shenzhen
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$8,800
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$3,692
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G332">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Pay bills at home
+		</label>
+    <bar id="1">
+      <annotated_value>
+				52%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				72%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Make investment choices
+		</label>
+    <bar id="1">
+      <annotated_value>
+				57%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Set budget for expenses
+		</label>
+    <bar id="1">
+      <annotated_value>
+				51%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Use personal finance software
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Bank online
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Pay bills online
+		</label>
+    <bar id="1">
+      <annotated_value>
+				11%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G334">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Republican convention
+		</series>
+    <series id="2">
+			Democratic convention
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				21%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				38%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

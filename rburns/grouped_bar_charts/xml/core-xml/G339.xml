@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G339">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Percentage
+	</y-axis>
+  <legend>
+    <series id="1">
+			AMCs
+		</series>
+    <series id="2">
+			For-profit research centers
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1991
+		</label>
+    <bar id="1">
+      <annotated_value>
+				79
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				21
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1993
+		</label>
+    <bar id="1">
+      <annotated_value>
+				67
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				33
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				55
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				45
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				57
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				38
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				62
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G283">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Here's how long it takes to keep records, learn and then prepare some of the most common tax forms:
+	</y-axis>
+  <legend>
+    <series id="1">
+			1992
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Form 1040
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9:27
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12:16
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Schedule A (Itemized deductions)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4:05
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5:19
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Schedule B (Interest and dividends)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1:00
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1:05
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Schedule C (Business profit / loss)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9:15
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9:44
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Schedule D (Capital gains)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3:54
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4:59
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Schedule E (Supplemental income / loss)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5:14
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5:15
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			EIC (Earned income credit)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1:45
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0:16
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

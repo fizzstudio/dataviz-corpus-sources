@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G362">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			1998
+		</series>
+    <series id="2">
+			2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Traditional plan
+		</label>
+    <bar id="1">
+      <annotated_value>
+				68%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				52%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Hybrid plan
+		</label>
+    <bar id="1">
+      <annotated_value>
+				22%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Contribution or 401(k) only
+		</label>
+    <bar id="1">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

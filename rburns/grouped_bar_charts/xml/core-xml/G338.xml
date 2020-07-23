@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G338">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Grass
+		</series>
+    <series id="2">
+			Turf
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1990
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			2001
+		</label>
+    <bar id="1">
+      <annotated_value>
+				24
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

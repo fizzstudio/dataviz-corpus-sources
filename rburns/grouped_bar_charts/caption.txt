@@ -1,0 +1,1057 @@
+ID: G1
+Caption-Headline: Women more likely to delay medical treatment
+ID: G2
+Headline: Markets' prices shelve thrill of new selections
+Caption-Headline: The price to eat
+Caption-Text: Since the war, food prices have skyrocketed for Iraqis. More food is available, but prices have increased broadly for all items. Most food is still cheaper than what Americans pay.
+ID: G3
+Headline: Still troubled
+Sub-Headline: Northern Ireland staggers toward normality
+Caption-Headline: Catching up
+ID: G4
+Headline: Price problem hits home
+Sub-Headline: High support for affordable housing may drown out its opponents
+Caption-Headline: Where affordable housing ranks as issue
+Caption-Text: How would you rate the important of these issues in your area?
+ID: G5
+Headline: SCIENCE CURRICULUM WINS NATIONAL PRAISE
+Sub-Headline: Expert: Delaware project motivated students to learn
+Caption-Headline: Performance
+Caption-Text: Science test scores have climbed steadily since 2000, the first year that children in public school across the state were tested in the subject.
+ID: G6
+Headline: Media companies notice the sexiness of business news
+Sub-Headline: Business may be journalism's 'last growth industry'
+Caption-Headline: 'Journal' circulation holds steady, but with discounts
+Caption-Text: &lt;i&gt;The Wall Street Journal&lt;/i&gt; continues to be a big seller, but a growing proportion of readers take advantage of discounts -- including sales of the electronic edition.
+Continuation-Headline: With Social Security's future bleak, everyone needs investment news</Continuation-Headline>
+ID: G7-1
+Headline: Stop Pretending Nothing's Wrong
+Sub-Headline: It's hard for men to admit or even recognize their own depression. How to get help.
+Caption-Headline: Boys Don't Cry: Men and Depression
+Caption-Text: Men are less likely to admit they're depressed than women, and may turn to alcohol, drugs and violent behavior instead of seeking treatment. A look at who's affected and how:
+ID: G7-2
+Headline: Stop Pretending Nothing's Wrong
+Sub-Headline: It's hard for men to admit or even recognize their own depression. How to get help.
+Caption-Headline: Boys Don't Cry: Men and Depression
+Caption-Text: Men are less likely to admit they're depressed than women, and may turn to alcohol, drugs and violent behavior instead of seeking treatment. A look at who's affected and how:
+ID: G8
+Headline: Commercial Real Estate Shows Bubble Signs, Too
+Sub-Headline: Values Rose 3% to Record In 2nd Quarter, Study Says, Aided by Increasing Rents
+Caption-Headline: Overvalued?
+ID: G9
+Caption-Headline: Just as Secure, but Faster
+Caption-Text: Programs that, say, compress files and compile code run faster with Jun Yang's new method than they do on a standard decryption (XOM) chip.
+ID: G10-A
+Headline: Online Recreation
+Caption-Headline: Daily life on the Net
+Caption-Text: Significantly more Americans accessed new, weather, political, travel, and religious information online in 2004 than did in 2000.
+ID: G10-B
+Headline: Online Recreation
+Caption-Headline: Online-content spending
+Caption-Text: The overall market for paid content (excluding pornography and gambling) has grown from $664 million in 2001 to $1.8 billion in 2004.
+ID: G11-A
+Headline: Fear at the Front
+Sub-Headline: All soldiers are brave in the face of battle--until the battle breaks out. The war of nerves, and how the troops preparing for conflict with Iraq are coping with it.
+Caption-Headline: To the Ramparts
+Caption-Text: Washington may launch the war, but it's up to the troops to win it.
+Continuation-Headline: Target: Iraq</Continuation-Headline>
+ID: G11-B
+Headline: Fear at the Front
+Sub-Headline: All soldiers are brave in the face of battle--until the battle breaks out. The war of nerves, and how the troops preparing for conflict with Iraq are coping with it.
+Caption-Headline: To the Ramparts
+Caption-Text: Washington may launch the war, but it's up to the troops to win it.
+Continuation-Headline: Target: Iraq</Continuation-Headline>
+ID: G12-A
+Headline: Microsoft's Cultural Revolution
+Sub-Headline: How the software giant is rethinking the way it does business in the world's largest market
+Caption-Headline: Microsoft Cozies Up to China
+Caption-Text: Microsoft's strategy has evloved to meet the realities of business in China. The focus now is cooperation with the government and other firms. Some highlights along the way:
+ID: G12-B
+Headline: Microsoft's Cultural Revolution
+Sub-Headline: How the software giant is rethinking the way it does business in the world's largest market
+Caption-Headline: Microsoft Cozies Up to China
+Caption-Text: Microsoft's strategy has evloved to meet the realities of business in China. The focus now is cooperation with the government and other firms. Some highlights along the way:
+ID: G13
+Headline: Universities gird for battle for bioscience supremacy
+Caption-Headline: Follow the money
+Caption-Text: Universities are expanding biotech programs as the federal government shifts more research money to life sciences.
+Continuation-Headline: Stem-cell research emerging as a promising area of biotech discovery</Continuation-Headline>
+ID: G14
+Headline: THE ENIGMA OF RUSSIA
+Sub-Headline: The economy is booming. But is the country really changing?
+Caption-Headline: The Bad News
+Caption-Sub-Headline: ...LIFE EXPECTANCY IS SHORT...
+Continuation-Headline: The crackdown on oligarch Khodorkovsky has deeply alarmed business and foreign investors</Continuation-Headline>
+ID: G15-1
+Headline: Two Major Airlines Seen Near Filing for Bankruptcy
+Caption-Headline: Problems With Cash Flow
+Caption-Text: Increasing fuel costs and dwindling cash assets have contributed to the financial woes of Delta and Northwest Airlines. Both companies are having difficulty meeting the cost of pension plans.
+Continuation-Headline: Northwest and Delta Are Said to Be Near Filing for Bankruptcy</Continuation-Headline>
+ID: G15-2
+Headline: Two Major Airlines Seen Near Filing for Bankruptcy
+Caption-Headline: Problems With Cash Flow
+Caption-Text: Increasing fuel costs and dwindling cash assets have contributed to the financial woes of Delta and Northwest Airlines. Both companies are having difficulty meeting the cost of pension plans.
+Continuation-Headline: Northwest and Delta Are Said to Be Near Filing for Bankruptcy</Continuation-Headline>
+ID: G16-1
+Headline: A Small Town Reveals America's Digital Divide
+Sub-Headline: EQUALITY HAS YET TO REACH THE NET
+Caption-Headline: WIRED AMERICA: WHITE, URBAN, AND COLLEGE-EDUCATED
+ID: G16-2
+Headline: A Small Town Reveals America's Digital Divide
+Sub-Headline: EQUALITY HAS YET TO REACH THE NET
+Caption-Headline: WIRED AMERICA: WHITE, URBAN, AND COLLEGE-EDUCATED
+ID: G16-3
+Headline: A Small Town Reveals America's Digital Divide
+Sub-Headline: EQUALITY HAS YET TO REACH THE NET
+Caption-Headline: WIRED AMERICA: WHITE, URBAN, AND COLLEGE-EDUCATED
+ID: G17
+Headline: Report: Non-traditional media gain ground, consumers
+Sub-Headline: Fact-checking ceding to 'journalism of assertion'
+Caption-Headline: State of the news
+ID: G18
+Caption-Headline: Women's academic mastery
+ID: G19
+Headline: Katrina victims struggle mentally
+Sub-Headline: Post-traumatic stress still rising, study shows
+Caption-Headline: Illness lingers
+ID: G20-A
+Headline: Tsunami aid pushes up U.S. image, while Iraq pulls it down, poll finds
+Caption-Headline: Global attitudes shift with U.S. actions
+Caption-Text: U.S. tsunami relief effort boosted image:
+ID: G20-B
+Headline: Tsunami aid pushes up U.S. image, while Iraq pulls it down, poll finds
+Caption-Headline: Global attitudes shift with U.S. actions
+Caption-Text: Re-election of President Bush weakened it:
+ID: G21
+Headline: A Mixed Bag of U.S. Institutions
+Caption-Headline: Patenting trends among survey respondents
+ID: G22-A
+Headline: SPREADING SUBPRIME PAIN
+Sub-Headline: Many homeowners with adjustable mortgages face growing monthly payments. Some wonder where the money will come from.
+Caption-Headline: The Rise of Subprimes
+Caption-Text: From 2003 to 2005, the overall volume of mortgage lending in the region fell from $50.45 billion to $37.75 billion, but lenders on the Department of Housing and Urban Development's list of companies that specialize in subprime loans increased their business from $3.65 billion, or 7 percent of the total, to $4.97 billion, of 13 percent of the total.
+Continuation-Headline: Subprime pain: A spreading woe</Continuation-Headline>
+ID: G22-B
+Headline: SPREADING SUBPRIME PAIN
+Sub-Headline: Many homeowners with adjustable mortgages face growing monthly payments. Some wonder where the money will come from.
+Caption-Headline: The Rise of Subprimes
+Caption-Text: From 2003 to 2005, the overall volume of mortgage lending in the region fell from $50.45 billion to $37.75 billion, but lenders on the Department of Housing and Urban Development's list of companies that specialize in subprime loans increased their business from $3.65 billion, or 7 percent of the total, to $4.97 billion, of 13 percent of the total.
+Continuation-Headline: Subprime pain: A spreading woe</Continuation-Headline>
+ID: G23
+Headline: Choosing Virginity
+Sub-Headline: A New Attitude: Few teenagers are having sex. As parents and politicians debate the merits of abstinence programs, here's what the kids have to say.
+Caption-Headline: Teens &amp; Sexuality
+Caption-Text: Raised in the age of AIDS and better educated about sex and abstinence, more teens are saying &quot;no.&quot; Condom use is up and teen pregnancy is down. A look at the trends:
+ID: G24
+Headline: Planning the new socialist countryside
+Sub-Headline: Spooked by angry peasants, China raises spending
+Caption-Headline: Guns and butter
+ID: G25
+Headline: Obesity can run in social circles
+Sub-Headline: Study: Peers affect ideas on fat and thin
+Caption-Headline: Heavier Americans
+Caption-Text: The average weight of women and men ages 20-74 has jumped over the past four decades (in pounds):
+ID: G26
+Headline: Perseverance may pay off for chipmaker
+Sub-Headline: Founder and CEO of Nvidia has weathered tough times but sees brighter days ahead
+Caption-Headline: Nvidia grows up, looks for new markets
+Continuation-Headline: Intel, shift to laptops could be hurdles for Nvidia's traditional business</Continuation-Headline>
+ID: G27
+Headline: Troubled Legacy: Auto Industry, at a Crossroads, Finds Itself Stalled by History
+Sub-Headline: From Sales to Labor Costs, Once-Storied GM, Ford Grapple with Past Practices; A Need to 'Change or Die'
+Caption-Headline: Shrinking Giants
+Caption-Text: Market capitalization for Ford and General Motors
+Continuation-Headline: Auto Industry Finds Itself Stalled</Continuation-Headline>
+ID: G28
+Headline: Is Someone Listening to Your Phone Calls?
+Sub-Headline: Bush's decision to allow the National Security Agency not to obtain warrants before eavesdropping on Americans communicating with people overseas has stirred up a firestorm.
+Caption-Headline: Expanding use of FISA
+Caption-Text: Congress passed the Foreign Intelligence Surveillance Act in 1978 to govern electronic surveillance used for foreign intelligence gathering. While the number of domestic federal wiretaps has remained steady over the past decade, wiretaps authorized under FISA have jumped.
+ID: G29
+Headline: Climate model predicts hot decade
+Sub-Headline: As Pacific gets warmer, so will temperatures
+Caption-Headline: Warming trend
+Caption-Text: How much the average temperature is expected to increase worldwide when compared to the total average for the years 1979 to 2001:
+ID: G30
+Caption-Headline: How to gain civil rihts
+Caption-Text: Which method adults believe is the best to gain one's civil rights:
+ID: G31
+Headline: China's Trade Surplus Tripled, topping $100 Billion Last Year
+Caption-Headline: Fueling Friction
+ID: G32-A
+Headline: Will gas prices dent SUV sales?
+Sub-Headline: Automakers say buyers won't change
+Caption-Headline: Import automakers forge ahead
+Caption-Text: Import automakers have increased market share in the USA during the past decade. They have done it by dominating the number of car models available and more than doubling the number of truck models they sell.
+ID: G32-B
+Headline: Will gas prices dent SUV sales?
+Sub-Headline: Automakers say buyers won't change
+Caption-Headline: Import automakers forge ahead
+Caption-Text: Import automakers have increased market share in the USA during the past decade. They have done it by dominating the number of car models available and more than doubling the number of truck models they sell.
+ID: G32-C
+Headline: Will gas prices dent SUV sales?
+Sub-Headline: Automakers say buyers won't change
+Caption-Headline: Import automakers forge ahead
+Caption-Text: Import automakers have increased market share in the USA during the past decade. They have done it by dominating the number of car models available and more than doubling the number of truck models they sell.
+ID: G33
+Caption-Headline: First-in-Class Ain't What It Used to Be
+Caption-Text: In the pharmaceutical sector, the amount of time in which a new product has a market all to itself has diminished considerably over the past several decades. By the late 1990s, it wasn't uncommon for a first-in-class drug (the first drug to use a particular molecular mechanism to treat a condition) to have several competitors in various stages of clinical development--even before it was approved. A few decades ago, a new drug would have a corner on the market for about eight years. Now, that figure is closer to two years.
+ID: G34
+Caption-Headline: Latest CD rates
+ID: G35
+Caption-Headline: PAULSON'S WORLD
+Caption-Sub-Headline: ...while Goldman Sachs has added debt faster than the U.S. government
+ID: G36
+Headline: Amtrak revives plan for fare increases
+Caption-Headline: Commuters Facing Fare Hikes
+Caption-Text: Amtrak has announced large increases for monthly pass customers starting next month. See story on B2.
+ID: G37
+Headline: Thai-made pickups crisscross globe
+Sub-Headline: Japanese automakers shift production bases, lured by lower taxes, currency
+Caption-Headline: Made in Siam
+ID: G38
+Headline: People to shoulder higher healthcare burden
+Caption-Headline: Widening gap
+ID: G39
+Headline: Record cases in contract probe
+Sub-Headline: Crackdown aims at 'second insurgency'
+Caption-Headline: Cut off
+ID: G40
+Caption-Headline: Security clearance helps shrink pay gap
+Caption-Text: The pay gap between men and women narrows for jobs that require security clearance.
+ID: G41
+Headline: Top execs stick to expansion in China after revaluation
+Sub-Headline: Japan chief officers project yuan to gain 5-10% in 1 year, but basic strategy unchanged
+Caption-Headline: Soaring
+ID: G42
+Headline: New policies revive failed insurers
+Sub-Headline: Qualified workers chosen over mass hires to retain staff, lower policy cancelations
+Caption-Headline: Higher productivity
+Caption-Sub-Headline: Profiles of AIG Edison and AIG Star
+ID: G43
+Headline: Betting on specialized products, wide sales channels
+Caption-Headline: Pension plans
+ID: G44
+Headline: Explosive potential foreseen
+Caption-Headline: New media
+ID: G45
+Headline: Funds' property holding to hit ¥10 tln
+Sub-Headline: Real estate funds own 15% of rental properties amid warnings of overheating
+Caption-Headline: Institutional landlords
+ID: G46
+Headline: Gain a spouse and you'll likely gain some pounds, too, in first 5 years of marriage
+Sub-Headline: Newly hitched couples add more weight than singles
+Caption-Headline: Marriage penalty
+ID: G47
+Headline: Amid Europe's Gloom, Spain Blossoms With Short-Term Jobs
+Sub-Headline: Employers Benefit From Shift, But New Workers Complain About Loss of Security; Mr. Ruano Ekes Out a Living
+Caption-Headline: Staying Ahead
+ID: G48
+Headline: American Express Tries to Find Its Place With a Younger Crowd
+Sub-Headline: Fearing Slowdown, Executives Reward Urban Customers With Glam Drinks, Dancing; Asking Interns What's Cool
+Caption-Headline: Charged Up
+ID: G49
+Headline: Pentagon Envisions Operations With Small Satellites
+Sub-Headline: Technical, Budget Problems With Big Ones Spark Push For Cheaper, Flexible Birds
+Caption-Headline: Fueling Up
+ID: G51
+Headline: Leap Forward: For Adidas, Reebok Deal Caps Push to Broaden Urban Appeal
+Sub-Headline: Known for Its Engineering, German Company Takes on Nike in Lifestyle Market; Teaming Up With Missy Elliott
+Caption-Headline: New Competition
+Caption-Text: Adidas's acquisition of Reebok may help it challenge Nike.
+ID: G52
+Caption-Headline: Life on campus
+ID: G53
+Headline: As Generics Pummel Its Drugs, Pfizer Faces Uncertain Future
+Sub-Headline: Insurers Gain Skill in Battling Company's Marketing; Sales of Lipitor Stagnate; Developing a New Cancer Pill
+Caption-Headline: Cholesterol Fight
+ID: G54
+Headline: Blunt-Talking Bernanke Warns of Inflation Risks
+Sub-Headline: Remarks to Congress Suggest Interest-Rate Boost Is Likely; Industrials Hit 5-Year High
+Caption-Headline: Room to Grow?
+Caption-Text: How the economy grew in 2005 and Fed officials' outlook for the next two years
+Continuation-Headline: Bernanke Warns of Inflation</Continuation-Headline>
+ID: G55
+Headline: As Detroit Slashes Car Jobs, Southern Towns Pick Up Slack
+Sub-Headline: Seeking Improving Education And High-Skill Workers, Overseas Firms Pour In; Osceola's Charter-School Spat
+Caption-Headline: Passing Muster
+ID: G56
+Headline: LG.Philips Fourth-Quarter Net Surged on Strong LCD Demand
+Caption-Headline: Picturesque
+ID: G57
+Headline: Overseas and Energy Funds Sweep Top Honors in 2005
+Caption-Sub-Headline: Midcap stock funds take top spot on the by-size podium...
+ID: G58
+Headline: World's largest banking group sets sail
+Caption-Headline: Banking goliath
+ID: G60
+Headline: All serene
+Sub-Headline: Our correspondent is leaving South-East Asia after four years. He reports that politics and economics there have never seemed so smooth
+Caption-Headline: Laying the crisis to rest
+ID: G61
+Headline: Grossly distorted picture
+Sub-Headline: It's high time that economists looked at more than just GDP
+Caption-Headline: Fair play
+ID: G62
+Caption-Headline: Changing face of AIDS
+ID: G64
+Headline: Getting acquainted
+Sub-Headline: Taiwan's government hopes India may lure its businessmen away from China
+Caption-Headline: Second string
+ID: G65
+Headline: The politics of power
+Sub-Headline: Concerns about security have driven the liberalisation of Europe's energy market into reverse
+Caption-Headline: A mixed-up market
+ID: G66
+Headline: Growing pains
+Sub-Headline: As institutional investors move in, hedge funds are losing some rough edges--and their spectacular returns
+Caption-Headline: Hedging their bets
+ID: G67
+Headline: How to Fix No Child Left Behind
+Sub-Headline: The landmark law has reshaped public education, exposed failing schools and made them accountable. It's also flawed. Here's our report card on the statute--and ideas for making it better
+Caption-Headline: Early Report Card. The law demands that schools get better, bur progress may be in the eye of the beholder
+Caption-Sub-Headline: 2. LESS SCIENCE AND HISTORY
+Caption-Text: Because state assessment tests focus on reading and math, others subjects get squeezed out.
+ID: G68
+Caption-Headline: Growth Opportunities
+ID: G69-A
+Headline: India's shoppers want only best, lots of it
+Sub-Headline: Spending power rises 'by the day'
+Caption-Headline: More discretionary funds
+Caption-Text: India's spending will shift from basic necessities to discretionary items.
+ID: G70
+Headline: Just to be fair, we gave them another shot.
+Sub-Headline: (Ford Fusion beat Camry and Accord twice.)
+Caption-Headline: FUSION CHALLENGE
+Caption-Text: Results from 400 drivers in L.A., who were asked if the cars were attractive, fun to drive, performed well and handled with prevision. &quot;Yes&quot; responses scored one point. &quot;No&quot; responses scored zero. The results speak for themselves.
+ID: G71
+Headline: Fair to Middling in the Middle Class
+Caption-Headline: The Vanishing Middle?
+Caption-Text: Although the middle class is shrinking, it is because more households are becoming richer, not poorer.
+Continuation-Headline: The Untimely, and Untrue, Death of America's Middle Class</Continuation-Headline>
+ID: G72
+Caption-Headline: Performance vs. Competitors:
+Caption-Text: The Capital Appreciation Fund's expense ratio was 0.73% as of its first fiscal year ended December 31, 2006; the Lipper Flexible Portfolio Funds Average expense ratio was 1.62%. Lipper expenses are based on fiscal year-end data available as of March 31, 2007.
+ID: G73
+Headline: TRIPLE your money
+Sub-Headline: 25 ways to earn 200% over five, eight, ten, 15 or 20 years. It's easier than you think.
+Caption-Headline: TRIPLE PLAYS
+Caption-Sub-Headline: How long they will take
+Caption-Text: It's no surprise that investment classes with the biggest long-term returns take the least time to triple. But the bigger gainers tend to be more erratic year to year.
+ID: G74
+Headline: Why stocks are a BARGAIN
+Caption-Headline: RISK VS. REWARD
+Caption-Sub-Headline: Stocks and bonds face off
+Caption-Text: Standard deviation is a measure of volatility--the lower the number, the less returns will jump up and down from period to period. Stocks return far more than bonds over time, so you'd expect their volatility to be proportionally greater, too. But that's not the case.
+ID: G75
+Headline: GETTING the BETTER HALF
+Sub-Headline: In a little-noticed trend, women are finally achieving financial parity in divorce settlements--and men are goggle-eyed at the price tag. How an ex-wife's share can add up to 70 percent.
+Caption-Headline: For Better or for Worse
+Caption-Sub-Headline: Divorce is financially crippling to both men and women, especially compared with married people.
+ID: G76
+Headline: You and me and baby makes $197,700
+Sub-Headline: 10 tips to child-proof your finances from staggering costs
+Caption-Headline: Cost of raising a child
+Caption-Text: A middle-income family will spend nearly $198,000 to raise a child from birth to age 17; the higher your income, the more you tend to spend on your child.
+ID: G77
+Headline: IS IT TIME FOR A new NEW DEAL?
+Sub-Headline: Americans are prosperous, but worried--about jobs, health care, retirement. Now some in Washington are asking if life really needs to be this risky.
+Caption-Headline: 1 Economy, 2 Stories. By quite a few measures, the U.S. economy has performed great. By others, there's legitimate cause for worry.
+Caption-Sub-Headline: THE ANXIETY ECONOMY
+Caption-Text: Families are having to work longer hours.
+ID: G78
+Caption-Headline: Active year for tornadoes
+ID: G80
+Headline: THE OUTLOOK IS STRONGEST FOR LARGE-CAP GROWTH STOCKS
+Sub-Headline: Time for growth to take a turn
+Caption-Headline: VALUE FUNDS HAVE BEEN ON TOP SINCE 2000, GROWTH'S TURN SOON?
+ID: G81-A
+Caption-Headline: THE EXIT POLLS
+Caption-Sub-Headline: How Clinton Won
+Caption-Text: 57% of New Hampshire voters were women, and they went strong for Clinton
+ID: G81-B
+Caption-Headline: THE EXIT POLLS
+Caption-Sub-Headline: How Clinton Won
+Caption-Text: Obama captured first-time voters, but Clinton was strong among older voters
+ID: G81-C
+Caption-Headline: THE EXIT POLLS
+Caption-Sub-Headline: How Clinton Won
+Caption-Text: Clinton also carried Democrats, who outnumbered independents 54% to 44%
+ID: G81-D
+Caption-Headline: THE EXIT POLLS
+Caption-Sub-Headline: How McCain Won
+Caption-Text: More than one-third of voters were independents, and they flocked to McCain
+ID: G82-A
+Caption-Headline: Poll: What Black Voters Are Thinking
+Caption-Sub-Headline: HOW BLACK AMERICANS LINE UP POLITICALLY
+Caption-Text: By age
+ID: G82-B
+Caption-Headline: Poll: What Black Voters Are Thinking
+Caption-Sub-Headline: HOW BLACK AMERICANS LINE UP POLITICALLY
+Caption-Text: By education
+ID: G82-C
+Caption-Headline: Poll: What Black Voters Are Thinking
+Caption-Sub-Headline: HOW BLACK AMERICANS LINE UP POLITICALLY
+Caption-Text: By annual income
+ID: G83
+Caption-Headline: Local Donations to Presidential Candidates in 2007
+Caption-Sub-Headline: More than a third of the &lt;b&gt;$7.1 million&lt;/b&gt; raised by presidential candidates in the Philadelphia area came from 10 zip codes, all in Center City, Chestnut Hill, or the Main Line.
+Caption-Text: Breakdown by region
+ID: G84
+Caption-Headline: Child Mortality Reaches Record Low
+Caption-Text: For the first time ever, UNICEF has reported that the number of child deaths for the year has fallen below 10 million. Fifteen of the least developed countries have reduced the under-5 mortality rate 40% of more since 1990, thanks to vaccines, health education, mosquito nets and a little vitamin A.
+ID: G85
+Caption-Headline: Dismal Jobs Report, Especially For The Kids
+Caption-Sub-Headline: Service-related firms, which account for the bulk of employment and hiring, barely added staff last month as retailers and temp agencies slashed jobs. Factories and builders shed workers again. Wage gains have cooled. The jobless-rate spike was led by a record rise in teen unemployment.
+Caption-Text: Unemployment by age
+ID: G86
+Caption-Text: Chief executive departures 2008 vs. 2007
+ID: G87
+Headline: Price Of Not Extending Bush Cuts: Return To Historically High Taxes
+Caption-Headline: Effective Tax Rates Under Clinton And Bush
+Caption-Text: The cuts that President Bush pushed through reduced the tax burden for almost everyone making more than $20,000. Failing to extend the cuts would return taxes to levels that were among the highest on record
+ID: G88
+Headline: 12-Month Fund Flow
+ID: G89
+Headline: Mortgage Delinquencies, Foreclosures at Record High
+ID: G90
+Headline: Deciphering the Puzzle: Life with Autism
+Sub-Headline: As the number of children diagnosed with autism continues to increase, more and more families must learn to deal with its effects.
+Caption-Headline: Autism on the Rise
+ID: G91
+Headline: Comcast wins complaint
+Sub-Headline: Verizon cannot use inside info to retain customers.
+Caption-Headline: Grabbing The Phone
+Caption-Text: Comcast has steadily gained landline telephone subscribers as Verizon has lost them.
+ID: G92
+Headline: Down pipes
+Sub-Headline: Opium use has fallen in the past century--except for America
+ID: G93
+Headline: Who leads on the issues?
+ID: G94
+Headline: A mixed outlook
+ID: G96
+Headline: No contest
+ID: G98
+Headline: Misunderstood?
+ID: G99
+Headline: Chinese leapfrog
+ID: G100
+Headline: On the march?
+ID: G101
+Headline: Rich pickings
+ID: G102
+Headline: Addicted
+ID: G103
+Headline: The toll of war
+ID: G104
+Headline: Differing opinions
+ID: G105
+Headline: Legacy-Minded Bush Loyalist Fights Foes of 'No Child' Law
+Caption-Headline: No Child Left Behind: By the Numbers
+Caption-Sub-Headline: FINANCING FOR THE INITIATIVE
+Continuation-Headline: Legacy-Minded Bush Loyalist Fights to Save 'No Child' Law</Continuation-Headline>
+ID: G106
+Headline: Good Times Left Lehman Unprepared for the Bad
+Caption-Headline: Capital Management
+Continuation-Headline: Lehman's Actions During the Good Times Left It Unprepared for the Bad</Continuation-Headline>
+ID: G107
+Caption-Headline: Earnings Now--and Later
+Caption-Text: Every college graduate knows that not all careers are created equal. But according to a new report from salary-survey company PayScale, differences in earnings can widen with time. Results for the 10 most popular college majors:
+ID: G108
+Headline: Newspaper Circulation Falls Sharply
+Caption-Text: Most of the country's 25 largest daily newspapers reported lower circulation than a year earlier. Over all, the 2.8 percent drop was the largest in 15 years.
+ID: G109
+Headline: Wall Street's Women Face a Fork in the Road
+Caption-Headline: A Matter of Degrees
+Caption-Text: Five our of 12 major business schools had a slight decrease in the female enrollment in the class of 2007 compared with the class of 2003.
+ID: G110
+Headline: At AOL, a Plan for a Clean Break
+Caption-Headline: Changing Views
+Caption-Text: Fewer people have visited some of the higher volume AOL Web services in the last year. However, interest has grown among some of the lesser used services, including pages that list horoscopes, recipes and financial advice.
+ID: G111
+Headline: When Sweet Statistics Clash With a Sour Mood
+Caption-Headline: Family Values
+Caption-Text: The American family's net worth, on average, rose about 6 percent from 2001 to 2004. But the median net worth--the midpoint that separates the top 50 percent from the lower 50 percent--barely rose, and remained less than one-fourth as large as the average.
+ID: G112
+Headline: New York Gets Sobering Look at Its Pensions
+Caption-Headline: Pension Gap
+Caption-Text: While New York City says its annual reports that its five pension plans for city workers are fully funded, an alternative calculation by the city's chief actuary suggest that the city has a substantial shortfall. The state allowed the city to postpone a portion of the actuary's recommended increased contributions to pensions from 2001 to 2005.
+ID: G115
+Headline: TV On-Demand May Make Ads More Targeted
+Caption-Headline: New Media?
+ID: G116
+Headline: Venture-Capitalists Think Large
+Sub-Headline: Bigger Chunks of Cash Are Going Into Later-Staged Companies; Visto Corp. Raises $70 Million
+Caption-Headline: Arriving Late
+Caption-Sub-Headline: The percentage of venture-capital financing in more-established companies is on the rise.
+ID: G117
+Caption-Headline: Age-old battle
+Caption-Text: Older on-the-go gamers favor Sony's PSP over the Nintendo DS, according to research.
+ID: G118
+Caption-Headline: Belief in the afterlife increases
+Caption-Text: The percentage of Jewish people who said they believed in life after death more than doubled between 1973 and 2004. Meanwhile, the percentage among Protestants and Catholics, already high, grew slightly.
+ID: G119
+Headline: The hospital they just couldn't save
+Caption-Headline: Uninsured patients on the rise
+Caption-Sub-Headline: PAYMENT METHOD FOR ST. FRANCIS PATIENTS
+Caption-Text: Citing tens of millions of dollars in losses related to uninsured patients who cannot pay their bills, St. Francis Hospital &amp; Health Center will be shuttered.
+ID: G122
+Caption-Headline: FORECLOSURE NUMBERS DIVERGING
+Caption-Text: While the number of foreclosures is leveling off in Minneapolis, it's rising three times as fast in the rest of the county.
+ID: G123
+Caption-Headline: Minnesota boys' and girls' math scores
+Caption-Sub-Headline: 11TH GRADE
+Caption-Text: A new study shows the gender gap in math test scores has disappeared in high schools across the United States, but not yet in Minnesota.
+ID: G124
+Caption-Headline: STATE DEVASTATED BY FLOODING
+Caption-Text: Iowa's governor had declared 83 of the state's 99 counties as state disaster areas by Friday. Nine rivers were at or above historic flood levels.
+ID: G126
+Caption-Headline: OVERWEIGHT AND OBESITY RISING
+Caption-Text: Adults considered overweight increased by 50 percent and those who are obese more than doubled in the United States from 1980 to 2000. By 2004, two thirds of all adult Americans qualified as overweight and of those nearly half were obese.
+ID: G127
+Caption-Headline: CONFLICTING TALLIES
+ID: G129
+Caption-Headline: ATTITUDES LINKED TO PARTY IDENTITY
+ID: G130
+Headline: Still or sparkling?
+Sub-Headline: Where bottled water is most popular
+ID: G131
+Headline: Connecting the dragon
+Sub-Headline: China now has more internet users than America
+ID: G132
+Headline: Big bucks
+Sub-Headline: Presidential candidates are raising and spending more money than ever
+ID: G133
+Headline: Goldfingers
+Sub-Headline: How traders' testosterone levels affect their income
+ID: G134
+Headline: The cost of war
+Sub-Headline: Deaths of women and children in Gaza
+ID: G135
+Headline: Bah, humbug!
+Sub-Headline: The company Christmas party is falling victim to the credit crunch
+ID: G137
+Headline: Going up
+Sub-Headline: University attendance is growing
+ID: G138
+Headline: Weighed down
+Sub-Headline: Rich countries, especially, are piling up debt
+ID: G139
+Headline: Foreigners, go home
+Sub-Headline: Where hostility to migrants is most intense
+ID: G140-A
+Headline: London Falling
+Sub-Headline: Fueled by a finance boom, the city was a magnet for money and talent. Now a darker era looms
+Caption-Headline: By the Numbers. London's wealth has been driven by its success in finance
+Caption-Sub-Headline: FINANCIAL CAPITAL
+Caption-Text: The source of the city's economic strength has shifted over 20 years
+ID: G140-B
+Headline: London Falling
+Sub-Headline: Fueled by a finance boom, the city was a magnet for money and talent. Now a darker era looms
+Caption-Headline: By the Numbers. London's wealth has been driven by its success in finance
+Caption-Sub-Headline: ASSET MANAGEMENT
+Caption-Text: London has eaten into New York City's share of the global hedge-fund market
+ID: G141
+Caption-Headline: Washington
+Caption-Sub-Headline: A RECESSION WINDFALL FOR RECRUITERS
+Caption-Text: With layoffs sweeping the country, all branches of the militray have met or surpassed their recruiting goals in recent months as Americans look for stable employment. In the fiscal year that ended in September, the military surpassed its goal by adding 184,841 new active-duty service members.
+ID: G142
+Caption-Headline: The world according to GM: A look at the Detroit automaker's deep reach in Michigan, the United States and around the globe
+Caption-Sub-Headline: Around the world
+Caption-Text: While GM's operations around the world are performing fairly well, the company's critical North America operations remain deeply troubled.
+ID: G143
+Caption-Headline: Housing sales start seasonal climb
+Caption-Text: Call it the holiday blahs, but home sales generally are slower in January, then start to pick up after the Super Bowl, according to Northeast Ohio real estate agents.
+ID: G144
+Caption-Headline: Yahoo's losing battle against Google
+Caption-Sub-Headline: Yahoo's declining share of searches
+Caption-Text: Since Google's IPO in April 2004, its revenue and profit have grown to overshadow Yahoo's. In addition, Google is catching up to Yahoo in the number of unique visitors to its sites. In December 2006, Yahoo sites registered 131 million unique visitors to Google's 113 million. In December 2007, that gap had narrowed to 137 million for Yahoo compared with 133 million for Google.
+ID: G145
+Caption-Headline: Largest U.S. airlines
+ID: G146
+Caption-Headline: Steel imports drop, exports rise, prices soar
+Caption-Text: A weak dollar has helped keep steel imports at bay, while providing more export opportunities for U.S. steel makers and their U.S. customers. Both factors, along with strong demand, have contributed to a historic rise in steel prices.
+ID: G147
+Caption-Headline: The price of gas around the globe
+Caption-Text: Here is how gasoline prices in the United States compare with other countries with competitive markets.
+ID: G148
+Caption-Headline: FirstEnergy's costs and charges
+Caption-Sub-Headline: Fuel cost increases
+Caption-Text: FirstEnergy Corp. proposed modest rate increases over the next three years for its three Ohio companies in a filing with state regulators Thursday. FirstEnergy's average residential prices have been above the national average for the last decade, but the difference is expected to narrow because of rising fuel prices and transmission costs.
+ID: G149
+Caption-Headline: Median household income up
+Caption-Text: Median household income grew from 2006 to 2007, although Cleveland remains among the lowest in the nation.
+ID: G150
+Caption-Headline: Tougher stance on low-level drug abusers
+Caption-Text: Even as the number pleading guilty to a single drug-possession charge has increased in Cuyahoga County, the percentage allowed to plead to a misdemeanor has plummeted.
+ID: G151
+Caption-Headline: Death toll on decline
+Caption-Text: Ohio is on track to have fewer motor vehicle fatalities in 2008 than in any of the last 75 years. That is reflected in local numbers.
+ID: G152
+Caption-Headline: First-time jobless claims spike in fourth quarter
+Caption-Text: New claims for unemployment benefits in Ohio skyrocketed toward the end of last year, far outpacing a typical fourth quarter. And for the year, claims were up over the same period in 2007 for each month since March.
+ID: G153-A
+Caption-Headline: Serpentini Sales
+Caption-Sub-Headline: New car sales
+Caption-Text: New car sales have been down at each of Serpentini Chevrolet's four dealerships this year, though used-car sales are up at two.
+ID: G153-B
+Caption-Headline: Serpentini Sales
+Caption-Sub-Headline: Used car sales
+Caption-Text: New car sales have been down at each of Serpentini Chevrolet's four dealerships this year, though used-car sales are up at two.
+ID: G154
+Caption-Headline: It's the thought that counts
+Caption-Sub-Headline: What we give
+Caption-Text: Tough economic times means that average Valentine's Day spending is expected to decline 17 percent this year. We will be giving less candy, jewelry and clothing and sending more cards instead, the National Retail Federation says.
+ID: G156
+Headline: For A.C. casinos, low figures in high season
+Caption-Headline: Atlantic City and Pa. Gambling 'Win'
+Caption-Sub-Headline: The amount gamblers lost and casinos gained in June.
+Caption-Text: A.C. casinos grossed $322.7 million in June, a 13.6 decline decrease from a year earlier.
+Continuation-Headline: A weak June for A.C. casinos</Continuation-Headline>
+ID: G157-A
+Headline: Turbulent times for major U.S. airlines
+Sub-Headline: Even as some gains are being reported, nearly all are making schedule and workforce cuts.
+Caption-Headline: Declining Revenue
+Caption-Text: Three major airlines reported declines in revenue and passengers in the second quarter.
+Continuation-Headline: Airlines</Continuation-Headline>
+ID: G157-B
+Headline: Turbulent times for major U.S. airlines
+Sub-Headline: Even as some gains are being reported, nearly all are making schedule and workforce cuts.
+Caption-Headline: Declining Revenue
+Caption-Text: Three major airlines reported declines in revenue and passengers in the second quarter.
+Continuation-Headline: Airlines</Continuation-Headline>
+ID: G158
+Headline: Parking fines easy cash for cities
+Sub-Headline: But bills' extra bite may leave tourists with bitter taste
+Caption-Headline: Rising fines
+Caption-Text: Some municipalities that have raised parking fines this year:
+ID: G159
+Headline: Germany's carmakers take the green road
+Sub-Headline: Luxury buyers can expect to see an array of choices
+Caption-Headline: Gasoline alternatives expected to grow
+Continuation-Headline: Greener luxury cars come with high prices</Continuation-Headline>
+ID: G160
+Headline: A Magic Moment For Ford of Europe
+Sub-Headline: It's been cashing in on Europe's cash-for-clunkers programs, but the future could be dicier
+Caption-Headline: WEATHERING THE SLUMP
+ID: G161
+Headline: RETIREMENT THE BIG RETHINK
+Caption-Headline: AFTER THE CRASH
+Caption-Text: The stock market's descent sliced about 30% from the net worth of an imaginary Jill and Jack crash. How much must they dial back their living standards? Depends on how many years they have until retirement, according to software from Economic Security Planner.
+ID: G162
+Headline: NUMBERS
+Sub-Headline: AS THE ECONOMIC FEAR FACTOR WANES, OBAMA SLIPS A NOTCH
+Caption-Headline: Reversal:
+Caption-Text: Democrats were the gloomier party in December. Now Republicans are more negative.
+ID: G163
+Headline: New credit card rules start Thursday
+Caption-Headline: Under the wire
+Caption-Sub-Headline: Credit card issuers have been hiking some rates and fees before the terms of the new credit card law take effect.
+Caption-Text: Recent hikes: The prime rate fell 2 percentage points this year, but the average variable rate on cards dropped about 1 percentage point
+ID: G164-A
+Headline: NUMBERS
+Sub-Headline: WHERE TO FIND THE HIGHEST YIELDS
+Caption-Headline: RATES AROUND THE WORLD
+Caption-Text: Central banks in Pakistan and Hungary actually raised short-term interest rates over the past year. Target-rate cuts in Britain and Chile were among the deepest.
+ID: G164-B
+Headline: NUMBERS
+Sub-Headline: WHERE TO FIND THE HIGHEST YIELDS 
+Caption-Text: Yield Curve: The U.S. has a big gap between short- and long-term rates.
+ID: G165
+Headline: FIELD GENERAL
+Sub-Headline: Triumphant just a few years ago, the ethanol industry now finds itself embattled. Environmentalists are turning their backs on it, and it's even catching flak for higher food prices. Enter Wesley Clark to rally the troops.
+Caption-Headline: Living on the Margin
+Caption-Text: WHEN CORN WAS CHEAP, WALL STREET POURED MONEY INTO ETHANOL. BUT PRICIER CORN AND CHEAPER ETHANOL HAVE DIMMED INVESTORS' INTEREST.
+ID: G166
+Headline: EUROPE: THE YOUNG AND THE JOBLESS
+Sub-Headline: With one in five Gen Yers unable to find work, a new &quot;Lost Generation&quot; may be in the making
+Caption-Headline: CONTINENTAL DRIFT
+ID: G167
+Headline: Moscow market's closure upsets Beijing
+Sub-Headline: Thriving wholesale venue filled with Chinese goods stirs authorities' ire; owner punished for lavish move, some say
+Caption-Headline: Market traders
+Caption-Text: The unexpected shutdown of the sprawling Cherkizovsky market in Moscow has stirred trade tensions between China and Russia.
+ID: G168
+Headline: Temple University is raising its standards
+Caption-Headline: Making the Grade
+Caption-Text: With applications up 50 percent since 2000, Temple University is becoming tougher to get into.
+Continuation-Headline: The changing nature of Temple University</Continuation-Headline>
+ID: G169
+Headline: Renovating Home Depot
+Sub-Headline: That's part of CFO Carol Tome's job, and after the housing bust it's tougher than most--but the lessons are valuable for anyone.
+Caption-Headline: A Tighter Race
+Caption-Text: AS HOME DEPOT SLOWS ITS PACE OF NEW-STORE OPENINGS, LOWE'S IS CATCHING UP
+ID: G170-A
+Headline: NUMBERS
+Sub-Headline: PROFITS PERK UP AT LARGE U.S. COMPANIES
+Caption-Headline: WHERE MARGINS ARE GETTING FATTER
+Caption-Text: Profit margins at health-care, utility, consumer staples, and consumer discretionary companies have actually improved in the past year.
+ID: G170-B
+Headline: NUMBERS
+Sub-Headline: PROFITS PERK UP AT LARGE U.S. COMPANIES
+Caption-Headline: Playing catch-up:
+Caption-Text: Net income reported by many of America's most profitable companies remains below year-earlier levels.
+ID: G171
+Headline: NUMBERS
+Sub-Headline: EDUCATION, EMPLOYMENT, AND EARNINGS
+Caption-Headline: Educational Enrichment:
+Caption-Text: Workers with college diplomas received the biggest dollar pay increases over the past year.
+ID: G172-A
+Headline: Why the Statistics Point Toward Progress
+Sub-Headline: Hans Rosling, a Swedish physician and thinker, argues that the recession is just a tiny setback
+Caption-Headline: LONGER LIVES, LARGER INCOMES
+Caption-Text: Around the globe, lifespans are dramatically increasing, and incomes are rising
+ID: G172-B
+Headline: Why the Statistics Point Toward Progress
+Sub-Headline: Hans Rosling, a Swedish physician and thinker, argues that the recession is just a tiny setback
+Caption-Headline: LONGER LIVES, LARGER INCOMES
+Caption-Text: Around the globe, lifespans are dramatically increasing, and incomes are rising
+ID: G173
+Headline: How Dr. Z plans to fix Mercedes
+Sub-Headline: Daimler CEO Dieter Zetsche is considering an agreement with BMW, rebranding Mercedes, and gambling on the future of green cars.
+Caption-Headline: MERCEDES GOES INTO A SKID
+Caption-Text: The German automaker is losing money as well as ground to rivals Audi and BMW.
+ID: G174
+Headline: Obesity Rates Hit Plateau in U.S., Data Suggest 
+Caption-Headline: Tracking Obesity Trends
+Caption-Text: A study by the Centers for Disease Control and Prevention shows that obesity continues to be a concern in the United States for all age and race groups.
+ID: G175
+Caption-Headline: Working hours
+Caption-Text: The average number of hours worked each year has been falling in most rich countries over the past 15 years. In 2004, the Japanese worked 12% fewer hours than in 1990. Most Europeans have also been working less: 10% fewer hours in France and 6% fewer in Germany. Americans and New Zealanders toiled the most in 2004, while the average Dutch worker put in around 25% fewer hours than his American counterpart. 
+ID: G176
+Headline: Listen to Music Free, but Pay to Carry
+Caption-Headline: Same Tune, New Player
+Caption-Text: Growth in digital music downloads has not been rapid enough to offset declining CD sales despite brisk iPod sales.
+ID: G177
+Headline: Eyes on the Road: Reframing Talk on Small-Car Safety
+Caption-Headline: A Decade of Difference
+ID: G178
+Headline: Advertising: Meredith Builds Up a Sideline in Marketing
+Sub-Headline: Magazine Owner Supplements Its Print-Ad Revenue by Taking on Email and Mobile-Media Campaigns for Clients
+Caption-Headline: Growing Gap
+ID: G179
+Headline: Bonus Blowback Bypasses Brokers
+Sub-Headline: Retention Pay, Signing Awards Get Thrown at Top Talent; a $10 Million Payout at Smith Barney
+Caption-Headline: Getting Their Cut
+ID: G180
+Headline: After Greece, Now the Real Sovereign-Debt Challenge
+Caption-Headline: Age Concern
+ID: G181
+Headline: Investment Dollars Flow To Green Energy Start-Ups
+Caption-Headline: Green for Green
+ID: G182
+Headline: Patents in China Hit a Record
+Sub-Headline: Multinationals Say Policies Will Crimp Investment in Technology Development
+Caption-Headline: Bright Ideas
+ID: G183
+Headline: At Piedmont, Paltry Payout Seen for IPO
+Caption-Headline: Market Timing
+ID: G184
+Headline: AT&amp;T Details Plans for Upgrading Network
+Sub-Headline: Carrier Earmarks Up to $19 Billion to Boost Capacity as Earnings Show How Important iPhone Is to Its Wireless Growth
+Caption-Headline: Customer Support
+Caption-Text: Apple's iPhone has driven AT&amp;T's wireless growth
+ID: G185
+Headline: IPhone Emerges at Core of Apple
+Caption-Headline: Good Call
+ID: G186
+Headline: World News: Foreign Takeovers Take a Toll in U.K.
+Sub-Headline: Kraft's Acquisition of Cadbury Feeds Discontent That Nation Is Losing Locally Controlled Industries
+Caption-Headline: Crossing Borders
+Caption-Text: Foreign takeovers in the U.K. amount to more than those in Japan and Germany, two larger economies.
+ID: G187
+Headline: World News: Rating Agency Knocks Japan's Outlook
+Sub-Headline: S&amp;P Warns of Downgrade Unless Policy Makers Can Reverse Deflationary Spiral While Reducing Public Spending
+Caption-Headline: Outpaced
+ID: G188
+Headline: NBC Gets Set to Fix Prime Time
+Caption-Headline: Who Has the Remote?
+ID: G189
+Headline: Google Says It Is Committed to China as Net Soars
+Caption-Headline: Clicks Pay
+ID: G190
+Headline: Earnings: Union Pacific Net Falls, but Growth Stirs
+Sub-Headline: U.S. Railroad's 17% Decline in Profit Outpaces Analysts' Estimates as Quarterly Shipping Volumes Gain Some Steam
+Caption-Headline: Union Pacific
+ID: G191
+Headline: China Seeks To Temper Boom, Stirs Growth Fears
+Caption-Sub-Headline: ...and housing is increasingly unaffordable in big cities.
+ID: G192
+Headline: Corporate News: EBay's Earnings Soar With Sale of Skype
+Caption-Headline: Competitive Marketplace
+Caption-Sub-Headline: EBay reported modest growth in the fourth quarter, but it is losing ground to Amazon in unique visitors.
+ID: G193
+Headline: New American Cash Conundrum: Too Much
+Caption-Headline: Mixed Blessing
+ID: G194
+Headline: &lt;i&gt;Good to Great&lt;/i&gt; Hits Grade School
+Sub-Headline: Behind the success of KIPP, the charter school powerhouse, is a business mentality
+Caption-Headline: KIPP'S VITAL STATISTICS
+Caption-Sub-Headline: ... KIPP gets results
+Caption-Text: Students at schools in poor communities score big gains on standardized tests
+ID: G195
+Headline: The Bond Vigilantes Who Left Greece in Ruins
+Sub-Headline: Now, Europe is under pressure to rescue the Greeks while keeping other EU members in line
+Caption-Headline: DEFAULT INSURANCE GETS COSTLIER
+Caption-Text: Prices of credit default swaps on sovereign debt have risen this year, indicating investors' greater nervousness that national governments will default on their debts.
+ID: G196
+Headline: Euro Pain Could Blow Back on Big U.S. Banks
+Caption-Headline: Heart of Darkness
+ID: G197
+Headline: Workplace Remains Key Source of Health Coverage
+Caption-Headline: Counting Coverage
+ID: G198
+Headline: The downside of debit cards
+Sub-Headline: Sure, they're convenient, but losing one or using one carelessly can cause you a world of grief
+Caption-Headline: Bank fees follow customers to debit cards
+Caption-Text: As the use of debit cards grows faster than credit cards, banks are bringing in more in overdraft fees.
+ID: G199
+Headline: NUMBERS
+Sub-Headline: YES, THE HEALTH-CARE BUSINESS IS RECESSION-PROOF
+Caption-Headline: RISING PROFITS ALMOST ACROSS THE BOARD
+Caption-Text: Margins rose steadily through the recession for most health-care businesses. Drug retailers and health-care providers were the exceptions.
+ID: G200
+Headline: STATE OF INNOVATION
+Sub-Headline: Maryland has it all--a rich R&amp;D infrastructure, a well-educated workforce, and a diversified industrial base.
+Caption-Headline: TECHNOLOGICALLY SAVVY
+Caption-Text: Maryland leads the country in IT jobs.
+ID: G69-B
+Headline: India's shoppers want only best, lots of it
+Sub-Headline: Spending power rises 'by the day'
+Caption-Headline: Banking on service
+Caption-Text: India's service industry will drive the country's gross domestic product.
+ID: G24-A
+Headline: Planning the new socialist countryside
+Sub-Headline: Spooked by angry peasants, China raises spending
+Caption-Headline: Guns and butter
+ID: G201
+Headline: Microsoft Bid to Beat Google Builds on a History of Misses
+Caption-Headline: Search and Display
+Caption-Text: Estimated U.S. spending on ads tied to Internet search results has eclipsed spending on display ads.
+ID: G202
+Headline: Bulgari's Net Is Buoyed by Move Into Emerging Markets
+Caption-Headline: Looking East
+ID: G203
+Headline: Nokia, Again, Cuts Forecast for Cellphone Market
+Sub-Headline: CEO Sees Consumers Opting for Less-Expensive Handsets, Hopes to Gain a Larger Piece of Smaller Pie Next Year
+Caption-Headline: Mixed Market
+ID: G204
+Headline: Gas Engines Get Upgrade in Challenge to Hybrids
+Caption-Headline: Gas Engines Rev Up
+ID: G205
+Headline: GM to Build Diesel Engines in Thailand
+Caption-Headline: Global Growth
+Caption-Text: General Motors' second quarter revenue from its North American automotive operations is down 33% form the same period a year ago, but abroad, revenue is growing.
+ID: G206
+Headline: Australia Pushes Clean Coal
+Sub-Headline: Fears of a Backlash Against Top Export Drive Effort
+Caption-Headline: More Coal, at a Cost
+Caption-Text: Australia got 45% of its energy from coal in the year ended June 2004, but coal was the source of 54.8% of its greenhouse-gas emissions from energy, which are thought to contribute to global warming.
+ID: G207
+Headline: Chinese Banks Try Self-Promotion
+Sub-Headline: Hard Facts Not Gauzy Image Are Focus of Ad Campaigns As Competition Draws Near
+Caption-Headline: Product Pitches
+ID: G208
+Headline: Barack Obama-san
+Caption-Headline: Tokyo's Decade of 'Stimulus'
+ID: G209
+Headline: What to Know When Choosing A Tax Preparer 
+Caption-Headline: Tax Facts
+Caption-Text: Single people represent the largest single filing category on federal income-tax returns.
+ID: G210
+Headline: Bush Plots Health-Care Push
+Sub-Headline: Employer-Plan Tax Change May Aid Coverage for the Needy
+Caption-Headline: President Bush's Political Health
+Caption-Sub-Headline: With polls showing voters increasingly concerned about health care, and Democrats favored on the issue, the White House is looking at new health policy initiatives.
+Caption-Text: Which of these issues do you think should be the next highest priority for the federal government to address?
+ID: G211
+Headline: H-P Tries to Revive PC Sales With Touch Screens
+Caption-Headline: Sagging Sales
+ID: G212
+Headline: Alcoa-Alcan Would Face  New Competitive Pressures
+Caption-Headline: Metal to Spare
+ID: G213
+Headline: Health Accounts Have Benefits For Employers
+Caption-Headline: Paying Less
+ID: G214
+Headline: SAP, Oracle Boost Software Prices
+Sub-Headline: Moves Seen as Means Of Fattening Earnings As Competition Fades
+Caption-Headline: Scaling Back
+Caption-Text: World-wide growth in IT spending
+ID: G215
+Headline: Corporate Tuition Aid Appears to Keep Workers Loyal
+Sub-Headline: Studies Reinforce View Of Improved Retention; UTC's Plan Stands Out
+Caption-Headline: Making the Grade
+Caption-Text: A study found turnover at a nonprofit institution was lower among employees who participated in the group's tuition-reimbursement program.
+ID: G216
+Headline: Snail Mail: As Economy Zooms India's Postmen Struggle to Adapt
+Sub-Headline: Beaten by Private Couriers And Unable to Downsize State Tries to Diversify
+Caption-Headline: Losing Rupees
+Caption-Text: India Post's average cost to deliver a piece of mail is often higher than the average revenue it receives.
+ID: G217
+Headline: Companies Try to Teach Old Phones New Tricks
+Caption-Headline: Cutting the Cord
+Caption-Text: Growing numbers of Americans are ditching their landlines in favor of using their cellphones alone.
+ID: G218
+Headline: Hong Kong Culls Chickens After Avian Flu Return
+Caption-Headline: Deadly Threat
+ID: G219
+Headline: Hong Kong Aims to Embrace Nearby Shenzhen 
+Sub-Headline: Move Could Boost Regional Economy But Hurdles Remain
+Caption-Headline: Merger Opportunity
+ID: G220
+Headline: BBC's Credit Policy on Web Site Draws Notice of News Providers
+Caption-Headline: Global View
+Caption-Text: Unique monthly Web site visitors to BBC United Kingdom compared to BBC Worldwide
+ID: G221
+Headline: PCs Get Cheaper, For Now
+Sub-Headline: To Move Soon-to-Be-Dated Models, Makers Sell at Rock-Bottom Prices
+Caption-Headline: Price Drop
+ID: G222
+Headline: How 10 People Reshaped Massachusetts Health Care
+Sub-Headline: The 'Connector' Board Makes Tough Choices For Sweeping New Law
+Caption-Headline: Mass Coverage
+ID: G223
+Headline: Slowing the Data-Center Power Drain
+Sub-Headline: Technology Executives Federal Officials Join Forces to Study Ways to Lower Energy Costs
+Caption-Headline: Surging
+ID: G224-A
+Headline: In Call to Deregulate Business a Global Twist
+Sub-Headline: Onerous Rules Hurt U.S. Stock Markets But So Do New Rivals
+Caption-Headline: Not Made in U.S.A.
+Caption-Text: Many trends putting pressure on the NYSE and Nasdaq are global: A surge in Chinese IPOs has boosted Hong Kong's exchange, while private-equity buyouts are soaring around the world.
+ID: G225
+Headline: Why Asia May Be a Sucker Bet
+Sub-Headline: Online-Gambling Firms Target the Far East but Hurdles Await
+Caption-Headline: What a Gamble
+Caption-Text: Online betting is rising...
+ID: G226
+Headline: Ford Takes the Honorable Route
+Caption-Headline: Ford's Focus
+ID: G227
+Headline: Corporate Focus: Dispute Takes Toll On Polish Telecom
+Sub-Headline: PTC Loses Share Amid Long Battle Over Ownership
+Caption-Headline: Dropped Calls
+ID: G228
+Headline: Ford Eyes More Cuts As Recovery Advances
+Sub-Headline: Earnings Improve, Quality Ratings Up; Volvo Sale Possible
+Caption-Headline: Downsizing
+ID: G229
+Headline: Tough Decision Looms on Space Shuttle's Fate
+Caption-Headline: Budget Tradeoffs
+Caption-Text: NASA spending on the space shuttle and its replacement program, Constellation
+ID: G230
+Headline: Financing: Readers and Owners Weigh In
+Caption-Headline: Raising Money
+Caption-Text: Fast-growing small companies were asked in a quarterly survey to describe their credit line or amount of credit availability.
+ID: G231
+Headline: In Europe, Bustling East Props Up the West
+Sub-Headline: Continent's Economic Heartland Powers Ahead as Exports to New EU Members Surge
+Caption-Headline: New Europe Gives Old Europe a Boost
+Caption-Text: Euro-zone trade with developing markets has expanded
+ID: G232
+Headline: How Sweet It Isn't
+Sub-Headline: Maker of Equal Says Ads For J&amp;J's Splenda Misled;  Chemistry Lesson for Jurors
+Caption-Headline: Bitter Battle
+Caption-Text: U.S. sales of top sugar substitutes
+ID: G233
+Headline: In Military-Spending Boom Expensive Pet Projects Prevail
+Sub-Headline: Defense Firms Reap Rewards As Pentagon's Priorities Run Into Resistance --- Rumsfeld Wins Few Battles
+Caption-Headline: Spending Campaign
+Caption-Text: The Pentagon has increased outlays on programs largely conceived before Sept. 11, 2001
+ID: G234
+Headline: Channel Change -- Television's Power Shift: Cable Pays for Free Shows
+Sub-Headline: Broadcasters Want Cash To Carry Their Signal; Super Bowl Is Hostage
+Caption-Headline: Tube Tussle
+Caption-Text: Satellite TV is gaining on cable
+ID: G235
+Headline: Arcandor Is Hurting Whitehall
+Sub-Headline: Debt Deadline Looms as Goldman-Led Consortium Negotiates to Prevent Collapse of Retailer
+Caption-Headline: Hard Sell
+Caption-Text: Investment in German retail fell sharply amid crisis
+ID: G236
+Headline: Ikea Hits Home in China
+Sub-Headline: The Swedish Design Giant Unlike Other Retailers Slashes Prices for the Chinese
+Caption-Headline: Cheaper in China
+Caption-Text: Price comparisons for Ikea products in the U.S. and China
+ID: G237
+Headline: As Funds Leverage Up Fears of Reckoning Rise
+Sub-Headline: Fedand SEC Question Wall Street on Policies; A Mockery of Margin
+Caption-Headline: Rising Tide
+Caption-Text: Hedge finds are using more borrowing and other financing tools to magnify their market bets.  The value of those bets, compared to funds from clients:
+ID: G238
+Headline: U.S. Plots Deal Over Yuan Valuation
+Sub-Headline: China Is Quietly Offered Help On Getting Bigger IMF Role If It Eases Currency Stance
+Caption-Headline: Global Sway
+Caption-Text: China's clout in the International Monetary Fund is far smaller than its share of the global economy.
+ID: G239
+Headline: Two Mammals' Longevity Boosted
+Sub-Headline: Transplant Drug Lengthens Lives of Mice, and Fewer Calories Benefit Monkeys
+Caption-Headline: Longer Lives
+Caption-Text: Effect of rapamycin on the maximum lifespan of mice
+ID: G240
+Headline: Japan Helps TV Makers Develop OLED Technology
+Sub-Headline: Sony, Sharp, Others Aim to Mass-Produce Next-Generation Sets
+Caption-Headline: Organic Growth
+ID: G241-A
+Headline: New Players Reshape Wireless Germany
+Sub-Headline: Consumer Use Grows as Prices Fall and Big Carriers; Market Share Slips
+Caption-Headline: Caution Callers
+Caption-Text: Germany's cellphone market has been curbed by high prices and low usage
+ID: G242
+Headline: How Giuliani's Rise Vexes Republicans
+Sub-Headline: Plaudits on Mayoral Record Suggests a Potential Schism Over Social Economic Issues
+Caption-Headline: Split Decision?
+Caption-Sub-Headline: Former New York Mayor Rudy Giuliani's strongest appeal among Republican conservative voters is to those focused on economics and national security - not social issues.
+Caption-Text: In which ways should the new president follow Bush?
+ID: G243-A
+Headline: Spain's Housing Boom Faces a Test
+Sub-Headline: Economists Worry About a Hard Landing and a Resulting Ripple Effect
+Caption-Headline: House of Cards?
+Caption-Text: Economists fear Spain's resurgent home-building spree (right) could bring a sharp price correction - and portend a bust that will undermine the broader economy.
+ID: G244
+Headline: Baghdad's Strange Dilemma: Flush With Oil Cash Unable to Spend It
+Caption-Headline: Clogged Spigot
+Caption-Text: The Iraqi government has not been spending all the money it has available
+ID: G245
+Headline: A Look Ahead for Real Estate
+Sub-Headline: Caution Is Widely Seen As Uncertainty Persists In Home Rental Markets
+Caption-Headline: A Moderate Outlook
+Caption-Text: And the percentage of investors expecting sale-price gains is lower in 2007, which could keep cap rates from falling further
+ID: G246
+Headline: More Workers Cite Age Bias After Layoffs
+Caption-Headline: Bias Complaints
+Caption-Text: From September 2007 through the same period last year, employment-discrimination filings with the EEOC have increased.
+ID: G247
+Headline: Southwest Makes Inroads at Hubs
+Sub-Headline: Airline's Strategy Bears Fruit; Fares Drop Revenue Rises
+Caption-Headline: Hub Attacks
+Caption-Text: Just as it did in Baltimore a decade ago, Southwest Airlines has been gaining market share at other airlines' big hubs.
+ID: G248
+Headline: Making Email More Productive - and More Secure
+Caption-Headline: Write On
+Caption-Text: All emails sent annually world-wide
+ID: G249
+Headline: Can CBS Put the Net Into Network?
+Sub-Headline: Broadcaster Launches Plan Syndicating Shows on Web Admits Old Strategy Failed
+Caption-Headline: Net Nets
+ID: G250
+Headline: Not Enough Slices In Web Ad-Dollar Pie
+Caption-Headline: On-Off Switch
+Caption-Text: Ad expenditures on traditional media vs. online
+ID: G224-B
+Headline: In Call to Deregulate Business a Global Twist
+Sub-Headline: Onerous Rules Hurt U.S. Stock Markets But So Do New Rivals
+Caption-Headline: Not Made in U.S.A.
+Caption-Text: Many trends putting pressure on the NYSE and Nasdaq are global: A surge in Chinese IPOs has boosted Hong Kong's exchange, while private-equity buyouts are soaring around the world.
+ID: G241-B
+Headline: New Players Reshape Wireless Germany
+Sub-Headline: Consumer Use Grows as Prices Fall and Big Carriers; Market Share Slips
+Caption-Headline: Caution Callers
+Caption-Text: Germany's cellphone market has been curbed by high prices and low usage
+ID: G243-B
+Headline: Spain's Housing Boom Faces a Test
+Sub-Headline: Economists Worry About a Hard Landing and a Resulting Ripple Effect
+Caption-Headline: House of Cards?
+Caption-Text: Economists fear Spain's resurgent home-building spree (right) could bring a sharp price correction - and portend a bust that will undermine the broader economy.

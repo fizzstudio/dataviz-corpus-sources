@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G331">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Republicans
+		</series>
+    <series id="2">
+			Democrats
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			American International Group (and subsidiaries)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$500,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2 million
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			AT&amp;T
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1 million
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1 million
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Boeing
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$100,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$100,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			DaimlerChrysler
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$250,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$250,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Ernst &amp; Young
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$100,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$100,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			General Motors
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1 million
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1 million
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Glaxo Wellcome
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$250,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$10,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>
+			Lockheed Martin
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$100,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$100,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>
+			Microsoft
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1 million
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1 million
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="10">
+    <label>
+			Verizon
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1 million
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$100,000
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

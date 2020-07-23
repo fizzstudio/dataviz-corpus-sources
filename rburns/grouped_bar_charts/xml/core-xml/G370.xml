@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G370">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			1992
+		</series>
+    <series id="2">
+			2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			TV
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,510
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1,571
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Radio
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,150
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1,056
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Recorded music
+		</label>
+    <bar id="1">
+      <annotated_value>
+				233
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				269
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Newspapers
+		</label>
+    <bar id="1">
+      <annotated_value>
+				172
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				154
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Books
+		</label>
+    <bar id="1">
+      <annotated_value>
+				100
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				96
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Magazines
+		</label>
+    <bar id="1">
+      <annotated_value>
+				85
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				80
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Home videos
+		</label>
+    <bar id="1">
+      <annotated_value>
+				42
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				55
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>
+			Video games
+		</label>
+    <bar id="1">
+      <annotated_value>
+				19
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>
+			Internet
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

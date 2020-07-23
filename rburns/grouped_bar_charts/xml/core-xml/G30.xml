@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G30">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">Black</series>
+    <series id="2">White</series>
+    <series id="3">All groups</series>
+  </legend>
+  <group id="1">
+    <label>Legislation/courts</label>
+    <bar id="1">
+      <annotated_value>30%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>59%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>55%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Non-violent protest</label>
+    <bar id="1">
+      <annotated_value>68%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>40%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>44%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Violent protest</label>
+    <bar id="1">
+      <annotated_value>2%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>1%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

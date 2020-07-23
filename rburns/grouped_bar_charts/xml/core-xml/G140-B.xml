@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G140-B">
+  <orientation>horizontal</orientation>
+  <legend>
+    <series id="1">London</series>
+    <series id="2">New York</series>
+  </legend>
+  <group id="1">
+    <label>'00</label>
+    <bar id="1">
+      <annotated_value>8%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>52%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>'01</label>
+    <bar id="1">
+      <annotated_value>9%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>52%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>'02</label>
+    <bar id="1">
+      <annotated_value>10%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>50%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>'03</label>
+    <bar id="1">
+      <annotated_value>15%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>46%</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>'04</label>
+    <bar id="1">
+      <annotated_value>18%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>43%</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>'05</label>
+    <bar id="1">
+      <annotated_value>19%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>40%</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>'06</label>
+    <bar id="1">
+      <annotated_value>19%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>39%</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>'07</label>
+    <bar id="1">
+      <annotated_value>19%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>40%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

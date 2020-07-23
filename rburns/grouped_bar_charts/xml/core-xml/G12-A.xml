@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G12-A">
+  <orientation>horizontal</orientation>
+  <y-axis>REVENUE</y-axis>
+  <legend>
+    <series id="1">2002</series>
+    <series id="2">2003</series>
+  </legend>
+  <group id="1">
+    <label>Americas</label>
+    <bar id="1">
+      <annotated_value>$11 billion</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>12</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Europe, Middle East, Africa</label>
+    <bar id="1">
+      <annotated_value>5</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>7</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Asia/Pacific (includes China)</label>
+    <bar id="1">
+      <annotated_value>3.2</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3.4</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

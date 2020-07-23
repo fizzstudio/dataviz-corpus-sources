@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G138">
+  <orientation>horizontal</orientation>
+  <y-axis>Government debt of selected G20 countries, as % of GDP</y-axis>
+  <legend>
+    <series id="1">2008 est</series>
+    <series id="2">2009 f'cast</series>
+    <series id="3">2010 f'cast</series>
+  </legend>
+  <group id="1">
+    <label>Japan</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Italy</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="3">
+    <label>United States</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Germany</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="5">
+    <label>France</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="6">
+    <label>Brazil</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="7">
+    <label>Britain</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="8">
+    <label>Spain</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="9">
+    <label>China</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="10">
+    <label>Russia</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+</GroupedBarChart>

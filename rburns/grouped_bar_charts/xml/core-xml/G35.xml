@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G35">
+  <orientation>vertical</orientation>
+  <y-axis>DEBT TO REVENUE RATIO**</y-axis>
+  <legend>
+    <series id="1">GOLDMAN SACHS</series>
+    <series id="2">U.S. GOVERNMENT</series>
+  </legend>
+  <group id="1">
+    <label>1993</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>2005</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

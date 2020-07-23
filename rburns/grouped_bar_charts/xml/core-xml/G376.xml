@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G376">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Average incentive per vehicle
+	</y-axis>
+  <legend>
+    <series id="1">
+			Ford
+		</series>
+    <series id="2">
+			GM
+		</series>
+    <series id="3">
+			Chrysler
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Oct. 1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,683
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2,089
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$1,524
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Oct. 1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,061
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2,318
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$2,106
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Oct. 2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,684
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2,815
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$2,901
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

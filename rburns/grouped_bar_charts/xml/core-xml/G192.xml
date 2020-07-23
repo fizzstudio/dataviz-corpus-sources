@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G192">
+  <orientation>vertical</orientation>
+  <y-axis>Unique visitors, in millions</y-axis>
+  <legend>
+    <series id="1">eBay</series>
+    <series id="2">Amazon</series>
+  </legend>
+  <group id="1">
+    <label>4Q 2007</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>4Q '08</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>4Q '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G7-1">
+  <orientation>vertical</orientation>
+  <y-axis>Illicit drug use, people older than 12</y-axis>
+  <legend>
+    <series id="1">Men</series>
+    <series id="2">Women</series>
+  </legend>
+  <group id="1">
+    <label>1999</label>
+    <bar id="1">
+      <annotated_value>8.1%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>4.6%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>00</label>
+    <bar id="1">
+      <annotated_value>7.7%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>5.0%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

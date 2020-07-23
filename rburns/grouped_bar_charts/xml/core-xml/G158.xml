@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G158">
+  <orientation>horizontal</orientation>
+  <legend>
+    <series id="1">Old</series>
+    <series id="2">New</series>
+  </legend>
+  <group id="1">
+    <label>Santa Monica, Calif.</label>
+    <bar id="1">
+      <annotated_value>$40</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$50</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Yonkers, N.Y.</label>
+    <bar id="1">
+      <annotated_value>$40</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$50</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Berkeley, Calif.</label>
+    <bar id="1">
+      <annotated_value>$35</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$40</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Newark</label>
+    <bar id="1">
+      <annotated_value>$25</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$45</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Andover, Mass.</label>
+    <bar id="1">
+      <annotated_value>$15</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$20</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

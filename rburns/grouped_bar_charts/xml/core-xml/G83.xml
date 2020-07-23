@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G83">
+  <orientation>horizontal</orientation>
+  <legend>
+    <series id="1">Democratic candidates</series>
+    <series id="2">Republican candidates</series>
+  </legend>
+  <group id="1">
+    <label>Philadelphia</label>
+    <bar id="1">
+      <annotated_value>$1,464,690</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$326,583</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Pa. suburbs</label>
+    <bar id="1">
+      <annotated_value>$2,902,260</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$1,716,083</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>South Jersey</label>
+    <bar id="1">
+      <annotated_value>$470,671</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$262,553</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

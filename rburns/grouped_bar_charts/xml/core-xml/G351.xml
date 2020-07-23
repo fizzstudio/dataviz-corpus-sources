@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G351">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Republican
+		</series>
+    <series id="2">
+			Democrat
+		</series>
+    <series id="3">
+			Independent
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1940
+		</label>
+    <bar id="1">
+      <annotated_value>
+				38%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				42%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				20%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1960
+		</label>
+    <bar id="1">
+      <annotated_value>
+				30%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1980
+		</label>
+    <bar id="1">
+      <annotated_value>
+				24%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				30%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				31%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				35%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

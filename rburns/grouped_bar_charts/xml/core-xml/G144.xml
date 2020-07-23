@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G144">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">Google</series>
+    <series id="2">Yahoo</series>
+  </legend>
+  <group id="1">
+    <label>Dec. 2004</label>
+    <bar id="1">
+      <annotated_value>43.1%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>21.7%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Dec. 2007</label>
+    <bar id="1">
+      <annotated_value>56.3%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>17.7%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

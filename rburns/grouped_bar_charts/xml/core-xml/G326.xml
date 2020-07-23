@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G326">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Stock value
+	</y-axis>
+  <legend>
+    <series id="1">
+			01/02/98
+		</series>
+    <series id="2">
+			07/14/00
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Philip Morris Co.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$45.31
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$24.88
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			R.J. Reynolds Tobacco Holdings
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$32.25
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$27.13
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			British American Tobacco (Brown &amp; Williamson)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$18.63
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$12.75
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

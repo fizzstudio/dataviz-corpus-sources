@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G211">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Hewlett-Packard's revenue from personal computers, in billion
+	</y-axis>
+  <legend>
+    <series id="1">
+			Notebooks
+		</series>
+    <series id="2">
+			Desktops
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2008 1Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			2Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			3Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			4Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'09 1Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

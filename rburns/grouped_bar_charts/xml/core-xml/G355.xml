@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G355">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Firestone tires
+		</series>
+    <series id="2">
+			Ford Explorer
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Less likely to buy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				38%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Definitely won't buy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				39%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

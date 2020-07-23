@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G216">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Figures in rupees
+	</y-axis>
+  <legend>
+    <series id="1">
+			COST
+		</series>
+    <series id="2">
+			REVENUE
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Postcard
+		</label>
+    <bar id="1">
+      <annotated_value>
+				6.96
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.50
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Letter
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10.04
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Newspaper
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9.72
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.39
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Book
+		</label>
+    <bar id="1">
+      <annotated_value>
+				10.78
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7.27
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Parcel
+		</label>
+    <bar id="1">
+      <annotated_value>
+				66.47
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				57.17
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

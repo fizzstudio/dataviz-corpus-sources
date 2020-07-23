@@ -1,0 +1,63 @@
+<GroupedBarChart id="G197">
+  <relative_bar_width>30 px</relative_bar_width>
+  <relative_bar_spacing>1.5 px</relative_bar_spacing>
+  <group id="1">
+    <bar id="1">
+      <relative_height>216 px</relative_height>
+      <annotated_value>162 million</annotated_value>
+      <auto_interpolated_value>162</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>212 px</relative_height>
+      <annotated_value>159 million</annotated_value>
+      <auto_interpolated_value>159</auto_interpolated_value>
+    </bar>   
+    <label>Employer</label>
+  </group>
+  <group id="2">
+    <bar id="1">
+      <relative_height>46 px</relative_height>
+      <annotated_value>35</annotated_value>
+      <auto_interpolated_value>35</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>68 px</relative_height>
+      <annotated_value>51</annotated_value>
+      <auto_interpolated_value>51</auto_interpolated_value>
+    </bar>   
+    <label>Medicaid/CHIP</label>
+  </group>
+  <group id="3">
+    <bar id="1">
+      <relative_height>40 px</relative_height>
+      <annotated_value>30</annotated_value>
+      <auto_interpolated_value>30</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>33 px</relative_height>
+      <annotated_value>25</annotated_value>
+      <auto_interpolated_value>25</auto_interpolated_value>
+    </bar>   
+    <label>Nongroup/other</label>
+  </group>
+  <group id="4">
+    <bar id="1">
+      <relative_height>72 px</relative_height>
+      <annotated_value>54</annotated_value>
+      <auto_interpolated_value>54</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>29 px</relative_height>
+      <annotated_value>22</annotated_value>
+      <auto_interpolated_value>22</auto_interpolated_value>
+    </bar>   
+    <label>Remain uninsured</label>
+  </group>  
+  <relative_group_spacing>30 px</relative_group_spacing>
+  <legend>
+    <series id="1">If health law not enacted</series>
+    <series id="2">The law is passed</series>    
+  </legend>
+  <orientation>horizontal</orientation>
+  <y-axis>Projected number of people covered in 2019, by source:</y-axis>
+</GroupedBarChart>

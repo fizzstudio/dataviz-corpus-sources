@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G386">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Women
+		</series>
+    <series id="2">
+			Men
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Would eat
+		</label>
+    <bar id="1">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				71%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			would give it to their children
+		</label>
+    <bar id="1">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				59%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Willing to pay more for non-altered food
+		</label>
+    <bar id="1">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				35%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

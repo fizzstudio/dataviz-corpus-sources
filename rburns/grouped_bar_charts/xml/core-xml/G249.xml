@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G249">
+  <orientation>
+		horiztontal
+	</orientation>
+  <x-axis>
+		Unique audience for selected online broadcast media destinations in April
+	</x-axis>
+  <y-axis>
+		Audience, in millions
+	</y-axis>
+  <legend>
+    <series id="1">
+			2007
+		</series>
+    <series id="2">
+			2006
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Fox
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			ABC
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.8
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			NBC
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			CBS
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.0
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

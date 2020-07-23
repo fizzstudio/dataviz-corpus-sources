@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G321-A">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Comparison of allergy and asthma symptoms in rural vs. urban Kenyan schoolchildren:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Rural
+		</series>
+    <series id="2">
+			Urban
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Asthma symptoms
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2.8%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9.5%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Allergy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.1%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.4%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Eczema
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3.7%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6.8%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Hay fever
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.5%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9.7%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

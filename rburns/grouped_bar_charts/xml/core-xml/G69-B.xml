@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G69">
+  <orientation>horizontal</orientation>
+  <y-axis>Percentage share of gross domestic product:</y-axis>
+  <legend>
+    <series id="1">Agriculture</series>
+    <series id="2">Industry</series>
+    <series id="3">Services</series>
+  </legend>
+  <group id="1">
+    <label>1985</label>
+    <bar id="1">
+      <annotated_value>36%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>24%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>40%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2005</label>
+    <bar id="1">
+      <annotated_value>19%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>26%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>55%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2025</label>
+    <bar id="1">
+      <annotated_value>9%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>27%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>65%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

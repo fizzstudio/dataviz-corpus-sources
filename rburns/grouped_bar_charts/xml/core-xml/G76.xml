@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G76">
+  <orientation>horizontal</orientation>
+  <x-axis>Child's age</x-axis>
+  <y-axis>Estimated annual expenditures for a child raised by husband-wife families in the USA in 2006:</y-axis>
+  <legend>
+    <series id="1">Household income Less than $44,500 (Average: $27,800)</series>
+    <series id="2">Household income $44,500 to $74,900 (Average: $59,300)</series>
+    <series id="3">Household income More than $74,900 (Average: $112,200)</series>
+  </legend>
+  <group id="1">
+    <label>0-2</label>
+    <bar id="1">
+      <annotated_value>$7,580</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$10,600</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$15,760</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>3-5</label>
+    <bar id="1">
+      <annotated_value>$7,750</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$10,910</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$16,140</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>6-8</label>
+    <bar id="1">
+      <annotated_value>$7,780</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$10,780</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$15,790</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>9-11</label>
+    <bar id="1">
+      <annotated_value>$7,710</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$10,610</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$15,490</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>12-14</label>
+    <bar id="1">
+      <annotated_value>$8,570</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$11,340</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$16,310</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>15-17</label>
+    <bar id="1">
+      <annotated_value>$8,540</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$11,660</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$16,970</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

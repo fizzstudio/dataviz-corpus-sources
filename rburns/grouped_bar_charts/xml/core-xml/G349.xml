@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G349">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Quicken
+		</series>
+    <series id="2">
+			Money
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,866,425
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				128,143
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,663,343
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				161,334
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,536,318
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				275,218
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,371,725
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				375,734
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,781,174
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				484,106
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

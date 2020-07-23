@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G318">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Percentage of Human Resources professionals who say their organizations allow casual dress
+	</y-axis>
+  <legend>
+    <series id="1">
+			Every day
+		</series>
+    <series id="2">
+			Once a week
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			'92
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			'95
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'98
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'99
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'00
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

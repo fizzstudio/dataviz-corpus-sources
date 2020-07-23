@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G223">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Spending on new servers, and power and cooling expenses for world-wide installed server base, in billions of dollars
+	</y-axis>
+  <legend>
+    <series id="1">
+			Power and cooling
+		</series>
+    <series id="2">
+			New servers
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1996
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			2000
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="7">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="8">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="9">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="10">
+    <label>
+			'05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="11">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="12">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="13">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="14">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="15">
+    <label>
+			'10
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

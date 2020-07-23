@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G226">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Average annual portion of U.S. auto sales replaced with new or next-generation models
+	</y-axis>
+  <legend>
+    <series id="1">
+			1999-2009
+		</series>
+    <series id="2">
+			2010-2013
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Ford
+		</label>
+    <bar id="1">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				25%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			GM
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11*
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Chrysler
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				8
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

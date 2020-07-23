@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G316">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Contributions from tobacco companies and tobacco-related interests to candidates and national-party campaign committees: (in millions)
+	</y-axis>
+  <legend>
+    <series id="1">
+			Republicans
+		</series>
+    <series id="2">
+			Democrats
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			'91-'92
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3.25
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2.47
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			'93-'94
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3.50
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1.64
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			'95-'96
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$8.43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1.89
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			'97-'98
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$6.68
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1.68
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			'99-June 1
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3.74
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$0.70
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

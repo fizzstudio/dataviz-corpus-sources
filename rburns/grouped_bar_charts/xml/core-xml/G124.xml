@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G124">
+  <orientation>horizontal</orientation>
+  <y-axis>Selection of flooded river levels, in feet</y-axis>
+  <legend>
+    <series id="1">Friday 4 p.m.</series>
+    <series id="2">Flood stage</series>
+  </legend>
+  <group id="1">
+    <label>Des Moines</label>
+    <bar id="1">
+      <annotated_value>31.57</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>23</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Cedar</label>
+    <bar id="1">
+      <annotated_value>31.09</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>12</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Wapsipinicon</label>
+    <bar id="1">
+      <annotated_value>25.78</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>14</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>South Skunk</label>
+    <bar id="1">
+      <annotated_value>24.49</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>17</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Iowa</label>
+    <bar id="1">
+      <annotated_value>21.41</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>18</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

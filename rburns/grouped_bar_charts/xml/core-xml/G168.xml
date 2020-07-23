@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G168">
+  <orientation>horizontal</orientation>
+  <y-axis>Students from Philadelphia</y-axis>
+  <legend>
+    <series id="1">Public</series>
+    <series id="2">Nonpublic</series>
+  </legend>
+  <group id="1">
+    <label>Fall 1999</label>
+    <bar id="1">
+      <annotated_value>3,655</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2,457</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Fall 2009</label>
+    <bar id="1">
+      <annotated_value>2,774</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3,766</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

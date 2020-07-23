@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G289">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Percentage who intend to stay/leave current active-duty Army careers:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Probably/definitely stay until retirement
+		</series>
+    <series id="2">
+			Probably/definitely leave at end of current obligation
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			'91
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			'92
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'93
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'94
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'95
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			'96
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="7">
+    <label>
+			'97
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="8">
+    <label>
+			'98
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="9">
+    <label>
+			'99
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

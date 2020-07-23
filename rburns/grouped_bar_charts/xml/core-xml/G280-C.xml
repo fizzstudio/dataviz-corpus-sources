@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G280-C">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Percentage of overall days worked by minorities and women on film and TV productions
+	</y-axis>
+  <legend>
+    <series id="1">
+			1992
+		</series>
+    <series id="2">
+			1998
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Blacks
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Latinos
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2.3
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Minorities
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				8.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Women
+		</label>
+    <bar id="1">
+      <annotated_value>
+				13.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10.2
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

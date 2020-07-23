@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G304">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Bush
+		</series>
+    <series id="2">
+			Gore
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Pew Research Center (March 15-19 poll)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			ABC News / Washington Post (March 30-April 2 poll)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Newsweek (April 13-14 poll)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				42%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Fox News (April 26-27 poll)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				38%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			NBC News / Wall Street Journal (April 29-May 1 poll)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			USA Today / CNN / Gallup (Map 5-7 poll)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				49%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Zogby International (May 10-13 poll)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

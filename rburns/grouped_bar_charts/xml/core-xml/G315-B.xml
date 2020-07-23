@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G315-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Navy
+	</x-axis>
+  <y-axis>
+		The shortfall in each service branch each year:
+	</y-axis>
+  <legend>
+    <series id="1">
+			ROTC goals
+		</series>
+    <series id="2">
+			Commissions
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,050
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,050
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				852
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,050
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				680
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,050
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				684
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,050
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				776
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			2,000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,050
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				898
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

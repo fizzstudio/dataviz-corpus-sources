@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G225">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Web-gambling spending, in billions of dollars
+	</y-axis>
+  <legend>
+    <series id="1">
+			World
+		</series>
+    <series id="2">
+			Asia
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2001
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			2005
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			2006 Estimate
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

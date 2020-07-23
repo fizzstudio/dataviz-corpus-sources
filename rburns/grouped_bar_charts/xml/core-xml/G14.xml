@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G14">
+  <orientation>vertical</orientation>
+  <y-axis>YEARS</y-axis>
+  <legend>
+    <series id="1">MEN</series>
+    <series id="2">WOMEN</series>
+  </legend>
+  <group id="1">
+    <label>JAPAN</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>GERMANY</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>U.S.</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>CHINA</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>MEXICO</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>RUSSIA</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>SOMALIA</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G167">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">Russian exports to China</series>
+    <series id="2">Chinese exports to Russia</series>
+  </legend>
+  <group id="1">
+    <label>1995</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>2000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>2005</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>2008</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

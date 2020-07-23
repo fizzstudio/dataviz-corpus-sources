@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G262">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Rudy Giuliani
+		</series>
+    <series id="2">
+			Hillary Clinton
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Whom New Yorkers back
+		</label>
+    <bar id="1">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				42%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Whom New Yorkers think will win
+		</label>
+    <bar id="1">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				31%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

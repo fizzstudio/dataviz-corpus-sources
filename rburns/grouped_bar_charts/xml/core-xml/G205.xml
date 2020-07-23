@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G205">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>In billions:</y-axis>
+  <legend>
+    <series id="1">
+			2008
+		</series>
+    <series id="2">
+			2007
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			N. America
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$19.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$29.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Europe
+		</label>
+    <bar id="1">
+      <annotated_value>
+				10.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9.5
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Latin America, Africa &amp; Middle East
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.3
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Asia Pacific
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5.3
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

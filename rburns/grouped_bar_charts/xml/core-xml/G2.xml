@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G2">
+  <orientation>horizontal</orientation>
+  <x-axis>cost of several grocery items</x-axis>
+  <y-axis>prices per pound, except for eggs</y-axis>
+  <legend>
+    <series id="1">Iraq</series>
+    <series id="2">United States</series>
+  </legend>
+  <group id="1">
+    <label>Oranges</label>
+    <bar id="1">
+      <annotated_value>$0.24</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$0.87</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Apples</label>
+    <bar id="1">
+      <annotated_value>$0.49</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$0.95</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Bananas</label>
+    <bar id="1">
+      <annotated_value>$0.40</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$0.47</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Tomatoes</label>
+    <bar id="1">
+      <annotated_value>$0.24</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$1.66</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Potatoes</label>
+    <bar id="1">
+      <annotated_value>$0.16</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$0.46</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>Chicken</label>
+    <bar id="1">
+      <annotated_value>$0.97</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$1.03</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>A dozen eggs</label>
+    <bar id="1">
+      <annotated_value>$0.89</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$0.99</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

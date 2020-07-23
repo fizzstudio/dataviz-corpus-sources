@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G241-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Monthly voice revenue per wireless subscriber
+	</y-axis>
+  <legend>
+    <series id="1">
+			2007 Est.
+		</series>
+    <series id="2">
+			2004
+		</series>
+  </legend>
+  <group id="1">
+  	<highlighted />
+    <label>
+			Germany
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$21.36
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$25.51
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			U.K.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				32.79
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34.64
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Spain
+		</label>
+    <bar id="1">
+      <annotated_value>
+				35.74
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34.78
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Italy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				24.58
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				30.70
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			France
+		</label>
+    <bar id="1">
+      <annotated_value>
+				41.87
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				39.30
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

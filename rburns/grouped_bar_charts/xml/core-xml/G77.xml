@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G77">
+  <orientation>horizontal</orientation>
+  <y-axis>INCREASE IN HOURS WORKED PER FAMILY</y-axis>
+  <legend>
+    <series id="1">1979</series>
+    <series id="2">2004</series>
+  </legend>
+  <group id="1">
+    <label>MIDDLE CLASS:</label>
+    <bar id="1">
+      <annotated_value>2,983</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3,522</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>UPPER-MIDDLE CLASS:</label>
+    <bar id="1">
+      <annotated_value>3,276</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3,680</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

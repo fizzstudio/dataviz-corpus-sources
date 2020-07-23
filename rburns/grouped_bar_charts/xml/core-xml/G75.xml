@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G75">
+  <orientation>vertical</orientation>
+  <y-axis>Here, 100 equals the median net worth of the surveyed individuals the year of their marriage or divorce.</y-axis>
+  <legend>
+    <series id="1">MARRIED</series>
+    <series id="2">DIVORCED</series>
+  </legend>
+  <group id="1">
+    <label>After 3 Years</label>
+    <bar id="1">
+      <annotated_value>249</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>157</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>After 5 Years</label>
+    <bar id="1">
+      <annotated_value>308</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>156</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>After 10 Years</label>
+    <bar id="1">
+      <annotated_value>616</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>120</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

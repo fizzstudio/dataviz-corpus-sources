@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G293">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Amounts raised in the first 15 months of two-year cycles (in millions):
+	</y-axis>
+  <legend>
+    <series id="1">
+			Democrats
+		</series>
+    <series id="2">
+			Republicans
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1993-1994
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$23.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$14.5
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1995-1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$36.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$48.0
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1997-1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$34.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$55.6
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1999-2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$76.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$84.1
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

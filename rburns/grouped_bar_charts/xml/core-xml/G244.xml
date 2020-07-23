@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G244">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Budgeted
+		</series>
+    <series id="2">
+			Spending
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2003
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			'04
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'06
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'07
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

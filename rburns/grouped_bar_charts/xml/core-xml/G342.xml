@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G342">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		in millions
+	</y-axis>
+  <legend>
+    <series id="1">
+			1986
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Female
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Male
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.0
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2.1
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

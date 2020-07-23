@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G98">
+  <orientation>horizontal</orientation>
+  <x-axis>Do you think the interation between the Muslim and Western world is getting better or worse?</x-axis>
+  <y-axis>% of respondents</y-axis>
+  <legend>
+    <series id="1">Better</series>
+    <series id="2">Worse</series>
+  </legend>
+  <group id="1">
+    <label>Palestinian territories</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>United States</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Israel</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Egypt</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>Turkey</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>Denmark</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>Spain</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>Netherlands</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>Malaysia</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="10">
+    <label>Russia</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="11">
+    <label>Saudi Arabia</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="12">
+    <label>Iran</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="13">
+    <label>Indonesia</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="14">
+    <label>Bangladesh</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="15">
+    <label>Pakistan</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

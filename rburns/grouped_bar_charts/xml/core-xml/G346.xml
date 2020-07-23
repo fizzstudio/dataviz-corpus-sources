@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G346">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1993
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Minorities
+		</label>
+    <bar id="1">
+      <annotated_value>
+				11%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Women
+		</label>
+    <bar id="1">
+      <annotated_value>
+				13%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				20%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

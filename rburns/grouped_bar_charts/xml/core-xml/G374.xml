@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G374">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Good
+		</series>
+    <series id="2">
+			Good, but threatened
+		</series>
+    <series id="3">
+			Polluted
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Rivers
+		</label>
+    <bar id="1">
+      <annotated_value>
+				55%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				35%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Lakes
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Estuaries
+		</label>
+    <bar id="1">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

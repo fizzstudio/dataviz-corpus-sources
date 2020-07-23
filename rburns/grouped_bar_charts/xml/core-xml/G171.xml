@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G171">
+  <orientation>horizontal</orientation>
+  <y-axis>MEDIAN WEEKLY EARNINGS BY LEVEL OF EDUCATION, DOLLARS</y-axis>
+  <legend>
+    <series id="1">2008</series>
+    <series id="2">2009</series>
+  </legend>
+  <group id="1">
+    <label>LESS THAN A HIGH SCHOOL DIPLOMA</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>HIGH SCHOOL GRADUATES, NO COLLEGE</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>SOME COLLEGE OR ASSOCIATE DEGREE</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>BACHELOR'S DEGREE ONLY</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>ADVANCED DEGREE</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G236">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Price comparisons for Ikea products in the U.S. and China, in dollars
+	</y-axis>
+  <legend>
+    <series id="1">
+			U.S.
+		</series>
+    <series id="2">
+			China
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Ektorp armchair
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$349
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$112
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Poang chair
+		</label>
+    <bar id="1">
+      <annotated_value>
+				99
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				49.15
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Vreten floor lamp
+		</label>
+    <bar id="1">
+      <annotated_value>
+				44.99
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				28.50
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Ticka alarm clock
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7.99
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.61
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Glimma tea lights
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2.99
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.23
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

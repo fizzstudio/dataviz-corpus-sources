@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G66">
+  <orientation>vertical</orientation>
+  <y-axis>% of institutions using hedge funds</y-axis>
+  <legend>
+    <series id="1">2003</series>
+    <series id="2">2004</series>
+    <series id="3">2005</series>
+  </legend>
+  <group id="1">
+    <label>Britain</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Europe*</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="3">
+    <label>US</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Japan</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+</GroupedBarChart>

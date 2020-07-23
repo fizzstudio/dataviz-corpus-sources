@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G10-B">
+  <orientation>horizontal</orientation>
+  <y-axis>Spending (in millions)</y-axis>
+  <legend>
+    <series id="1">2004: $1.8 billion</series>
+    <series id="2">2003: $1.6 billion</series>
+  </legend>
+  <group id="1">
+    <label>Personals, dating</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Entertainment, lifestyles</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Business, investment</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Research</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>Personal growth</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>Games</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>General news</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>Community-made directories</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>Sports</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="10">
+    <label>Greeting cards</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="11">
+    <label>Credit help</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

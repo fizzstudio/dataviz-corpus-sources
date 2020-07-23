@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G67">
+  <orientation>vertical</orientation>
+  <y-axis>Weekly hours of instructional time, Grades 1 through 8</y-axis>
+  <legend>
+    <series id="1">'99</series>
+    <series id="2">'04</series>
+  </legend>
+  <group id="1">
+    <label>Reading</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+      <highlighted />
+    </bar>
+  </group>
+  <group id="2">
+    <label>Math</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Science</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>History</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G126">
+  <orientation>vertical</orientation>
+  <y-axis>Age-adjusted prevalence of overweight and obesity among U.S. adults, age 20-74 years</y-axis>
+  <legend>
+    <series id="1">Overweight or obese (BMI 25.0 or over)</series>
+    <series id="2">Obese (BMI 30.0 or over)</series>
+  </legend>
+  <group id="1">
+    <label>1976-80</label>
+    <bar id="1">
+      <annotated_value>47.1</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>15</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>1988-94</label>
+    <bar id="1">
+      <annotated_value>55.9</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>23.2</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>1999-2000</label>
+    <bar id="1">
+      <annotated_value>64.5</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>30.9</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>2001-02</label>
+    <bar id="1">
+      <annotated_value>65.7</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>31.3</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>2003-04</label>
+    <bar id="1">
+      <annotated_value>66.2</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>32.9</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G184">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">iPhone activations</series>
+    <series id="2">Net wireless subscriber adds</series>
+  </legend>
+  <group id="1">
+    <label>3Q 2008</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>4Q 2008</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>1Q '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>2Q '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>3Q '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>4Q '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

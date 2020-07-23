@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G100">
+  <orientation>vertical</orientation>
+  <y-axis>Freedom* of world population, %</y-axis>
+  <legend>
+    <series id="1">Free</series>
+    <series id="2">Partly free</series>
+    <series id="3">Not free</series>
+  </legend>
+  <group id="1">
+    <label>1977</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="2">
+    <label>1987</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="3">
+    <label>1997</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="4">
+    <label>2007</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+</GroupedBarChart>

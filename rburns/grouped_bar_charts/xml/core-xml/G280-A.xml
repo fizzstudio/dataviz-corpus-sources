@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G280-A">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Average annual family spending on entertainment
+	</y-axis>
+  <legend>
+    <series id="1">
+			Hispanics
+		</series>
+    <series id="2">
+			Blacks
+		</series>
+    <series id="3">
+			Whites
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1994
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$937
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$767
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$1,668
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,058
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$926
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$1,701
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,087
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$900
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$1,963
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,137
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$872
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$1,940
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

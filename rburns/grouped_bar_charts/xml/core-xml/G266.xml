@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G266">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			All
+		</series>
+    <series id="2">
+			Men
+		</series>
+    <series id="3">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				6.0%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5.9%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				6.2%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5.8%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5.7%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				6.0%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

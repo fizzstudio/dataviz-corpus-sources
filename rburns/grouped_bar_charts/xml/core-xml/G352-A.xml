@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G352-A">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Percent of households with item on hand:
+	</y-axis>
+  <legend>
+    <series id="1">
+			1996
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Roasting pan
+		</label>
+    <bar id="1">
+      <annotated_value>
+				62%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				57%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Mixer
+		</label>
+    <bar id="1">
+      <annotated_value>
+				89%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				81%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Popcorn popper
+		</label>
+    <bar id="1">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

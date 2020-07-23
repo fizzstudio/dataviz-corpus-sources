@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G231">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		The euro zone's exports to selected developed and developing markets, in billions of euros
+	</y-axis>
+  <legend>
+    <series id="1">
+			2007 1st quarter
+		</series>
+    <series id="2">
+			2006 1st quarter
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			U.K.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				EUR 56
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				EUR 53
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			New EU*
+		</label>
+    <bold />
+    <bar id="1">
+      <annotated_value>
+				54
+			</annotated_value>
+      <bold />
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				44
+			</annotated_value>
+      <bold />
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			U.S.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				49
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				50
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Russia
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			China
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				13
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

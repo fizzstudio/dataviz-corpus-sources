@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G280-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		(in millions)
+	</y-axis>
+  <legend>
+    <series id="1">
+			Domestic box office
+		</series>
+    <series id="2">
+			Budget
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Selena (1997)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$35
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$20
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			A Walk in the Clouds (1995)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$50
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$22
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Desperado (1995)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$25
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			My Family (Mi Familia) (1995)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$11
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$6
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			The Perez Family (1995)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$3
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Bound By Honor (1993)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$35
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Mi Vida Loca (1993)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>
+			Mambo Kings (1992)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$14
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>
+			Born in East L.A. (1987)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$17
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$11
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="10">
+    <label>
+			Stand and Deliver (1987)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$14
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="11">
+    <label>
+			La Bamba (1987)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$54
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$7
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

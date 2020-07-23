@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G208">
+  <orientation>
+		vertical
+	</orientation>
+  <x-axis>
+		1991-2008
+	</x-axis>
+  <y-axis>
+		U.S. and Japanese government debt held by the public as a percentage of GDP
+	</y-axis>
+  <legend>
+    <series id="1">
+			Japan
+		</series>
+    <series id="2">
+			U.S.
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1991
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			92
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			93
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			94
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			95
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			96
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="7">
+    <label>
+			97
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="8">
+    <label>
+			98
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="9">
+    <label>
+			99
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="10">
+    <label>
+			00
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="11">
+    <label>
+			01
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="12">
+    <label>
+			02
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="13">
+    <label>
+			03
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="14">
+    <label>
+			04
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="15">
+    <label>
+			05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="16">
+    <label>
+			06
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="17">
+    <label>
+			07
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="18">
+    <label>
+			08
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G311">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Welfare-to-work
+		</series>
+    <series id="2">
+			Welfare only
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Living above poverty level
+		</label>
+    <bar id="1">
+      <annotated_value>
+				25%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Married two-parent families
+		</label>
+    <bar id="1">
+      <annotated_value>
+				67%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				49%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Abused single parents
+		</label>
+    <bar id="1">
+      <annotated_value>
+				49%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				60%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

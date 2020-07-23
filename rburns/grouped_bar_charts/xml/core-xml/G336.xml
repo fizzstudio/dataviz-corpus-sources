@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G336">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1996
+		</series>
+    <series id="2">
+			1980
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			No time off / too busy:
+		</label>
+    <bar id="1">
+      <annotated_value>
+				21.5%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7.8%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Not interested:
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16.6%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11.2%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Ill / emergency:
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14.9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.1%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Disliked candidates:
+		</label>
+    <bar id="1">
+      <annotated_value>
+				13.0%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16.0%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Out of town:
+		</label>
+    <bar id="1">
+      <annotated_value>
+				11.1%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12.6%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

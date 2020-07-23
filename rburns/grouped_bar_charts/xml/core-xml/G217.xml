@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G217">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		The percentage of carriers' customers who cancelled their lines, in the second quarter of each year:
+	</y-axis>
+  <legend>
+    <series id="1">
+			'05
+		</series>
+    <series id="2">
+			'06
+		</series>
+    <series id="3">
+			'07
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Embarq
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="2">
+    <label>
+			Windstream
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="3">
+    <label>
+			Qwest
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="4">
+    <label>
+			AT&amp;T
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+</GroupedBarChart>

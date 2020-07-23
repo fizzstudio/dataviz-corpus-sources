@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G153-A">
+  <orientation>vertical</orientation>
+  <y-axis>Year to date through February</y-axis>
+  <legend>
+    <series id="1">2008</series>
+    <series id="2">2009</series>
+  </legend>
+  <group id="1">
+    <label>Strongsville</label>
+    <bar id="1">
+      <annotated_value>339</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>212</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Aurora</label>
+    <bar id="1">
+      <annotated_value>188</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>103</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Orrville</label>
+    <bar id="1">
+      <annotated_value>45</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>23</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Tallmadge</label>
+    <bar id="1">
+      <annotated_value>68</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>52</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G251">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		What men and women plan to do after they leave the workforce
+	</x-axis>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Volunteer
+		</label>
+    <bar id="1">
+      <annotated_value>
+				68
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				80
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Do more recreational activities, such as golf
+		</label>
+    <bar id="1">
+      <annotated_value>
+				73
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				61
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Work full or part time
+		</label>
+    <bar id="1">
+      <annotated_value>
+				70
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				55
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Travel
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				50
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Start a business
+		</label>
+    <bar id="1">
+      <annotated_value>
+				21
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				13
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Go back to school
+		</label>
+    <bar id="1">
+      <annotated_value>
+				11
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				22
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

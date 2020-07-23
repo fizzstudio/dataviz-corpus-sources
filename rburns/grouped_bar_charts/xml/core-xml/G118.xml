@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G118">
+  <orientation>horizontal</orientation>
+  <y-axis>PERCENTAGE WHO BELIEVE IN LIFE AFTER DEATH</y-axis>
+  <legend>
+    <series id="1">1973</series>
+    <series id="2">2004</series>
+  </legend>
+  <group id="1">
+    <label>Protestant</label>
+    <bar id="1">
+      <annotated_value>75.6</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>77.7</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Catholic</label>
+    <bar id="1">
+      <annotated_value>68.8</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>77.3</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Jewish</label>
+    <bar id="1">
+      <annotated_value>16.7</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>35.1</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

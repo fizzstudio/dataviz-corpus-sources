@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G206">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Australia's CO2-equivalent emissions from energy, by fuel, In millions of metric tons
+	</y-axis>
+  <legend>
+    <series id="1">
+			Coal
+		</series>
+    <series id="2">
+			Petroleum and natural gas
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1990
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			'95
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="7">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="8">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="9">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="10">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="11">
+    <label>
+			2000
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="12">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="13">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="14">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="15">
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

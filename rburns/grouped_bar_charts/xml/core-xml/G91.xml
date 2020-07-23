@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G91">
+  <orientation>vertical</orientation>
+  <y-axis>Comcast and Verizon landline phone subscribers by quarter, in millions.</y-axis>
+  <legend>
+    <series id="1">Verizon</series>
+    <series id="2">Comcast</series>
+  </legend>
+  <group id="1">
+    <label>Q1 2007</label>
+    <bar id="1">
+      <annotated_value>2.5</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>44.2</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Q2 2007</label>
+    <bar id="1">
+      <annotated_value>3.2</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>43.3</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Q3 2007</label>
+    <bar id="1">
+      <annotated_value>3.8</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>42.3</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Q4 2007</label>
+    <bar id="1">
+      <annotated_value>4.4</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>41.4</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Q1 2008</label>
+    <bar id="1">
+      <annotated_value>5.1</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>40.5</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

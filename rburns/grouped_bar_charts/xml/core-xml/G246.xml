@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G246">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			2007
+		</series>
+    <series id="2">
+			2008
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Age
+		</label>
+    <bold />
+    <bar id="1">
+      <annotated_value>
+				19,103
+			</annotated_value>
+      <bold />
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				24,582
+			</annotated_value>
+      <bold />
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Retaliation
+		</label>
+    <bar id="1">
+      <annotated_value>
+				26,663
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				32,690
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Sex
+		</label>
+    <bar id="1">
+      <annotated_value>
+				24,826
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				28,372
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Religion
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2,880
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3,273
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			National origin
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9,396
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10,601
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Race
+		</label>
+    <bar id="1">
+      <annotated_value>
+				30,510
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				33,397
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Disability
+		</label>
+    <bar id="1">
+      <annotated_value>
+				17,734
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				19,453
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G162">
+  <orientation>horizontal</orientation>
+  <y-axis>PERCENTAGE WHO RATE NATIONAL ECONOMY AS "POOR"</y-axis>
+  <legend>
+    <series id="1">REPUBLICAN</series>
+    <series id="2">DEMOCRAT</series>
+  </legend>
+  <group id="1">
+    <label>DEC. '08</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>FEB. '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>MAR. '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>JUNE '09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

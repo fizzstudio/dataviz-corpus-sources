@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G92">
+  <orientation>horizontal</orientation>
+  <y-axis>Opium users as % of total population</y-axis>
+  <legend>
+    <series id="1">1907/08</series>
+    <series id="2">2006</series>
+  </legend>
+  <group id="1">
+    <label>Singapore</label>
+    <bar id="1">
+      <annotated_value>16.4</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>0.004</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Macau</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Hong Kong</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>China</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>Formosa/Taiwan</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>Persia/Iran</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>Indochina</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>Siam/Thailand</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>Burma</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="10">
+    <label>Dutch East Indies/Indonesia</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="11">
+    <label>Philippines</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="12">
+    <label>India</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="13">
+    <label>Canada</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="14">
+    <label>United States</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

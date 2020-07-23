@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G215">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Percentage of employees leaving:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Participant
+		</series>
+    <series id="2">
+			Non-participant
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Before 3 years
+		</label>
+    <bar id="1">
+      <annotated_value>
+				12%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				42%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Before 4 years
+		</label>
+    <bar id="1">
+      <annotated_value>
+				20
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				51
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Before 5 years
+		</label>
+    <bar id="1">
+      <annotated_value>
+				33
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				59
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

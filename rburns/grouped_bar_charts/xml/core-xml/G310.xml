@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G310">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Ages
+	</x-axis>
+  <y-axis>
+		Number
+	</y-axis>
+  <legend>
+    <series id="1">
+			Under 20
+		</series>
+    <series id="2">
+			20-29
+		</series>
+    <series id="3">
+			30-39
+		</series>
+    <series id="4">
+			40 or older
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1992
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2,055
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				36,608
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				74,040
+			</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>
+				42,659
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5,884
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				45,604
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				77,101
+			</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>
+				71,119
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

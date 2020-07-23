@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G165">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">Ethanol price per gallon</series>
+    <series id="2">Corn price per bushel</series>
+  </legend>
+  <group id="1">
+    <label>June 31, 2006</label>
+    <bar id="1">
+      <annotated_value>$3.85</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$2.56</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>June 10, 2009</label>
+    <bar id="1">
+      <annotated_value>$2.08</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$4.54</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

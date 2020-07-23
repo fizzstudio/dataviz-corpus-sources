@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G207">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Chinese banks' ad spending, in millions of yuan
+	</y-axis>
+  <legend>
+    <series id="1">
+			2005
+		</series>
+    <series id="2">
+			2004
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			China Merchants Bank
+		</label>
+    <bar id="1">
+      <annotated_value>
+				253.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				132.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			China Construction Bank
+		</label>
+    <bar id="1">
+      <annotated_value>
+				232.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				138.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Bank of Communications
+		</label>
+    <bar id="1">
+      <annotated_value>
+				192.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				111.6
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			ICBC
+		</label>
+    <bar id="1">
+      <annotated_value>
+				166.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				131.0
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Agricultural Bank of China
+		</label>
+    <bar id="1">
+      <annotated_value>
+				162.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				107.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Bank of China
+		</label>
+    <bar id="1">
+      <annotated_value>
+				158.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				131.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Minsheng Bank
+		</label>
+    <bar id="1">
+      <annotated_value>
+				129.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				71.1
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

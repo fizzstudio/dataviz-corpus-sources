@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G78">
+  <orientation>vertical</orientation>
+  <y-axis>Number of tornadoes for each of the first six months of this year compared with the past three years' average for each month:</y-axis>
+  <legend>
+    <series id="1">2007</series>
+    <series id="2">2004-06 avg.</series>
+  </legend>
+  <group id="1">
+    <label>Jan.</label>
+    <bar id="1">
+      <annotated_value>29</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>28</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Feb.</label>
+    <bar id="1">
+      <annotated_value>89</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>10</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>March</label>
+    <bar id="1">
+      <annotated_value>225</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>87</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>April</label>
+    <bar id="1">
+      <annotated_value>188</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>167</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>May</label>
+    <bar id="1">
+      <annotated_value>321</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>257</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>June</label>
+    <bar id="1">
+      <annotated_value>156</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>234</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G132">
+  <orientation>vertical</orientation>
+  <y-axis>Campaign finance for presidential candidates, $bn, 2008 prices</y-axis>
+  <legend>
+    <series id="1">Contributions</series>
+    <series id="2">Spending</series>
+  </legend>
+  <group id="1">
+    <label>1976</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>80</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>84</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>88</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>92</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>96</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>2000</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>04</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>08*</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

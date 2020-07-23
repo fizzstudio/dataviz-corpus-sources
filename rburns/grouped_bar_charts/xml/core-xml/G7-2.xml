@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G7-2">
+  <orientation>vertical</orientation>
+  <y-axis>Heavy drinking, 18 years and older</y-axis>
+  <legend>
+    <series id="1">Men</series>
+    <series id="2">Women</series>
+  </legend>
+  <group id="1">
+    <label>1997</label>
+    <bar id="1">
+      <annotated_value>8.8%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>6.9%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>99</label>
+    <bar id="1">
+      <annotated_value>8.7%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>6.7%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>00</label>
+    <bar id="1">
+      <annotated_value>7.7%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>6.4%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

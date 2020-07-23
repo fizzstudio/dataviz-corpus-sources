@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G161">
+  <orientation>horizontal</orientation>
+  <y-axis>OPTIMAL ANNUAL SPENDING, PRE- AND POST-CRASH</y-axis>
+  <legend>
+    <series id="1">PRE-CRASH</series>
+    <series id="2">POST-CRASH</series>
+  </legend>
+  <group id="1">
+    <label>JILL AND JACK ARE 30, COMBINED ANNUAL EARNINGS: $150,000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>JILL AND JACK ARE 45, COMBINED ANNUAL EARNINGS: $200,000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>JILL AND JACK ARE 60, COMBINED ANNUAL EARNINGS: $200,000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

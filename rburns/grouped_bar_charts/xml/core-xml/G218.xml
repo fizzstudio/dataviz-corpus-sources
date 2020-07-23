@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G218">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Confirmed world-wide human cases of H5N1 avian influenza
+	</y-axis>
+  <legend>
+    <series id="1">
+			Infections
+		</series>
+    <series id="2">
+			Deaths
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2003
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			2004
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			2005
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			2006
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			2007
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			2008*
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

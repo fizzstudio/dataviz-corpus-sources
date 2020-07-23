@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G29">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">Low</series>
+    <series id="2">High</series>
+  </legend>
+  <group id="1">
+    <label>'07</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>'08</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>'09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>'10</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>'11</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>'12</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>'13</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>'14</label>
+    <bar id="1">
+      <annotated_value>0.63</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1.26</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

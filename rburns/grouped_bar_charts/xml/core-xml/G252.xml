@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G252">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Advanced degree
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$86,617
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$50,546
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Bachelor's degree
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$50,056
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$30,119
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Some college or associate degree
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$33,830
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$21,067
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

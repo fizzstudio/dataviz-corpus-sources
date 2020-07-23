@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G224">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Share of world IPO proceeds, by stock exchange
+	</y-axis>
+  <legend>
+    <series id="1">
+			1990
+		</series>
+    <series id="2">
+			1995
+		</series>
+    <series id="3">
+			2000
+		</series>
+    <series id="4">
+			2005
+		</series>
+    <series id="5">
+			2006
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Hong Kong
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+  </group>
+  <group id="2">
+    <label>
+			London Main Market
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+  </group>
+  <group id="3">
+    <label>
+			NYSE
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+  </group>
+  <group id="4">
+    <label>
+			Nasdaq
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+  </group>
+  <group id="5">
+    <label>
+			London AIM
+		</label>
+    <bar id="1" />
+    <bar id="2">
+      <annotated_value>
+				0
+			</annotated_value>
+    </bar>
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G24">
+  <orientation>vertical</orientation>
+  <y-axis>China's central government expenditure</y-axis>
+  <legend>
+    <series id="1">Education</series>
+    <series id="2">Social Security</series>
+    <series id="3">Military</series>
+    <series id="4">Rural support</series>
+  </legend>
+  <group id="1">
+    <label>2004</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+  <group id="2">
+    <label>05</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+  <group id="3">
+    <label>06*</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+</GroupedBarChart>

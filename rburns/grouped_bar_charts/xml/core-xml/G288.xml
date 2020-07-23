@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G288">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Those banking online
+		</series>
+    <series id="2">
+			Those who don't bank online
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Pay bills by mail
+		</label>
+    <bar id="1">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				74%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Visit bank in person
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				72%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Use ATM
+		</label>
+    <bar id="1">
+      <annotated_value>
+				72%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				40%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Use direct deposit
+		</label>
+    <bar id="1">
+      <annotated_value>
+				57%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				40%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Call automated phone system
+		</label>
+    <bar id="1">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				27%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Call customer service representative
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

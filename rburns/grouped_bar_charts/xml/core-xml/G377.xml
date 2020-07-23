@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G377">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Punch card or lever machine
+		</series>
+    <series id="2">
+			Optical scan or other modern electronic system
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				52.9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				36.4%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				58.0%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				32.3%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1994
+		</label>
+    <bar id="1">
+      <annotated_value>
+				63.1%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				25.8%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1992
+		</label>
+    <bar id="1">
+      <annotated_value>
+				69.4%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16.5%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1990
+		</label>
+    <bar id="1">
+      <annotated_value>
+				71.7%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				13.5%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			1988
+		</label>
+    <bar id="1">
+      <annotated_value>
+				73.3%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10.2%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

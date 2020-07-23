@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G4">
+  <orientation>horizontal</orientation>
+  <legend>
+    <series id="1">Big problem</series>
+    <series id="2">Little problem</series>
+  </legend>
+  <group id="1">
+    <label>Lack of affordable health care</label>
+    <bar id="1">
+      <annotated_value>53%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>22%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Job layoffs</label>
+    <bar id="1">
+      <annotated_value>49%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>23%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Lack of affordable housing</label>
+    <bar id="1">
+      <annotated_value>47%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>28%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Protecting Americans from terrorism</label>
+    <bar id="1">
+      <annotated_value>40%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>35%</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Pollution</label>
+    <bar id="1">
+      <annotated_value>30%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>43%</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>Crime</label>
+    <bar id="1">
+      <annotated_value>28%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>39%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

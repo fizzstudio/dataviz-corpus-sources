@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G314">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Number of Reserve Office Training Corps units on college campuses:
+	</y-axis>
+  <legend>
+    <series id="1">
+			1990
+		</series>
+    <series id="2">
+			2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Army
+		</label>
+    <bar id="1">
+      <annotated_value>
+				416
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				270
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Navy / Marines
+		</label>
+    <bar id="1">
+      <annotated_value>
+				66
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				57
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Air Force
+		</label>
+    <bar id="1">
+      <annotated_value>
+				143
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				143
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G235">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Total retail investment, in bilions
+	</y-axis>
+  <legend>
+    <series id="1">
+			2007
+		</series>
+    <series id="2">
+			2008
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Single Investment
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			Portfolio Investment
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

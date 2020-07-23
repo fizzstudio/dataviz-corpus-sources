@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G263-A">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Attributes that business travelers consider extremely or very desireable
+	</x-axis>
+  <legend>
+    <series id="1">
+			GenXers
+		</series>
+    <series id="2">
+			Boomers
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Free in-room movies
+		</label>
+    <bar id="1">
+      <annotated_value>
+				63%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Computer dataports in room
+		</label>
+    <bar id="1">
+      <annotated_value>
+				52%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				38%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Access to the Internet
+		</label>
+    <bar id="1">
+      <annotated_value>
+				48%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

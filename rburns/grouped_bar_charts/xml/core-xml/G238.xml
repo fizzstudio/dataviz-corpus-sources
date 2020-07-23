@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G238">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Select countries' share of world gross domestic product and stake in the IMF.
+	</y-axis>
+  <legend>
+    <series id="1">
+			Share of world economy
+		</series>
+    <series id="2">
+			Share in the IMF
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			U.S.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				20.1%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.4%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			China
+		</label>
+    <bar id="1">
+      <annotated_value>
+				15.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.0
+			</annotated_value>
+    </bar>
+	<bold />
+  </group>
+  <group id="3">
+    <label>
+			Euro-zone nations
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				25.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Japan
+		</label>
+    <bar id="1">
+      <annotated_value>
+				6.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Mexico
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			South Korea
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.8
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Turkey
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.9
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.5
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

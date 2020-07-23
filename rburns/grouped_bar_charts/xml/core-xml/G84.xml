@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G84">
+  <orientation>horizontal</orientation>
+  <y-axis>Deaths before 5 years of age, per 1,000 live births</y-axis>
+  <legend>
+    <series id="1">1990</series>
+    <series id="2">2006</series>
+  </legend>
+  <group id="1">
+    <label>West and Central Africa</label>
+    <bar id="1">
+      <annotated_value>208</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>186</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Sub-Saharan Africa</label>
+    <bar id="1">
+      <annotated_value>187</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>160</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Eastern and Southern Africa</label>
+    <bar id="1">
+      <annotated_value>165</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>131</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>South Asia</label>
+    <bar id="1">
+      <annotated_value>123</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>83</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>All developing nations</label>
+    <bar id="1">
+      <annotated_value>103</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>79</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>Middle East and North Africa</label>
+    <bar id="1">
+      <annotated_value>79</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>46</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>East Asia and Pacific</label>
+    <bar id="1">
+      <annotated_value>55</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>29</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>Latin America and Caribbean</label>
+    <bar id="1">
+      <annotated_value>55</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>27</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>United States</label>
+    <bar id="1">
+      <annotated_value>12</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>8</annotated_value>
+    </bar>
+  </group>
+  <group id="10">
+    <label>All industrialized nations</label>
+    <bar id="1">
+      <annotated_value>10</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>6</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G358">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			TV
+		</label>
+    <bar id="1">
+      <annotated_value>
+				144
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				132
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Radio
+		</label>
+    <bar id="1">
+      <annotated_value>
+				122
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				72
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Magazines
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				36
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Newspapers
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				38
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Books
+		</label>
+    <bar id="1">
+      <annotated_value>
+				26
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				54
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Online
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				38
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Computer (not online)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				39
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				51
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G71">
+  <orientation>vertical</orientation>
+  <y-axis>Income distribution</y-axis>
+  <legend>
+    <series id="1">1979</series>
+    <series id="2">2004</series>
+  </legend>
+  <group id="1">
+    <label>Poor</label>
+    <bar id="1">
+      <annotated_value>9.8%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>9.3%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Near poor</label>
+    <bar id="1">
+      <annotated_value>14.2%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>13.7%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Middle class</label>
+    <bar id="1">
+      <annotated_value>47%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>39.2%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Well off</label>
+    <bar id="1">
+      <annotated_value>29%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>37.8%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

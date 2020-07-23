@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G233">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		in billions
+	</y-axis>
+  <legend>
+    <series id="1">
+			Initial estimate
+		</series>
+    <series id="2">
+			Latest estimate
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Joint strike fighter
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$189.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$276.5
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Future combat systems
+		</label>
+    <bar id="1">
+      <annotated_value>
+				82.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				164.6
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Expeditionary fighting vehicle
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Space-based infrared system
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10.2
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

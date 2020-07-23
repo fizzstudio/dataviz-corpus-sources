@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G267">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Favor
+		</series>
+    <series id="2">
+			Oppose
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Percentage of registered voters who favor "patients rights" legislation
+		</label>
+    <bar id="1">
+      <annotated_value>
+				72%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Percentage who favor if premiums climb $20
+		</label>
+    <bar id="1">
+      <annotated_value>
+				53%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				31%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

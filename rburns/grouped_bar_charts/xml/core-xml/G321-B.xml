@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G321-B">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Percentage of cases
+	</y-axis>
+  <legend>
+    <series id="1">
+			Definite asthma
+		</series>
+    <series id="2">
+			Probable asthma
+		</series>
+    <series id="3">
+			Total asthma
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Tokelau
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.3%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9.8%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				11%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			New Zealand
+		</label>
+    <bar id="1">
+      <annotated_value>
+				6.9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				18.4%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				25%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

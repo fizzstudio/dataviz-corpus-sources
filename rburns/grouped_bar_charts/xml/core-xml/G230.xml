@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G230">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Credit increased
+		</series>
+    <series id="2">
+			Credit decreased
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1Q 2006
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			2Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			3Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			4Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			1Q 2007
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			2Q
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

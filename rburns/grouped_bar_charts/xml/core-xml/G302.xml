@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G302">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Cost in these years to own and drive a midsize car in actual dollars vs. today's dollars:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Actual dollars
+		</series>
+    <series id="2">
+			Today's dollars
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1960
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,394
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$8,053
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1970
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,763
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$7,770
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1980
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3,176
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$6,591
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1990
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$5,136
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$6,720
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$6,880
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$6,880
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G361-A">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Age
+	</x-axis>
+  <y-axis>
+		(full-time year-round workers)
+	</y-axis>
+  <legend>
+    <series id="1">
+			Male
+		</series>
+    <series id="2">
+			Female
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			25-34
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$32,599
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$26,670
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			35-44
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$40,916
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$29,155
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			45-54
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$46,228
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$30,848
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			55-64
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$44,264
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$28,674
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			65 or older
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$45,781
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$30,013
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

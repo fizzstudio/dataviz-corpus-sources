@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G195">
+  <orientation>horizontal</orientation>
+  <y-axis>PRICE OF CREDIT DEFAULT SWAP, THOUSANDS OF EUROS</y-axis>
+  <legend>
+    <series id="1">DEC. 31, '09</series>
+    <series id="2">FEB. 10, '10</series>
+  </legend>
+  <group id="1">
+    <label>GREECE</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>PORTUGAL</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>IRELAND</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>SPAIN</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>GERMANY</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

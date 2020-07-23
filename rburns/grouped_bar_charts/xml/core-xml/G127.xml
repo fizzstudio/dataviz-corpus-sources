@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G127">
+  <orientation>vertical</orientation>
+  <y-axis>Estimated violent deaths per day for Iraqi civilians</y-axis>
+  <legend>
+    <series id="1">WHO/Iraq government</series>
+    <series id="2">Iraq Body Count</series>
+    <series id="3">The Lancet</series>
+  </legend>
+  <group id="1">
+    <label>March '03 - April '04</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">		
+		</bar>
+  </group>
+  <group id="2">
+    <label>May '04 - May '05</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">		
+		</bar>
+  </group>
+  <group id="3">
+    <label>June '05 - June '06</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">		
+		</bar>
+  </group>
+</GroupedBarChart>

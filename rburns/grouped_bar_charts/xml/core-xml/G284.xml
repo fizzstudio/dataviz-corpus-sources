@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G284">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			More
+		</series>
+    <series id="2">
+			Less
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Interest
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				18%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Ability: financial
+		</label>
+    <bar id="1">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				29%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Ability: time
+		</label>
+    <bar id="1">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Service quality
+		</label>
+    <bar id="1">
+      <annotated_value>
+				27%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Affordability
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G287">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Incidences per hour of programming:
+	</y-axis>
+  <legend>
+    <series id="1">
+			1989
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			ABC
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.71
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.64
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			CBS
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.66
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2.21
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Fox
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6.29
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			NBC
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.26
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7.64
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

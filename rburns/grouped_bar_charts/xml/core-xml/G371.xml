@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G371">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			'97-'98
+		</series>
+    <series id="2">
+			'99-'00
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Reading
+		</label>
+    <bar id="1">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				58%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Math
+		</label>
+    <bar id="1">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				58%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Science
+		</label>
+    <bar id="1">
+      <annotated_value>
+				28%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				69%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Social studies
+		</label>
+    <bar id="1">
+      <annotated_value>
+				29%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				68%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G174">
+  <orientation>veritcal</orientation>
+  <y-axis>Prevalence of high body mass index (B.M.I.) in children and adolescents, 2007-8</y-axis>
+  <legend>
+    <series id="1">2 to 5 years old</series>
+    <series id="2">6 to 11</series>
+    <series id="3">12 to 19</series>
+  </legend>
+  <group id="1">
+    <label>Hispanic</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="2">
+    <label>White</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Black</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+</GroupedBarChart>

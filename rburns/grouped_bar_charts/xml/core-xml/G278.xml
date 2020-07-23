@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G278">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		in millions of tons
+	</y-axis>
+  <legend>
+    <series id="1">
+			1990
+		</series>
+    <series id="2">
+			1998
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Sulfur dioxide emissions
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				19.6
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Nitrogen oxide emissions
+		</label>
+    <bar id="1">
+      <annotated_value>
+				24
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				24.5
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

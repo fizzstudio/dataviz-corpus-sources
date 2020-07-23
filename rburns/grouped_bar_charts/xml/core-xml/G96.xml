@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G96">
+  <orientation>vertical</orientation>
+  <y-axis>Number of mentions in Russian media, 2008</y-axis>
+  <legend>
+    <series id="1">Andrei Bogdanov</series>
+    <series id="2">Gennady Zyuganov</series>
+    <series id="3">Vladimir Zhirinovsky</series>
+    <series id="4">Dimitry Medvedev</series>
+  </legend>
+  <group id="1">
+    <label>Jan 1st-Jan 11th</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Jan 12th-Jan 22nd</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Jan 23rd-Feb 2nd</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Feb 3rd-Feb 13th</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+  <group id="5">
+    <label>Feb 14th-Feb 27th</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+    <bar id="4">
+		</bar>
+  </group>
+</GroupedBarChart>

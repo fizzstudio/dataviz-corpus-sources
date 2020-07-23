@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G281">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Percentage of male and female middle school students who have used these tobacco products within the 30 days before the National Youth Tobacco Survey
+	</y-axis>
+  <legend>
+    <series id="1">
+			Boys
+		</series>
+    <series id="2">
+			Girls
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Cigarettes
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9.6%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				8.8%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Smokeless tobacco
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.2%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.3%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Cigar
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7.8%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.4%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Pipe
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3.5%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.4%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

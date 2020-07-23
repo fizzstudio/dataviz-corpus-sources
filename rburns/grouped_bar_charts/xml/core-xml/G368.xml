@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G368">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Democrats
+		</series>
+    <series id="2">
+			Republicans
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1991-92
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$34.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$49.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1993-94
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$39.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$45.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1995-96
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$108.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$127.0
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1997-98
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$79.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$113.8
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1999-00
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$161.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$197.8
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

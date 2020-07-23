@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G255">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		The estimates in millions, by year.
+	</y-axis>
+  <legend>
+    <series id="1">
+			Low
+		</series>
+    <series id="2">
+			Middle
+		</series>
+    <series id="3">
+			High
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				275
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				275
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				276
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			2025
+		</label>
+    <bar id="1">
+      <annotated_value>
+				308
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				338
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				380
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			2050
+		</label>
+    <bar id="1">
+      <annotated_value>
+				314
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				404
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				553
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			2075
+		</label>
+    <bar id="1">
+      <annotated_value>
+				304
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				481
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				809
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			2100
+		</label>
+    <bar id="1">
+      <annotated_value>
+				283
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				571
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				1,182
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

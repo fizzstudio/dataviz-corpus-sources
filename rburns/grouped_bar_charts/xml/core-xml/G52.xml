@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G52">
+  <orientation>vertical</orientation>
+  <y-axis>College students' expected hours of downtime compared with hours spent preparing for class:</y-axis>
+  <legend>
+    <series id="1">Relaxing/Socializing</series>
+    <series id="2">Preparing for class</series>
+  </legend>
+  <group id="1">
+    <label>Male</label>
+    <bar id="1">
+      <annotated_value>13</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>16</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Female</label>
+    <bar id="1">
+      <annotated_value>10</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>18</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

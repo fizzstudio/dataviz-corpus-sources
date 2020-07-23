@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G135">
+  <orientation>vertical</orientation>
+  <y-axis>British companies providing Christmas office parties, By sector, %</y-axis>
+  <legend>
+    <series id="1">Manufacturing</series>
+    <series id="2">Services</series>
+    <series id="3">Non-profit</series>
+    <series id="4">Public</series>
+  </legend>
+  <group id="1">
+    <label>2006</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+  </group>
+  <group id="2">
+    <label>2007</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+  </group>
+  <group id="3">
+    <label>2008</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+  </group>
+</GroupedBarChart>

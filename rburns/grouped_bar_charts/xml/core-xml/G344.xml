@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G344">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Gold
+		</series>
+    <series id="2">
+			Silver
+		</series>
+    <series id="3">
+			Bronze
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			USSR / Russia / Unified Team
+		</label>
+    <bar id="1">
+      <annotated_value>
+				84
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				74
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				49
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Japan
+		</label>
+    <bar id="1">
+      <annotated_value>
+				27
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				28
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				31
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			USA
+		</label>
+    <bar id="1">
+      <annotated_value>
+				26
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				23
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				28
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Germany
+		</label>
+    <bar id="1">
+      <annotated_value>
+				19
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				21
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				30
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G276">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		In millions of dollars
+	</y-axis>
+  <legend>
+    <series id="1">
+			1968 value
+		</series>
+    <series id="2">
+			'68 value in today's dollars
+		</series>
+    <series id="3">
+			Latest sale price
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Kansas City
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$5.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$26.7
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$96
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			San Diego
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$12.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$60.6
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$85
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Cleveland
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$8.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$39.8
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$320
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

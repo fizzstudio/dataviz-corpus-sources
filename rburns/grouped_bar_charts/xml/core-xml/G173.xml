@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G173">
+  <orientation>horizontal</orientation>
+  <x-axis>Luxury brands</x-axis>
+  <y-axis>MARKET SHARE, by units sold</y-axis>
+  <legend>
+    <series id="1">Audi</series>
+    <series id="2">BMW</series>
+    <series id="3">Mercedes-Benz</series>
+  </legend>
+  <group id="1">
+    <label>2003</label>
+    <bar id="1">
+      <annotated_value>14%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>20%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>24%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2008</label>
+    <bar id="1">
+      <annotated_value>17%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>24%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>23%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G250">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Traditional
+		</series>
+    <series id="2">
+			Online
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2004
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			'05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'06
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'07
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'08
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

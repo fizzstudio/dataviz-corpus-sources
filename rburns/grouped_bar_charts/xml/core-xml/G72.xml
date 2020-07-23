@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G72">
+  <orientation>horizontal</orientation>
+  <y-axis>Average annual total returns as of 3/31/07</y-axis>
+  <legend>
+    <series id="1">Capital Appreciation Fund</series>
+    <series id="2">Lipper Flexible Portfolio Funds Average</series>
+  </legend>
+  <group id="1">
+    <label>1 Year</label>
+    <bar id="1">
+      <annotated_value>11.81%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>9.10%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>5 Years</label>
+    <bar id="1">
+      <annotated_value>10.90%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>7.11%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>10 Years</label>
+    <bar id="1">
+      <annotated_value>12.29%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>7.54%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

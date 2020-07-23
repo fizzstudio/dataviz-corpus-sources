@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G33">
+  <orientation>vertical</orientation>
+  <y-axis>Percentage of newly approved first-in-class drugs with at least one competitor in an earlier stage of development</y-axis>
+  <legend>
+    <series id="1">Synthesis</series>
+    <series id="2">First pharmacological test</series>
+    <series id="3">First tests in humans</series>
+    <series id="4">Filing Investigational New Drug application</series>
+    <series id="5">Phase II human trials</series>
+    <series id="6">Phase III human trials</series>
+  </legend>
+  <group id="1">
+    <label>1960s</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+    <bar id="5">	
+		</bar>
+    <bar id="6">	
+		</bar>
+  </group>
+  <group id="2">
+    <label>1970s</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+    <bar id="5">	
+		</bar>
+    <bar id="6">	
+		</bar>
+  </group>
+  <group id="3">
+    <label>'80-'84</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+    <bar id="5">	
+		</bar>
+    <bar id="6">	
+		</bar>
+  </group>
+  <group id="4">
+    <label>'85-'89</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+    <bar id="5">	
+		</bar>
+    <bar id="6">	
+		</bar>
+  </group>
+  <group id="5">
+    <label>'90-'94</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+    <bar id="5">	
+		</bar>
+    <bar id="6">	
+		</bar>
+  </group>
+  <group id="6">
+    <label>'95-'98</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+    <bar id="5">	
+		</bar>
+    <bar id="6">	
+		</bar>
+  </group>
+</GroupedBarChart>

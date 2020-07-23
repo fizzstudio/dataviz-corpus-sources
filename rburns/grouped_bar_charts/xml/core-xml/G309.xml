@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G309">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			White
+		</series>
+    <series id="2">
+			Black
+		</series>
+    <series id="3">
+			Hispanic
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Grade 4
+		</label>
+    <bar id="1">
+      <annotated_value>
+				39%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				13%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Grade 8
+		</label>
+    <bar id="1">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Grade 12
+		</label>
+    <bar id="1">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				18%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				26%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

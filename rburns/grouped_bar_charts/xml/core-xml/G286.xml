@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G286">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		The median age of men and women who tied the knot for the first time in 1970 and 1998:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1970
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				20.8
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				26.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				25
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

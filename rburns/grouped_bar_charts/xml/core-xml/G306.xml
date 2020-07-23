@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G306">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		in billions:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Lawyer's fees
+		</series>
+    <series id="2">
+			Settlement payment
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Florida
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$13.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Texas
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$17.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Mississippi
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$4.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Massachusetts
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$0.78
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$8.3
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Louisiana
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$0.56
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$4.6
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Ohio
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$0.27
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$10.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Oklahoma
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$0.25
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

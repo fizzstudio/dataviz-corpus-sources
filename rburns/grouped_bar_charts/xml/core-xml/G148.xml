@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G148">
+  <orientation>vertical</orientation>
+  <y-axis>Average cost, uranium per pound, coal per ton</y-axis>
+  <legend>
+    <series id="1">'96</series>
+    <series id="2">'07</series>
+  </legend>
+  <group id="1">
+    <label>Uranium</label>
+    <bar id="1">
+      <annotated_value>$14.12</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$32.78</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Coal</label>
+    <bar id="1">
+      <annotated_value>$25.17</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$40.83</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

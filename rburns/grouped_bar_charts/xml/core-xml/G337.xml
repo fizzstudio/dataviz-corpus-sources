@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G337">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Average monthly retirement income, based on marital status:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Married
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,714
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1,630
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Widowed
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,303
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$988
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Divorced
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,092
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$833
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

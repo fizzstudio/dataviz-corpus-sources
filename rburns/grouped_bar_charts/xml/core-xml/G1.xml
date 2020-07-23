@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G1">
+  <orientation>vertical</orientation>
+  <y-axis>Percentage of Americans who postpone doctor's visits because of costs:</y-axis>
+  <legend>
+    <series id="1">Men</series>
+    <series id="2">Women</series>
+  </legend>
+  <group id="1">
+    <label>Under 49 years old</label>
+    <bar id="1">
+      <annotated_value>21%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>37%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Over 50</label>
+    <bar id="1">
+      <annotated_value>17%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>21%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

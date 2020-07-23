@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G9">
+  <orientation>horizontal</orientation>
+  <x-axis>Benchmark programs</x-axis>
+  <y-axis>Program slowdown</y-axis>
+  <legend>
+    <series id="1">New method</series>
+    <series id="2">Standard XOM</series>
+  </legend>
+  <group id="1">
+    <label>mcf</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>ammp</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>parser</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>bzip2</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>gcc</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>vpr</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>art</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

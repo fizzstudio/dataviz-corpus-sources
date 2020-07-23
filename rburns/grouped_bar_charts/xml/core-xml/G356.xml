@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G356">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			High school
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$30,868
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$21,963
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Bachelor's degree
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$49,982
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$35,408
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Professional degree
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$90,653
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$55,460
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

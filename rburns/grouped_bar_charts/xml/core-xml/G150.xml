@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G150">
+  <orientation>vertical</orientation>
+  <y-axis>Defendants pleading guilty to one drug-possession charge</y-axis>
+  <legend>
+    <series id="1">Pleaded to misdemeanor</series>
+    <series id="2">Pleaded to felony</series>
+  </legend>
+  <group id="1">
+    <label>2000</label>
+    <bar id="1">
+      <annotated_value>907</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2,302</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2001</label>
+    <bar id="1">
+      <annotated_value>878</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2,562</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2002</label>
+    <bar id="1">
+      <annotated_value>609</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,786</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>2003</label>
+    <bar id="1">
+      <annotated_value>413</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,838</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>2004</label>
+    <bar id="1">
+      <annotated_value>330</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2,119</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>2005</label>
+    <bar id="1">
+      <annotated_value>338</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3,171</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>2006</label>
+    <bar id="1">
+      <annotated_value>281</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3,169</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>2007</label>
+    <bar id="1">
+      <annotated_value>239</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2,801</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

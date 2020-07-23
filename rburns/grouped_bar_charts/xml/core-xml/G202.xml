@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G202">
+  <orientation>vertical</orientation>
+  <x-axis>Breakdown of Bulgari's revenue by geographic region</x-axis>
+  <y-axis>in millions of euros</y-axis>
+  <legend>
+    <series id="1">2007</series>
+    <series id="2">2006</series>
+  </legend>
+  <group id="1">
+    <label>Europe</label>
+    <bar id="1">
+      <annotated_value>EUR 427.3</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>EUR 387.7</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Japan</label>
+    <bar id="1">
+      <annotated_value>231.7</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>256.6</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Rest of Asia</label>
+    <bar id="1">
+      <annotated_value>197.6</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>149.8</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Americas</label>
+    <bar id="1">
+      <annotated_value>176.4</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>159.1</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Middle East/Other</label>
+    <bar id="1">
+      <annotated_value>58.0</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>57.2</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

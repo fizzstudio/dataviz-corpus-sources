@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G12-B">
+  <orientation>vertical</orientation>
+  <y-axis>PERCENTAGE OF SOFTWARE IN USE WHICH IS PIRATED</y-axis>
+  <legend>
+    <series id="1">1994</series>
+    <series id="2">2002</series>
+  </legend>
+  <group id="1">
+    <label>China</label>
+    <bar id="1">
+      <annotated_value>97%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>92</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>World</label>
+    <bar id="1">
+      <annotated_value>49</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>39</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

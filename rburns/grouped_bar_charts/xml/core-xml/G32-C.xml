@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G32-C">
+  <orientation>vertical</orientation>
+  <y-axis>Market share</y-axis>
+  <legend>
+    <series id="1">Asian</series>
+    <series id="2">Domestic</series>
+    <series id="3">European</series>
+  </legend>
+  <group id="1">
+    <label>1993</label>
+    <bar id="1">
+      <annotated_value>23.8%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>73.9%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>2.3%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>1998</label>
+    <bar id="1">
+      <annotated_value>25%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>70.1%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>4.9%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2003</label>
+    <bar id="1">
+      <annotated_value>32.7%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>60.2%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>7.2%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

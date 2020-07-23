@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G212">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Primary aluminum output and consumption in China, in millions of tons
+	</y-axis>
+  <legend>
+    <series id="1">
+			Output
+		</series>
+    <series id="2">
+			Consumption
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2002
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			'03
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'04
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'06
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G20-B">
+  <orientation>horizontal</orientation>
+  <legend>
+    <series id="1">More favorable</series>
+    <series id="2">Less favorable</series>
+  </legend>
+  <group id="1">
+    <label>Indonesia</label>
+    <bar id="1">
+      <annotated_value>12%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>52%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Canada</label>
+    <bar id="1">
+      <annotated_value>20%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>75%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Germany</label>
+    <bar id="1">
+      <annotated_value>14%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>77%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Netherlands</label>
+    <bar id="1">
+      <annotated_value>24%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>72%</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Russia</label>
+    <bar id="1">
+      <annotated_value>15%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>36%</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>India</label>
+    <bar id="1">
+      <annotated_value>28%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>35%</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>France</label>
+    <bar id="1">
+      <annotated_value>19%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>74%</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>Spain</label>
+    <bar id="1">
+      <annotated_value>19%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>60%</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>Great Britain</label>
+    <bar id="1">
+      <annotated_value>18%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>62%</annotated_value>
+    </bar>
+  </group>
+  <group id="10">
+    <label>Poland</label>
+    <bar id="1">
+      <annotated_value>21%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>18%</annotated_value>
+    </bar>
+  </group>
+  <group id="11">
+    <label>Turkey</label>
+    <bar id="1">
+      <annotated_value>11%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>62%</annotated_value>
+    </bar>
+  </group>
+  <group id="12">
+    <label>Pakistan</label>
+    <bar id="1">
+      <annotated_value>10%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>36%</annotated_value>
+    </bar>
+  </group>
+  <group id="13">
+    <label>Jordan</label>
+    <bar id="1">
+      <annotated_value>10%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>31%</annotated_value>
+    </bar>
+  </group>
+  <group id="14">
+    <label>Lebanon</label>
+    <bar id="1">
+      <annotated_value>9%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>57%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

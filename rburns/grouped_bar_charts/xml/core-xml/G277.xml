@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G277">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Elementary
+		</series>
+    <series id="2">
+			Secondary
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1983
+		</label>
+    <bar id="1">
+      <annotated_value>
+				19.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1993
+		</label>
+    <bar id="1">
+      <annotated_value>
+				18.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				14.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			2003
+		</label>
+    <bar id="1">
+      <annotated_value>
+				17.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				14
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			2008
+		</label>
+    <bar id="1">
+      <annotated_value>
+				17
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				13.8
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

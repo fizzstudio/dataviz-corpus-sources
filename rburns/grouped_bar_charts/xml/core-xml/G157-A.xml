@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G157-A">
+  <orientation>vertical</orientation>
+  <y-axis>Revenue, in billions</y-axis>
+  <legend>
+    <series id="1">Second quarter 2008</series>
+    <series id="2">Second quarter 2009</series>
+  </legend>
+  <group id="1">
+    <label>United</label>
+    <bar id="1">
+      <annotated_value>$5.4</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>4.0</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Continental</label>
+    <bar id="1">
+      <annotated_value>4.0</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3.1</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Southwest</label>
+    <bar id="1">
+      <annotated_value>2.9</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2.6</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

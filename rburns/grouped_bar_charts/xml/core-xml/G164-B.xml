@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G164-B">
+  <orientation>horizontal</orientation>
+  <y-axis>GOVERNMENT DEBT PERCENTAGE YIELD</y-axis>
+  <legend>
+    <series id="1">U.S.</series>
+    <series id="2">EUROPE</series>
+  </legend>
+  <group id="1">
+    <label>3 MONTH</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>6 MONTH</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>1 YEAR</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>2 YEAR</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>3 YEAR</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>5 YEAR</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>7 YEAR</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>10 YEAR</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>30 YEAR</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G279">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Suspect samples
+		</series>
+    <series id="2">
+			Crime scene samples
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			October '97
+		</label>
+    <bar id="1">
+      <annotated_value>
+				200,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				18,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			March '98
+		</label>
+    <bar id="1">
+      <annotated_value>
+				250,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				30,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			February '99
+		</label>
+    <bar id="1">
+      <annotated_value>
+				470,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				50,000
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			January '00
+		</label>
+    <bar id="1">
+      <annotated_value>
+				660,000
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				64,000
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

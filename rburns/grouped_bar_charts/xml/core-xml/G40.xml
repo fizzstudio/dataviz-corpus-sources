@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G40">
+  <orientation>vertical</orientation>
+  <y-axis>The pay gap between men and women narrows for jobs that require security clearance. What a woman earns for every dollar a man earns, in jobs that:</y-axis>
+  <legend>
+    <series id="1">Men</series>
+    <series id="2">Women</series>
+  </legend>
+  <group id="1">
+    <label>Require a security clearance</label>
+    <bar id="1">
+      <annotated_value>$1.00</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$0.89</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Don't require a security clearance</label>
+    <bar id="1">
+      <annotated_value>$1.00</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$0.77</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G264">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			China
+		</series>
+    <series id="2">
+			Hong Kong
+		</series>
+    <series id="3">
+			India
+		</series>
+    <series id="4">
+			Indonesia
+		</series>
+    <series id="5">
+			Korea
+		</series>
+    <series id="6">
+			Malaysia
+		</series>
+    <series id="7">
+			Singapore
+		</series>
+    <series id="8">
+			Taiwan
+		</series>
+    <series id="9">
+			Thailand
+		</series>
+    <series id="10">
+			Japan
+		</series>
+    <series id="11">
+			USA
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Percentage of residents with fixed-line phones
+		</label>
+    <bar id="1">
+      <annotated_value>
+				11%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				61%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				2%
+			</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>
+				3%
+			</annotated_value>
+    </bar>
+    <bar id="5">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+    <bar id="6">
+      <annotated_value>
+				21%
+			</annotated_value>
+    </bar>
+    <bar id="7">
+      <annotated_value>
+				59%
+			</annotated_value>
+    </bar>
+    <bar id="8">
+      <annotated_value>
+				55%
+			</annotated_value>
+    </bar>
+    <bar id="9">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+    <bar id="10">
+      <annotated_value>
+				48%
+			</annotated_value>
+    </bar>
+    <bar id="11">
+      <annotated_value>
+				95%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Percentage of households with personal computers
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				29%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				0.3%
+			</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>
+				0.7%
+			</annotated_value>
+    </bar>
+    <bar id="5">
+      <annotated_value>
+				16.4%
+			</annotated_value>
+    </bar>
+    <bar id="6">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+    <bar id="7">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+    <bar id="8">
+      <annotated_value>
+				14%
+			</annotated_value>
+    </bar>
+    <bar id="9">
+      <annotated_value>
+				3%
+			</annotated_value>
+    </bar>
+    <bar id="10">
+      <annotated_value>
+				33%
+			</annotated_value>
+    </bar>
+    <bar id="11">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

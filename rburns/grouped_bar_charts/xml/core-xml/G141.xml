@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G141">
+  <orientation>vertical</orientation>
+  <y-axis>Military recruiting goals and totals in December 2008</y-axis>
+  <legend>
+    <series id="1">Goal</series>
+    <series id="2">Actual</series>
+  </legend>
+  <group id="1">
+    <label>Army</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Navy</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Marine Corps</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Air Force</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>Army National Guard</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>Army Reserve</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>Navy Reserve</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>Marine Corps Reserve</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>Air National Guard</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="10">
+    <label>Air Force Reserve</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

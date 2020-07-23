@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G387">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			USA
+		</series>
+    <series id="2">
+			Foreign
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Mammals
+		</label>
+    <bar id="1">
+      <annotated_value>
+				63
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				251
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Birds
+		</label>
+    <bar id="1">
+      <annotated_value>
+				78
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				175
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Reptiles
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				64
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Amphibians
+		</label>
+    <bar id="1">
+      <annotated_value>
+				10
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				8
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

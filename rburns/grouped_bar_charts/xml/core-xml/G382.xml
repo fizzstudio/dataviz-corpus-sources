@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G382">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1999
+		</series>
+    <series id="2">
+			2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			United Health
+		</label>
+    <bar id="1">
+      <annotated_value>
+				81 cents
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1.08
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Cigna
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1.47
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1.76
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Oxford
+		</label>
+    <bar id="1">
+      <annotated_value>
+				34 cents
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				81 cents
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Wellpoint
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1.11
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1.38
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Pacificare
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1.54
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				15 cents
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Aetna
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1.29
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1.24
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

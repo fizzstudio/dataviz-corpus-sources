@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G323">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			New York
+		</series>
+    <series id="2">
+			U.S. average
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1990
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$70.80
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$65.12
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$64.29
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$68.39
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G361-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Education
+	</x-axis>
+  <y-axis>
+		(25 or older)
+	</y-axis>
+  <legend>
+    <series id="1">
+			Male
+		</series>
+    <series id="2">
+			Female
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			High school graduate
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$33,184
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$23,061
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Some college
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$39,221
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$27,757
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Bachelor's degree or more
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$60,201
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$41,747
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Doctoral degree
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$81,687
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$60,079
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

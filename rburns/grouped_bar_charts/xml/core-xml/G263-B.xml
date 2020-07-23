@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G263-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Attributes that business travelers consider extremely or very desireable
+	</x-axis>
+  <legend>
+    <series id="1">
+			GenXers
+		</series>
+    <series id="2">
+			Boomers
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Offers ticketless travel
+		</label>
+    <bar id="1">
+      <annotated_value>
+				66%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				55%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			In-flight laptop connection
+		</label>
+    <bar id="1">
+      <annotated_value>
+				63%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			In-flight telephone service
+		</label>
+    <bar id="1">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

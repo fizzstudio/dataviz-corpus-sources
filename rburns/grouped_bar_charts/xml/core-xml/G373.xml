@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G373">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Clinton
+		</series>
+    <series id="2">
+			Lazio
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			June 20
+		</label>
+    <bar id="1">
+      <annotated_value>
+				42%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				42%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Sept. 12
+		</label>
+    <bar id="1">
+      <annotated_value>
+				49%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Sept. 21
+		</label>
+    <bar id="1">
+      <annotated_value>
+				48%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Oct. 13
+		</label>
+    <bar id="1">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Wednesday
+		</label>
+    <bar id="1">
+      <annotated_value>
+				49%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

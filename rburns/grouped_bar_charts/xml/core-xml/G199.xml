@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G199">
+  <orientation>vertical</orientation>
+  <y-axis>PROFIT MARGINS OF U.S. HEALTH-CARE INDUSTRIES</y-axis>
+  <legend>
+    <series id="1">2006</series>
+    <series id="2">2007</series>
+    <series id="3">2008</series>
+    <series id="4">2009</series>
+  </legend>
+  <group id="1">
+    <label>DRUG RETAILERS</label>
+    <bar id="1">
+      <annotated_value>1%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>1%</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>1%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>HEALTH_CARE PROVIDERS</label>
+    <bar id="1">
+      <annotated_value>5%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>5%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>4%</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>5%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>MEDICAL EQUIPMENT</label>
+    <bar id="1">
+      <annotated_value>11%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>14%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>16%</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>17%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>PHARMACEUTICALS</label>
+    <bar id="1">
+      <annotated_value>13%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>14%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>16%</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>17%</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>BIOTECHNOLOGY</label>
+    <bar id="1">
+      <annotated_value>21%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>24%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>26%</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>27%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G243-B">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Construction, As a percentage of GDP
+	</y-axis>
+  <legend>
+    <series id="1">
+			2000
+		</series>
+    <series id="2">
+			2004
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Spain
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			U.K.
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			U.S.
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			Germany
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

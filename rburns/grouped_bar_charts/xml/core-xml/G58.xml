@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G58">
+  <orientation>horizontal</orientation>
+  <y-axis>Financial data of three banking groups; in trillions of yen</y-axis>
+  <legend>
+    <series id="1">MUFG</series>
+    <series id="2">Mizuho</series>
+    <series id="3">SMFG</series>
+  </legend>
+  <group id="1">
+    <label>Total assets</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Deposits</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Loans</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+</GroupedBarChart>

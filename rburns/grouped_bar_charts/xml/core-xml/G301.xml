@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G301">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1998
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Slamming
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9,597
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12,478
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Rates / services
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2,461
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4,473
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Cramming
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2,302
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1,214
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Marketing
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,102
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1,007
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			International calling
+		</label>
+    <bar id="1">
+      <annotated_value>
+				753
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				766
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Access charges
+		</label>
+    <bar id="1">
+      <annotated_value>
+				358
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				614
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Operator service
+		</label>
+    <bar id="1">
+      <annotated_value>
+				659
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				534
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

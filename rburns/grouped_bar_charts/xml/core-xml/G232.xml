@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G232">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		U.S. sales of top sugar substitues, in millions
+	</y-axis>
+  <legend>
+    <series id="1">
+			Equal
+		</series>
+    <series id="2">
+			Sweet &amp; Low
+		</series>
+    <series id="3">
+			Splenda
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2001
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="2">
+    <label>
+			'02
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="3">
+    <label>
+			'03
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="4">
+    <label>
+			'04
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="5">
+    <label>
+			'05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="6">
+    <label>
+			'06
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+</GroupedBarChart>

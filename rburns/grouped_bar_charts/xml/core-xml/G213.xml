@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G213">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		A
+	</x-axis>
+  <y-axis>
+		Average annual premiums employers pay for high-deductible verses all other plans, per employee
+	</y-axis>
+  <legend>
+    <series id="1">
+			All employer health plans
+		</series>
+    <series id="2">
+			High-deductible
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Family coverage
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$8,167
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6,245
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Single coverage
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3,413
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2,270
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

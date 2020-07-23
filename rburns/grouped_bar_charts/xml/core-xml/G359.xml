@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G359">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Friday
+		</series>
+    <series id="2">
+			Saturday
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			NBCOlympics.com
+		</label>
+    <bar id="1">
+      <annotated_value>
+				166,956
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				432,908
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Olympics.com
+		</label>
+    <bar id="1">
+      <annotated_value>
+				88,192
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				221,829
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

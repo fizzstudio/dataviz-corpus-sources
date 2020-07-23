@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G305">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Recruiting goals and actual number of enlistments into the U.S. military branches in 1999:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Goal
+		</series>
+    <series id="2">
+			Recruits
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Army
+		</label>
+    <bar id="1">
+      <annotated_value>
+				74,500
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				68,210
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Navy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				52,524
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				52,595
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Marine Corps
+		</label>
+    <bar id="1">
+      <annotated_value>
+				39,486
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				39,521
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Air Force
+		</label>
+    <bar id="1">
+      <annotated_value>
+				33,800
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				32,066
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

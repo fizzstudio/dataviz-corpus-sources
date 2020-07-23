@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G388">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Engineering analysis
+		</series>
+    <series id="2">
+			Preliminary evaluation
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			'91
+		</label>
+    <bar id="1">
+      <annotated_value>
+				61
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				157
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			'92
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				90
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			'93
+		</label>
+    <bar id="1">
+      <annotated_value>
+				33
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				102
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			'94
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				95
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			'95
+		</label>
+    <bar id="1">
+      <annotated_value>
+				33
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				62
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			'96
+		</label>
+    <bar id="1">
+      <annotated_value>
+				31
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				75
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			'97
+		</label>
+    <bar id="1">
+      <annotated_value>
+				28
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				51
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>
+			'98
+		</label>
+    <bar id="1">
+      <annotated_value>
+				25
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				65
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

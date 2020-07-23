@@ -1,0 +1,48 @@
+<GroupedBarChart id="G19">
+  <relative_bar_width>60 px</relative_bar_width>
+  <relative_bar_spacing>0 px</relative_bar_spacing>
+  <group id="1">
+    <bar id="1">
+      <relative_height>15 px</relative_height>
+      <annotated_value>6%</annotated_value>
+      <auto_interpolated_value>6</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>28 px</relative_height>
+      <annotated_value>11%</annotated_value>
+      <auto_interpolated_value>11</auto_interpolated_value>
+    </bar>
+    <bar id="3">
+      <relative_height>40 px</relative_height>
+      <annotated_value>14%</annotated_value>
+      <auto_interpolated_value>14</auto_interpolated_value>
+    </bar>    
+    <label>Severe mental illness</label>
+  </group>
+  <group id="2">
+    <bar id="1">
+      <relative_height>26 px</relative_height>
+      <annotated_value>10%</annotated_value>
+      <auto_interpolated_value>10</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>52 px</relative_height>
+      <annotated_value>20%</annotated_value>
+      <auto_interpolated_value>20</auto_interpolated_value>
+    </bar>
+    <bar id="3">
+      <relative_height>52 px</relative_height>
+      <annotated_value>20%</annotated_value>
+      <auto_interpolated_value>20</auto_interpolated_value>
+    </bar>    
+    <label>Mild to Moderate mental illness</label>
+  </group>
+  <relative_group_spacing>15 px</relative_group_spacing>
+  <legend>
+    <series id="1">Before Katrina</series>
+    <series id="2">Last Year</series>
+    <series id="3">Today</series>    
+  </legend>
+  <orientation>vertical</orientation>
+  <y-axis>Gulf Coast residents identified with:</y-axis>
+</GroupedBarChart>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G159">
+  <orientation>horizontal</orientation>
+  <y-axis>Hybrid and diesel sales as a percentage of U.S. new car and truck sales:</y-axis>
+  <legend>
+    <series id="1">Diesel</series>
+    <series id="2">Hybrid</series>
+  </legend>
+  <group id="1">
+    <label>2009</label>
+    <bar id="1">
+      <annotated_value>2.7%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2.9%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2015</label>
+    <bar id="1">
+      <annotated_value>8.5%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>9.0%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

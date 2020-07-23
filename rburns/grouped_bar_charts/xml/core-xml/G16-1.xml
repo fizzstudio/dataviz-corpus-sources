@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G16-1">
+  <orientation>horizontal</orientation>
+  <y-axis>U.S. HOUSEHOLDS WITH INTERNET ACCESS, PERCENT</y-axis>
+  <legend>
+    <series id="1">RURAL</series>
+    <series id="2">URBAN</series>
+  </legend>
+  <group id="1">
+    <label>CAUCASIAN</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>BLACK</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>HISPANIC</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

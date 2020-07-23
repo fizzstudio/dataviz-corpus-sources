@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G312">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Trillions
+	</y-axis>
+  <legend>
+    <series id="1">
+			Social Security surplus
+		</series>
+    <series id="2">
+			Total federal surplus
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Current projections
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$3.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Likely new projections
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$4.2
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

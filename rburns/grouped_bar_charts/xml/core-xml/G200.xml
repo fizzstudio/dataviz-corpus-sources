@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G200">
+  <orientation>vertical</orientation>
+  <y-axis>(employees per thousand)</y-axis>
+  <legend>
+    <series id="1">Info Tech</series>
+    <series id="2">Computer Systems Services</series>
+    <series id="3">Computer Systems Design</series>
+  </legend>
+  <group id="1">
+    <label>Maryland</label>
+    <bar id="1">
+      <annotated_value>34.7</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>23.8</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>12.7</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>U.S.</label>
+    <bar id="1">
+      <annotated_value>21.5</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>10.8</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>4.8</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

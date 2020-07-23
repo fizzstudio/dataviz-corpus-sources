@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G263-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Attributes that business travelers consider extremely or very desireable
+	</x-axis>
+  <legend>
+    <series id="1">
+			GenXers
+		</series>
+    <series id="2">
+			Boomers
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Valet pickup at airport
+		</label>
+    <bar id="1">
+      <annotated_value>
+				72%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				69%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Luxury rentals
+		</label>
+    <bar id="1">
+      <annotated_value>
+				61%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Cellular phones for rent
+		</label>
+    <bar id="1">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				30%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

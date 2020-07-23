@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G333">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			George W. Bush
+		</series>
+    <series id="2">
+			Al Gore
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			July 14-16
+		</label>
+    <bar id="1">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Wednesday
+		</label>
+    <bar id="1">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				39%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

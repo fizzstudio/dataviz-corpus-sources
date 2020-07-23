@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G347">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			June 1999
+		</series>
+    <series id="2">
+			August 2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Federal funds rate
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.75%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6.5%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			30-year mortgage
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7.75%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7.96%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Prime rate
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7.75%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9.50%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Unemployment rate
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.3%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.0%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Inflation rate
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.5%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Car loan rate
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.30%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9.06%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

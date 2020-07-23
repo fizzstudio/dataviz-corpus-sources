@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G241-A">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Wireless revenue by minute
+	</y-axis>
+  <legend>
+    <series id="1">
+			2007 Est.
+		</series>
+    <series id="2">
+			2004
+		</series>
+  </legend>
+  <group id="1">
+  	<highlighted />
+    <label>
+			Germany
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$0.21
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$0.31
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			U.K.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.21
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.24
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Spain
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.21
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.28
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Italy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.16
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.25
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			France
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.16
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.17
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

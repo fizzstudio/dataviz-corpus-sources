@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G330">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Number of costal counties declared disaster areas
+		</series>
+    <series id="2">
+			Number of tropical storms and hurricanes making landfall on the U.S. mainland
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1970s
+		</label>
+    <bar id="1">
+      <annotated_value>
+				28
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				24
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1980s
+		</label>
+    <bar id="1">
+      <annotated_value>
+				69
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				29
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1990s
+		</label>
+    <bar id="1">
+      <annotated_value>
+				189
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				31
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

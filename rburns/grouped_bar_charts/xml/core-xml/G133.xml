@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G133">
+  <orientation>horizontal</orientation>
+  <x-axis>Pre-natal testosterone levels</x-axis>
+  <y-axis>Annual average income, $m</y-axis>
+  <legend>
+    <series id="1">Two or under</series>
+    <series id="2">Over two</series>
+    <series id="3">Average</series>
+  </legend>
+  <group id="1">
+    <label>High</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">		
+		</bar>
+  </group>
+  <group id="2">
+    <label>Medium</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">		
+		</bar>
+  </group>
+  <group id="3">
+    <label>Low</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">		
+		</bar>
+  </group>
+</GroupedBarChart>

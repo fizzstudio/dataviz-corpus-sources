@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G260">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Those who used a tobacco product one or more times within 30 days of csurvey
+	</y-axis>
+  <legend>
+    <series id="1">
+			Middle school
+		</series>
+    <series id="2">
+			High school
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Cigarettes
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9.2%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				28.4%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Cigars
+		</label>
+    <bar id="1">
+      <annotated_value>
+				6.1%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				15.3%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Bids
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2.4%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5.0%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

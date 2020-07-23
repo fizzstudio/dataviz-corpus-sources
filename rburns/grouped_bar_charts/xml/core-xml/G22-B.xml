@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G22-B">
+  <orientation>vertical</orientation>
+  <y-axis>Number of loands by companies specializing in subprime lending</y-axis>
+  <legend>
+    <series id="1">All mortgages</series>
+    <series id="2">Refinancings only</series>
+  </legend>
+  <group id="1">
+    <label>2001</label>
+    <bar id="1">
+      <annotated_value>16,168</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>11,827</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2003</label>
+    <bar id="1">
+      <annotated_value>27,776</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>21,784</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2005</label>
+    <bar id="1">
+      <annotated_value>33,531</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>23,529</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G99">
+  <orientation>vertical</orientation>
+  <x-axis>Exports and CO2 emissions</x-axis>
+  <y-axis>Share of world exports, %</y-axis>
+  <legend>
+    <series id="1">United States</series>
+    <series id="2">China</series>
+  </legend>
+  <group id="1">
+    <label>1990</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>1995</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>2000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>2005</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>2008*</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

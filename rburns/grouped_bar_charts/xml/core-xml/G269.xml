@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G269">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Terabytes per second
+	</y-axis>
+  <legend>
+    <series id="1">
+			Demand
+		</series>
+    <series id="2">
+			Supply
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				22
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				36
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

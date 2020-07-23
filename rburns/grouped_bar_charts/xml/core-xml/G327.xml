@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G327">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Gore
+		</series>
+    <series id="2">
+			Bush
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			June 23-25
+		</label>
+    <bar id="1">
+      <annotated_value>
+				29%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				54%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Friday-Saturday
+		</label>
+    <bar id="1">
+      <annotated_value>
+				36%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

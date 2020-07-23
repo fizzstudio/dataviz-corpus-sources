@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G227">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Polish wireless market share by revenue
+	</y-axis>
+  <legend>
+    <series id="1">
+			Centertel (Orange)
+		</series>
+    <series id="2">
+			Polkomtel (Plus)
+		</series>
+    <series id="3">
+			PTC (Era)
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2004
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="2">
+    <label>
+			'05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="3">
+    <label>
+			'06
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="4">
+    <label>
+			'07
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+</GroupedBarChart>

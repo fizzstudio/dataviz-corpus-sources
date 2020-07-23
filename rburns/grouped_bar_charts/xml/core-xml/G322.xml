@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G322">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Miss.
+		</series>
+    <series id="2">
+			U.S.
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Medicaid / welfare
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$700
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$780
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			K-12 education
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$600
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$650
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Higher education
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$390
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$340
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Highways
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$320
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$240
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Hospitals
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$170
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$110
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

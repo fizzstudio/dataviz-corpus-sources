@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G325">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Percentage of overweight Americans ages 20-74
+	</y-axis>
+  <legend>
+    <series id="1">
+			Overweight
+		</series>
+    <series id="2">
+			Obese
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1960-62
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43.5%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12.8%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1988-94
+		</label>
+    <bar id="1">
+      <annotated_value>
+				54.6%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				22.6%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

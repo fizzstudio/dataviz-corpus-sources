@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G290">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Piles
+		</label>
+    <bar id="1">
+      <annotated_value>
+				26%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Files
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				55%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Both
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				29%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G111">
+  <orientation>vertical</orientation>
+  <y-axis>Net work of an American family</y-axis>
+  <legend>
+    <series id="1">2001</series>
+    <series id="2">2004</series>
+  </legend>
+  <group id="1">
+    <label>MEDIAN</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>AVERAGE</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

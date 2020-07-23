@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G90">
+  <orientation>vertical</orientation>
+  <y-axis>Number of Cases / Percent Cumulative Growth</y-axis>
+  <legend>
+    <series id="1">U.S. And Outlying Areas, All Disabilities, Ages 6-22</series>
+    <series id="2">U.S. And Outlying Areas, Autism, Ages 6-22</series>
+  </legend>
+  <group id="1">
+    <label>93</label>
+    <bar id="1">
+      <annotated_value>3</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>23</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>94</label>
+    <bar id="1">
+      <annotated_value>6</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>45</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>95</label>
+    <bar id="1">
+      <annotated_value>10</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>87</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>96</label>
+    <bar id="1">
+      <annotated_value>13</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>121</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>97</label>
+    <bar id="1">
+      <annotated_value>17</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>173</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>98</label>
+    <bar id="1">
+      <annotated_value>20</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>247</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>99</label>
+    <bar id="1">
+      <annotated_value>23</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>324</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>00</label>
+    <bar id="1">
+      <annotated_value>25</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>411</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>01</label>
+    <bar id="1">
+      <annotated_value>27</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>533</annotated_value>
+    </bar>
+  </group>
+  <group id="10">
+    <label>02</label>
+    <bar id="1">
+      <annotated_value>29</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>662</annotated_value>
+    </bar>
+  </group>
+  <group id="11">
+    <label>03</label>
+    <bar id="1">
+      <annotated_value>31</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>805</annotated_value>
+    </bar>
+  </group>
+  <group id="12">
+    <label>04</label>
+    <bar id="1">
+      <annotated_value>32</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>971</annotated_value>
+    </bar>
+  </group>
+  <group id="13">
+    <label>05</label>
+    <bar id="1">
+      <annotated_value>32</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1145</annotated_value>
+    </bar>
+  </group>
+  <group id="14">
+    <label>06</label>
+    <bar id="1">
+      <annotated_value>31</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1342</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G372">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1997
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Tummy tuck
+		</label>
+    <bar id="1">
+      <annotated_value>
+				34,002
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				59,665
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Cosmetic eyelid surgery
+		</label>
+    <bar id="1">
+      <annotated_value>
+				159,232
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				183,580
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Botox injection
+		</label>
+    <bar id="1">
+      <annotated_value>
+				65,157
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				498,204
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Breast augmentation
+		</label>
+    <bar id="1">
+      <annotated_value>
+				101,176
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				191,583
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Chemical peel
+		</label>
+    <bar id="1">
+      <annotated_value>
+				481,227
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				841,777
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Liposuction
+		</label>
+    <bar id="1">
+      <annotated_value>
+				176,863
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				287,150
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

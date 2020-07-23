@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G23">
+  <orientation>vertical</orientation>
+  <x-axis>Ages</x-axis>
+  <y-axis>Gonorrhea and chlamydia cases, 2001</y-axis>
+  <legend>
+    <series id="1">Chlamydia</series>
+    <series id="2">Gonorrhea</series>
+  </legend>
+  <group id="1">
+    <label>10-14</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>15-19</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>20-24</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>25-29</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

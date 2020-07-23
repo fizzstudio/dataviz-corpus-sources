@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G18">
+  <orientation>horizontal</orientation>
+  <y-axis>Percentage of total master's and doctoral degrees earned by women:</y-axis>
+  <legend>
+    <series id="1">Master's</series>
+    <series id="2">Doctorate</series>
+  </legend>
+  <group id="1">
+    <label>1979-80</label>
+    <bar id="1">
+      <annotated_value>49%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>30%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>1989-90</label>
+    <bar id="1">
+      <annotated_value>53%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>36%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>1999-2000</label>
+    <bar id="1">
+      <annotated_value>58%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>44%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>2004-05</label>
+    <bar id="1">
+      <annotated_value>59%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>49%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G11-B">
+  <orientation>vertical</orientation>
+  <y-axis>Percentage of active duty</y-axis>
+  <legend>
+    <series id="1">WOMEN</series>
+    <series id="2">MINORITIES</series>
+  </legend>
+  <group id="1">
+    <label>1974</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>1980</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>1990</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>2000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

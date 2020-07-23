@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G324">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1998
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Colleges with a distance-learning program
+		</label>
+    <bar id="1">
+      <annotated_value>
+				48%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				72%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Colleges offering distance accredited degrees
+		</label>
+    <bar id="1">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

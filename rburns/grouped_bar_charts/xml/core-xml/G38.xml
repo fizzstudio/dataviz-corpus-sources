@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G38">
+  <orientation>horizontal</orientation>
+  <y-axis>Medical expenditures and insurance, individual burden by age group, per person; in thousands of yen</y-axis>
+  <legend>
+    <series id="1">Medical expenditures</series>
+    <series id="2">Insurance and individual burden</series>
+  </legend>
+  <group id="1">
+    <label>35-39</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>40-44</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>45-49</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>50-54</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>55-59</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>60-64</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>65-69</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>70-74</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+  <group id="9">
+    <label>75-79</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+  <group id="10">
+    <label>80-84</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+  <group id="11">
+    <label>85 or older</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+</GroupedBarChart>

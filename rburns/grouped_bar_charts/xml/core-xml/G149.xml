@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G149">
+  <orientation>vertical</orientation>
+  <y-axis>Median household income (in thousands of constant 2007 dollars)</y-axis>
+  <legend>
+    <series id="1">'06</series>
+    <series id="2">'07</series>
+  </legend>
+  <group id="1">
+    <label>Nationwide</label>
+    <bar id="1">
+      <annotated_value>$49.6</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$50.2</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Ohio</label>
+    <bar id="1">
+      <annotated_value>$45.6</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$46.6</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Northeast Ohio</label>
+    <bar id="1">
+      <annotated_value>$47.1</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$48.2</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Cleveland</label>
+    <bar id="1">
+      <annotated_value>$27.2</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$28.5</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

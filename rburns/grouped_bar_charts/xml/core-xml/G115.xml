@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G115">
+  <orientation>vertical</orientation>
+  <y-axis>U.S. ad spending, January to August</y-axis>
+  <legend>
+    <series id="1">2003</series>
+    <series id="2">2004</series>
+    <series id="3">2005</series>
+  </legend>
+  <group id="1">
+    <label>Network TV</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Cable TV</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="3">
+    <label>U.S. Internet</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+</GroupedBarChart>

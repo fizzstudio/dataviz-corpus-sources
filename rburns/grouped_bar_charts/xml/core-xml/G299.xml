@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G299">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Gun restrictions
+	</x-axis>
+  <legend>
+    <series id="1">
+			Percent of women who support
+		</series>
+    <series id="2">
+			Percent of men who support
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Mandatory licensing and training of handgun owners
+		</label>
+    <bar id="1">
+      <annotated_value>
+				80.9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				57.3%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Mandatory registration of rifles and shotguns
+		</label>
+    <bar id="1">
+      <annotated_value>
+				81.3%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				62.6%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Mandatory registration of handguns
+		</label>
+    <bar id="1">
+      <annotated_value>
+				88.8%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				81.8%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Complete ban on handguns
+		</label>
+    <bar id="1">
+      <annotated_value>
+				18.7%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12.1%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G242">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			All Republican primary voters
+		</series>
+    <series id="2">
+			Giuliani supporters
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Keeping taxes low
+		</label>
+    <bar id="1">
+      <annotated_value>
+				20%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				25%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Fighting terrorism
+		</label>
+    <bar id="1">
+      <annotated_value>
+				34
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				37
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Emphasizing moral values
+		</label>
+    <bar id="1">
+      <annotated_value>
+				44
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

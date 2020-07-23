@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G191">
+  <orientation>vertical</orientation>
+  <y-axis>Years of income required to by a 1,075-square-foot apartment</y-axis>
+  <legend>
+    <series id="1">2008</series>
+    <series id="2">2009</series>
+  </legend>
+  <group id="1">
+    <label>Beijing</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Shenzhen</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Shanghai</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Guangzhou</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>Chongqing</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

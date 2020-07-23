@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G383">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			2000
+		</series>
+    <series id="2">
+			2030
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Children
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2.48
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.53
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Children and step children
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2.83
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1.97
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Grandchildren
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.02
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2.46
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Grandchildren and step grandchildren
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5.93
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.01
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

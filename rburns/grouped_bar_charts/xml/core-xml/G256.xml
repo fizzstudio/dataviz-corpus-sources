@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G256">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Median household income
+	</y-axis>
+  <legend>
+    <series id="1">
+			Black
+		</series>
+    <series id="2">
+			White
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1968
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$4,754
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$8,062
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$25,351
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$40,912
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

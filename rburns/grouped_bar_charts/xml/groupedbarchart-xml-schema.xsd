@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="GroupedBarChart" type="GroupedBarChartType"/>
+	
+	<xs:complexType name="GroupedBarChartType">
+		<xs:attribute name="id" type="xs:string" use="required"/>
+		<xs:sequence>
+	
+			<xs:element name="orientation" type="orientationType"/>
+			<xs:element name="relative_bar_spacing" type="spacingType"/>
+			<xs:element name="relative_bar_width" type="positiveType"/>
+			<xs:element name="relative_group_spacing" type="spacingType"/>
+			<xs:element name="x-axis" type="xs:string" default=""/>	
+			<xs:element name="y-axis" type="xs:string" default=""/>
+			<xs:element name="headline" type="xs:string" default=""/>
+			<xs:element name="sub-headline" type="xs:string" default=""/>
+			<xs:element name="continuation-headline" type="xs:string" default=""/>
+			<xs:element name="caption-headline" type="xs:string" default=""/>
+			<xs:element name="caption-sub-headline" type="xs:string" default=""/>	
+			<xs:element name="caption-description" type="xs:string" default=""/>
+		
+			<!-- at least 2 groups are required -->
+			<xs:element name="group" type="groupType" minOccurs="2"/>
+	
+			<xs:element name="legend">
+				<!-- at least two series are required -->
+				<xs:element name="series" type="seriesType" minOccurs="2"/>
+			</xs:element>
+		
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:simpleType name="positiveType">
+		<xs:restriction base="xs:integer"/>
+			<!-- all widths, bar heights, indicies should be positive -->
+			<xs:minInclusive value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+		  
+	<xs:simpleType name="spacingType">
+		<xs:restriction base="xs:integer"/>
+			<!-- zero spacing is possible -->
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="orientationType">
+		<xs:restriction base="xs:string"/>
+			<!-- either vertical | horizontal -->
+			<xs:enumeration value="vertical"/>
+			<xs:enumeration value="horizontal"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="seriesType">
+		<xs:attribute name="id" type="positiveType" use="required"/>
+		<!-- series label-->
+		<xs:element name="series" type="xs:string" default=""/>
+	</xs:complexType>
+	
+	<xs:complexType name="groupType">
+		<xs:attribute name="id" type="positiveType" use="required"/>
+		<xs:sequence>
+			<!-- at least 2 bars are required per group-->
+			<xs:element name="group" type="barType" minOccurs="2"/>		
+			<!-- group label-->
+			<xs:element name="label" type="xs:string" default=""/>
+			<xs:element name="highlighted" type="xs:boolean" default="false"/>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="barType">
+		<xs:attribute name="id" type="positiveType" use="required"/>
+		<xs:sequence>
+			<xs:element name="annotated_value" type="xs:string" default=""/>		
+			<xs:element name="relative_height" type="positiveType"/> 
+			<xs:element name="highlighted" type="xs:boolean" default="false"/>             
+		</xs:sequence>
+	</xs:complexType>
+	
+</xs:schema>

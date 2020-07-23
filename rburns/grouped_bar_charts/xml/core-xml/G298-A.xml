@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G298-A">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Percentage of USA using the Internet
+	</y-axis>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				27%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				18%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				51%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

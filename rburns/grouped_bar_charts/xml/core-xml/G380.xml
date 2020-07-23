@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G380">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			California
+		</series>
+    <series id="2">
+			USA
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2,017
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2,520
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2,646
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3,380
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3,753
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4,895
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5,366
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7,155
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7,553
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10,300
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				10,915
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				15,595
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

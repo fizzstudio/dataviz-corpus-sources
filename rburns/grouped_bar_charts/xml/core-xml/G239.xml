@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G239">
+  <orientation>
+		vertical
+	</orientation>
+  <x-axis>
+		Effect of rapamycin on the maximum lifespan of mice
+	</x-axis>
+  <y-axis>
+		in days
+	</y-axis>
+  <legend>
+    <series id="1">
+			Control group
+		</series>
+    <series id="2">
+			With drug treatment
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Females
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,094
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1,245
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Males
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1,078
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				1,179
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

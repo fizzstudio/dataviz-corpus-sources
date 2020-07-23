@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G261">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Annual sales of video-conferencing equipment
+	</y-axis>
+  <legend>
+    <series id="1">
+			1997
+		</series>
+    <series id="2">
+			1998
+		</series>
+    <series id="3">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Group systems ($20,000 or more)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$496
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$462
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$354
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Small group systems (under $10,000)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$47
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$87
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$108
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Desktop
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$137
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$103
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				$100
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

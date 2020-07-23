@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G259">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Dorms
+		</series>
+    <series id="2">
+			Hotels and motels
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				72%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				66%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1983
+		</label>
+    <bar id="1">
+      <annotated_value>
+				84%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				85%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

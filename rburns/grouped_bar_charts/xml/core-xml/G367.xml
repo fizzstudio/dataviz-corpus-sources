@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G367">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Estimated payroll taxes and benefits, adjusted for inflation in 2000 dollars (in billions)
+	</y-axis>
+  <legend>
+    <series id="1">
+			Payroll tax revenue
+		</series>
+    <series id="2">
+			Social Security benefits
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$501
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$410
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			'05
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'10
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'15
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'20
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			'25
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="7">
+    <label>
+			'30
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$792
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1,053
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

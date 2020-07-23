@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G147">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">Price per gallon as of May 28, 2007</series>
+    <series id="2">Price per gallon as of May 19, 2008</series>
+  </legend>
+  <group id="1">
+    <label>Belgium</label>
+    <bar id="1">
+      <annotated_value>$6.80</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$8.84</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>France</label>
+    <bar id="1">
+      <annotated_value>$6.76</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$8.48</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Germany</label>
+    <bar id="1">
+      <annotated_value>$7.16</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$8.75</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Italy</label>
+    <bar id="1">
+      <annotated_value>$6.84</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$8.65</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Netherlands</label>
+    <bar id="1">
+      <annotated_value>$7.74</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$9.54</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>United Kingdom</label>
+    <bar id="1">
+      <annotated_value>$7.22</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$8.31</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>United States</label>
+    <bar id="1">
+      <annotated_value>$3.40</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$4.02</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

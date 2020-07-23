@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G41">
+  <orientation>vertical</orientation>
+  <y-axis>China's two-way trade, foreign currency reserves; in trillions of dollars</y-axis>
+  <legend>
+    <series id="1">Combined exports, imports</series>
+    <series id="2">Foreign currency reserves</series>
+  </legend>
+  <group id="1">
+    <label>1990</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>'92</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>'94</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>'96</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>'98</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="10">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="11">
+    <label>2000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="12">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="13">
+    <label>'02</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="14">
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+  <group id="15">
+    <label>'04</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G25">
+  <orientation>horizontal</orientation>
+  <y-axis>(in pounds)</y-axis>
+  <legend>
+    <series id="1">1960</series>
+    <series id="2">2002</series>
+  </legend>
+  <group id="1">
+    <label>Women</label>
+    <bar id="1">
+      <annotated_value>140</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>164</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Men</label>
+    <bar id="1">
+      <annotated_value>166</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>191</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

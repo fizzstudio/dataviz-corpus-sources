@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G87">
+  <orientation>vertical</orientation>
+  <legend>
+    <series id="1">2000</series>
+    <series id="2">2005</series>
+  </legend>
+  <group id="1">
+    <label>1st quintile</label>
+    <bar id="1">
+      <annotated_value>6.4%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>4.3%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2nd quintile</label>
+    <bar id="1">
+      <annotated_value>13%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>9.9%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>3rd quintile</label>
+    <bar id="1">
+      <annotated_value>16.6%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>14.2%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>4th quintile</label>
+    <bar id="1">
+      <annotated_value>20.5%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>17.4%</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>5th quintile</label>
+    <bar id="1">
+      <annotated_value>28%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>25.5%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

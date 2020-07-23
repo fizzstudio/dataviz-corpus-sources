@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G345">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Bush
+		</series>
+    <series id="2">
+			Gore
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			July 16
+		</label>
+    <bar id="1">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			July 26
+		</label>
+    <bar id="1">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				39%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Aug. 5
+		</label>
+    <bar id="1">
+      <annotated_value>
+				54%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Aug. 12
+		</label>
+    <bar id="1">
+      <annotated_value>
+				55%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				39%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Aug. 19
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

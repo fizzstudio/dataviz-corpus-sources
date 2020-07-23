@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G253">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Average annual utility costs for homes and apartments
+	</y-axis>
+  <legend>
+    <series id="1">
+			Heat and electricity
+		</series>
+    <series id="2">
+			Water
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Japan
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$4,563
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$844
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Hong Kong
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$3,135
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$309
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Brazil
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,702
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$878
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Thailand
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,589
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$254
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			USA
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,376
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$546
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

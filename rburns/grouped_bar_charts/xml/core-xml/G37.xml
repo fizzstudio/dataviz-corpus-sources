@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G37">
+  <orientation>vertical</orientation>
+  <y-axis>Thailand's production and export of automobiles; in million of vehicles</y-axis>
+  <legend>
+    <series id="1">Production</series>
+    <series id="2">Export</series>
+  </legend>
+  <group id="1">
+    <label>1996</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>'98</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>2000</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>'02</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+  <group id="9">
+    <label>'04</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">	
+		</bar>
+  </group>
+</GroupedBarChart>

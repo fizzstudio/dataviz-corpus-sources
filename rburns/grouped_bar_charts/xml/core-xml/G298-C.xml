@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G298-C">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		E-mail users who:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Would miss it a lot
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				54%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Say e-mail has brought them closer to their families
+		</label>
+    <bar id="1">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			say e-mail has improved family relationships
+		</label>
+    <bar id="1">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Have learned more about their families because of e-mail
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				27%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

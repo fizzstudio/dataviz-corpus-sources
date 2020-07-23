@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G265">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1989
+		</series>
+    <series id="2">
+			1998
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Full sibling
+		</label>
+    <bar id="1">
+      <annotated_value>
+				54%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				38%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Parent
+		</label>
+    <bar id="1">
+      <annotated_value>
+				30%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				20%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Child
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Other relative
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			No relation
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				18%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G320">
+  <orientation>
+		vertical
+	</orientation>
+  <x-axis>
+		Fortune 500 companies with these numbers of female directors on their boards
+	</x-axis>
+  <legend>
+    <series id="1">
+			1994
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			More than one
+		</label>
+    <bar id="1">
+      <annotated_value>
+				29%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				39%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			One
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				45%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			None
+		</label>
+    <bar id="1">
+      <annotated_value>
+				25%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

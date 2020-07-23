@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G268">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Number of non-work related e-mail they send and receive a day
+	</x-axis>
+  <legend>
+    <series id="1">
+			Send
+		</series>
+    <series id="2">
+			Receive
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			None
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Up to 5
+		</label>
+    <bar id="1">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Up to 10
+		</label>
+    <bar id="1">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				25%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Up to 20
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				28%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Over 20
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

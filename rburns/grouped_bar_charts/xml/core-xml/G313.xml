@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G313">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			21-29
+		</label>
+    <bar id="1">
+      <annotated_value>
+				70%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				63%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			30-39
+		</label>
+    <bar id="1">
+      <annotated_value>
+				71%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				68%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			40-49
+		</label>
+    <bar id="1">
+      <annotated_value>
+				55%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				52%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			50-64
+		</label>
+    <bar id="1">
+      <annotated_value>
+				65%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				57%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			65+
+		</label>
+    <bar id="1">
+      <annotated_value>
+				26%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				69%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

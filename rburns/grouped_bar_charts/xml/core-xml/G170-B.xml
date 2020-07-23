@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G170-B">
+  <orientation>horizontal</orientation>
+  <y-axis>CUMULATIVE EARNINGS, BILLIONS OF DOLLARS</y-axis>
+  <legend>
+    <series id="1">Q4 '07 - Q2 '08</series>
+    <series id="2">Q4 '08 - Q2 '09</series>
+  </legend>
+  <group id="1">
+    <label>EXXONMOBIL</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>WAL_MART</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>MICROSOFT</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>IBM</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>JOHNSON &amp; JOHNSON</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>GENERAL ELECTRIC</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="7">
+    <label>AT&amp;T</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="8">
+    <label>CHEVRON</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="9">
+    <label>BANK OF AMERICA</label>
+    <bold />
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="10">
+    <label>MERCK</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

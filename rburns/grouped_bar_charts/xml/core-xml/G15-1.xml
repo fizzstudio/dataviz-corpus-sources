@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G15-1">
+  <orientation>vertical</orientation>
+  <y-axis>PENSION OBLIGATIONS</y-axis>
+  <legend>
+    <series id="1">Total obligations</series>
+    <series id="2">Assets available</series>
+  </legend>
+  <group id="1">
+    <label>'00</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>'04</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

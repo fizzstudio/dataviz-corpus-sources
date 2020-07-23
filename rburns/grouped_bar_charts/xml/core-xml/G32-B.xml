@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G32-B">
+  <orientation>vertical</orientation>
+  <y-axis>Truck model count</y-axis>
+  <legend>
+    <series id="1">Asian</series>
+    <series id="2">Domestic</series>
+    <series id="3">European</series>
+  </legend>
+  <group id="1">
+    <label>1993</label>
+    <bar id="1">
+      <annotated_value>21</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>40</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>2</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>1998</label>
+    <bar id="1">
+      <annotated_value>30</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>43</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>5</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2003</label>
+    <bar id="1">
+      <annotated_value>46</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>67</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>10</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

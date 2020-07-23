@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G46">
+  <orientation>horizontal</orientation>
+  <y-axis>Average weight gain in pounds over a five-year period for people in their late teens and early 20s.</y-axis>
+  <legend>
+    <series id="1">Single</series>
+    <series id="2">Married</series>
+  </legend>
+  <group id="1">
+    <label>Women</label>
+    <bar id="1">
+      <annotated_value>15</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>24</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Men</label>
+    <bar id="1">
+      <annotated_value>24</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>30</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

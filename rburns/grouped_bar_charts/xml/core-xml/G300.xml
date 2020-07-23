@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G300">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Things workers say are "extremely important" aspects of a job:
+	</x-axis>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Good relationship with boss
+		</label>
+    <bar id="1">
+      <annotated_value>
+				63%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				77%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Up-to-date equipment
+		</label>
+    <bar id="1">
+      <annotated_value>
+				59%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				69%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Resources to do the job
+		</label>
+    <bar id="1">
+      <annotated_value>
+				55%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				74%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Easy commute
+		</label>
+    <bar id="1">
+      <annotated_value>
+				48%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				60%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Flexible work hours
+		</label>
+    <bar id="1">
+      <annotated_value>
+				40%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				53%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Able to work at home
+		</label>
+    <bar id="1">
+      <annotated_value>
+				21%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

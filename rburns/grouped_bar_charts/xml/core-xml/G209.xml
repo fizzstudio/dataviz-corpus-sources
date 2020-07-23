@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G209">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Returns in millions
+	</y-axis>
+  <legend>
+    <series id="1">
+			2004
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Single people
+		</label>
+    <bar id="1">
+      <annotated_value>
+				58.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				56.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Joint returns
+		</label>
+    <bar id="1">
+      <annotated_value>
+				52.0
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				49.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Heads of households
+		</label>
+    <bar id="1">
+      <annotated_value>
+				19.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.8
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Married filing separately
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2.4
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

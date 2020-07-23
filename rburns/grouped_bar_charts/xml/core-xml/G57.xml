@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G57">
+  <orientation>vertical</orientation>
+  <y-axis>Full-year 2005 return of the average stock fund of each style and size</y-axis>
+  <legend>
+    <series id="1">Average</series>
+    <series id="2">Value</series>
+    <series id="3">Core</series>
+    <series id="4">Growth</series>
+  </legend>
+  <group id="1">
+    <label>Large-cap</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+  </group>
+  <group id="2">
+    <label>Small-cap</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+  </group>
+  <group id="3">
+    <label>Multicap</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+  </group>
+  <group id="4">
+    <label>Midcap</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+    <bar id="3">	
+		</bar>
+    <bar id="4">	
+		</bar>
+  </group>
+</GroupedBarChart>

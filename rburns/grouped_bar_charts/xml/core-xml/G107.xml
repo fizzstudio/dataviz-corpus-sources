@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G107">
+  <orientation>horizontal</orientation>
+  <y-axis>MEDIAN SALARIES FOR THOSE WITH A BACHELOR'S DEGREE ONLY</y-axis>
+  <legend>
+    <series id="1">Less than five years' experience</series>
+    <series id="2">Ten to 20 years' experience</series>
+  </legend>
+  <group id="1">
+    <label>Business</label>
+    <bar id="1">
+      <annotated_value>$43,000</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$72,100</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Psychology</label>
+    <bar id="1">
+      <annotated_value>$35,900</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$60,400</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Nursing</label>
+    <bar id="1">
+      <annotated_value>$54,200</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$67,000</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Biology</label>
+    <bar id="1">
+      <annotated_value>$38,800</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$64,800</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Education</label>
+    <bar id="1">
+      <annotated_value>$34,900</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$52,000</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>English</label>
+    <bar id="1">
+      <annotated_value>$38,000</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$64,700</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>Economics</label>
+    <bar id="1">
+      <annotated_value>$50,100</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$98,600</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>Communications</label>
+    <bar id="1">
+      <annotated_value>$38,100</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$70,000</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>Political Science</label>
+    <bar id="1">
+      <annotated_value>$40,800</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$78,200</annotated_value>
+    </bar>
+  </group>
+  <group id="10">
+    <label>Computer Science</label>
+    <bar id="1">
+      <annotated_value>$55,900</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$95,500</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

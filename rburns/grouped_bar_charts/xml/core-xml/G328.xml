@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G328">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1998
+		</series>
+    <series id="2">
+			1999
+		</series>
+    <series id="3">
+			2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Army
+		</label>
+    <bar id="1">
+      <annotated_value>
+				13.0%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11.1%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				8.7%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Air Force
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.4%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				8.9%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				8.3%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Navy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16.0%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.1%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				15.2%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Marines
+		</label>
+    <bar id="1">
+      <annotated_value>
+				14.4%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12.3%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				12.6%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

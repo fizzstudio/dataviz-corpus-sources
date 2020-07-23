@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G365">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			African-American
+		</series>
+    <series id="2">
+			Latino
+		</series>
+    <series id="3">
+			Asian
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				31%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				4%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				14%
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

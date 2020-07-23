@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G224-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Private-equity buyouts as a share of total mergers and acquisitions:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Europe*
+		</series>
+    <series id="2">
+			U.S.
+		</series>
+    <series id="3">
+			Japan
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2002-2006
+		</label>
+    <bar id="1">
+      <annotated_value>
+				12.9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10.7
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				6.6
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1996-2001
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2.0
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				0.7
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

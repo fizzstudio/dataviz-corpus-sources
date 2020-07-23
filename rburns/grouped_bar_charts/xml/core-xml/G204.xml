@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G204">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Projected sales of cars and trucks in North America, by engine type, in millions
+	</y-axis>
+  <legend>
+    <series id="1">
+			Hybrids
+		</series>
+    <series id="2">
+			Diesel
+		</series>
+    <series id="3">
+			Direct-injection gas engines
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2008
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="2">
+    <label>
+			'09
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="3">
+    <label>
+			'10
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="4">
+    <label>
+			'11
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="5">
+    <label>
+			'12
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="6">
+    <label>
+			'13
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+  <group id="7">
+    <label>
+			'14
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+  </group>
+</GroupedBarChart>

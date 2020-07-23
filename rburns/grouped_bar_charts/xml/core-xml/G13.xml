@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G13">
+  <orientation>horizontal</orientation>
+  <legend>
+    <series id="1">1994 share</series>
+    <series id="2">2004 share</series>
+  </legend>
+  <group id="1">
+    <label>Life sciences</label>
+    <bar id="1">
+      <annotated_value>41%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>54%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Psychology</label>
+    <bar id="1">
+      <annotated_value>2%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Physical sciences</label>
+    <bar id="1">
+      <annotated_value>16%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>10%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>Environmental sciences</label>
+    <bar id="1">
+      <annotated_value>10%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>7%</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>Math, computer science</label>
+    <bar id="1">
+      <annotated_value>5%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>5%</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>Engineering</label>
+    <bar id="1">
+      <annotated_value>20%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>17%</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>Social sciences</label>
+    <bar id="1">
+      <annotated_value>2%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2%</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>Other</label>
+    <bar id="1">
+      <annotated_value>4%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

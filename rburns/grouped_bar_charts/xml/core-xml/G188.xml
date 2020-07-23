@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G188">
+  <orientation>vertical</orientation>
+  <y-axis>Average number of viewers in the key 18-49 age bracket watching each networks' 10 p.m. shows, in thousands, during the fall seasons</y-axis>
+  <legend>
+    <series id="1">2008</series>
+    <series id="2">2009</series>
+  </legend>
+  <group id="1">
+    <label>ABC</label>
+    <bar id="1">
+      <annotated_value>3,494</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>3,423</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>CBS</label>
+    <bar id="1">
+      <annotated_value>4,161</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>4,109</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <highlighted />
+    <label>NBC</label>
+    <bar id="1">
+      <annotated_value>3,737</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>2,151</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

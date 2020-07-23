@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G315-A">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Army
+	</x-axis>
+  <y-axis>
+		The shortfall in each service branch each year:
+	</y-axis>
+  <legend>
+    <series id="1">
+			ROTC goals
+		</series>
+    <series id="2">
+			Commissions
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1995
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4,500
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3,963
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4,275
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4,259
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4,175
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4,120
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3,800
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3,587
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3,800
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3,281
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			2,000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3,800
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3,100
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

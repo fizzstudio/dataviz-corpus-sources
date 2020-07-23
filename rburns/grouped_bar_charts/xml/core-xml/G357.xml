@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G357">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Ratings points
+	</y-axis>
+  <legend>
+    <series id="1">
+			Friday
+		</series>
+    <series id="2">
+			Saturday
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Sydney
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				13.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Atlanta
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.2
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

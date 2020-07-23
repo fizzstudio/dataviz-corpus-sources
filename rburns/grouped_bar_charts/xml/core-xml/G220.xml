@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G220">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			United Kingdom
+		</series>
+    <series id="2">
+			Worldwide
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2005 A
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			2005 M
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			2005 J
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			2005 J
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			2005 A
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			2005 S
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="7">
+    <label>
+			2005 O
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="8">
+    <label>
+			2005 N
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="9">
+    <label>
+			2005 D
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="10">
+    <label>
+			'06 J
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="11">
+    <label>
+			'06 F
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="12">
+    <label>
+			'06 M
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="13">
+    <label>
+			'06 A
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

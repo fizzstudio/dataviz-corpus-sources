@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G36">
+  <orientation>vertical</orientation>
+  <y-axis>Cost of a monthly pass for selected Amtrak routes</y-axis>
+  <legend>
+    <series id="1">Now</series>
+    <series id="2">Oct. 16</series>
+    <series id="3">Feb.</series>
+  </legend>
+  <group id="1">
+    <label>Philadelphia to New York</label>
+    <bar id="1">
+      <annotated_value>$633</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$821</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$1,008</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Philadelphia to Washington</label>
+    <bar id="1">
+      <annotated_value>$611</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$792</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$972</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>Trenton to New York</label>
+    <bar id="1">
+      <annotated_value>$522</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>$666</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>$810</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

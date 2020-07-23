@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G348">
+  <orientation>
+		horiztontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1990
+		</series>
+    <series id="2">
+			1998
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Caucasian
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4.6%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5.9%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			African-American
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7.0%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				8.9%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Hispanic
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5.6%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7.7%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

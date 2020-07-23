@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G274">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Bush
+		</label>
+    <bar id="1">
+      <annotated_value>
+				56%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				44%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Gore
+		</label>
+    <bar id="1">
+      <annotated_value>
+				35%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

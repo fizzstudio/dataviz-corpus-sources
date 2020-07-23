@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G319">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Estimated budget
+		</series>
+    <series id="2">
+			Domestic box office gross (in millions)
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			The English Patient (1996)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$32
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$78.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			A Thousand Acres (1997)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$28
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$7.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Midnight in the Garden of Good and Evil (1997)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$35
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$25.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Beloved (1998)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$55
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$22.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			The Deep End of the Ocean (1999)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$38
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$13.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Girl, Interrupted (1999)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$24
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$28.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			A Map of the World (1999)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$7.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$0.5
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>
+			Where the Heart Is (2000)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$15
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$31.7
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

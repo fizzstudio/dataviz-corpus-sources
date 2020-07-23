@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G143">
+  <orientation>vertical</orientation>
+  <y-axis>Single-family home sales in Ashtabula, Cuyahoga, Geauga, Lake, Lorain and Medina counties</y-axis>
+  <legend>
+    <series id="1">Jan.</series>
+    <series id="2">Feb.</series>
+  </legend>
+  <group id="1">
+    <label>2003</label>
+    <bar id="1">
+      <annotated_value>1,130</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,165</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2004</label>
+    <bar id="1">
+      <annotated_value>1,113</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,200</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2005</label>
+    <bar id="1">
+      <annotated_value>1,194</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,210</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>2006</label>
+    <bar id="1">
+      <annotated_value>1,190</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,363</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>2007</label>
+    <bar id="1">
+      <annotated_value>1,253</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,354</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>2008</label>
+    <bar id="1">
+      <annotated_value>1,112</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>1,266</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

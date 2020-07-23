@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G378">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Arrivals
+		</series>
+    <series id="2">
+			Departures
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			La Guardia Airport
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				67%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Newark
+		</label>
+    <bar id="1">
+      <annotated_value>
+				75%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				82%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Kennedy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				77%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				84%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

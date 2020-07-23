@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G5">
+  <orientation>vertical</orientation>
+  <y-axis>Percentage of students that meet state standard</y-axis>
+  <legend>
+    <series id="1">2000</series>
+    <series id="2">2002</series>
+  </legend>
+  <group id="1">
+    <label>4th grade</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>6th grade</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>8th grade</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

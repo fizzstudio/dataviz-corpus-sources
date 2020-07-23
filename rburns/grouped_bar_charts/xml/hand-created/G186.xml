@@ -1,0 +1,141 @@
+<GroupedBarChart id="G186">
+  <relative_bar_width>30 px</relative_bar_width>
+  <relative_bar_spacing>5 px</relative_bar_spacing>
+  <group id="1">
+  	<highlighted />
+    <bar id="1">
+      <relative_height>20 px</relative_height>
+      <auto_interpolated_value>30</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>56 px</relative_height>
+      <auto_interpolated_value>85</auto_interpolated_value>
+    </bar>
+    <bar id="3">
+      <relative_height>86 px</relative_height>
+      <auto_interpolated_value>130</auto_interpolated_value>
+    </bar>
+    <bar id="4">
+      <relative_height>126 px</relative_height>
+      <auto_interpolated_value>190</auto_interpolated_value>
+    </bar>
+    <bar id="5">
+      <relative_height>130 px</relative_height>
+      <auto_interpolated_value>195</auto_interpolated_value>
+    </bar>
+    <bar id="6">
+      <relative_height>86 px</relative_height>
+      <auto_interpolated_value>130</auto_interpolated_value>
+    </bar>
+    <bar id="7">
+      <relative_height>50 px</relative_height>
+      <auto_interpolated_value>75</auto_interpolated_value>
+    </bar>    
+    <label>U.K.</label>
+  </group>
+  <group id="2">
+    <bar id="1">
+      <relative_height>46 px</relative_height>
+      <auto_interpolated_value>70</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>63 px</relative_height>
+      <auto_interpolated_value>95</auto_interpolated_value>
+    </bar>
+    <bar id="3">
+      <relative_height>83 px</relative_height>
+      <auto_interpolated_value>125</auto_interpolated_value>
+    </bar>
+    <bar id="4">
+      <relative_height>140 px</relative_height>
+      <auto_interpolated_value>210</auto_interpolated_value>
+    </bar>
+    <bar id="5">
+      <relative_height>240 px</relative_height>
+      <auto_interpolated_value>360</auto_interpolated_value>
+    </bar>
+    <bar id="6">
+      <relative_height>186 px</relative_height>
+      <auto_interpolated_value>280</auto_interpolated_value>
+    </bar>
+    <bar id="7">
+      <relative_height>76 px</relative_height>
+      <auto_interpolated_value>115</auto_interpolated_value>
+    </bar>    
+    <label>U.S.</label>
+  </group>
+  <group id="3">
+    <bar id="1">
+      <relative_height>10 px</relative_height>
+      <auto_interpolated_value>15</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>13 px</relative_height>
+      <auto_interpolated_value>20</auto_interpolated_value>
+    </bar>
+    <bar id="3">
+      <relative_height>33 px</relative_height>
+      <auto_interpolated_value>50</auto_interpolated_value>
+    </bar>
+    <bar id="4">
+      <relative_height>40 px</relative_height>
+      <auto_interpolated_value>60</auto_interpolated_value>
+    </bar>
+    <bar id="5">
+      <relative_height>63 px</relative_height>
+      <auto_interpolated_value>95</auto_interpolated_value>
+    </bar>
+    <bar id="6">
+      <relative_height>20 px</relative_height>
+      <auto_interpolated_value>30</auto_interpolated_value>
+    </bar>
+    <bar id="7">
+      <relative_height>16 px</relative_height>
+      <auto_interpolated_value>25</auto_interpolated_value>
+    </bar>    
+    <label>Germany</label>
+  </group>
+  <group id="4">
+    <bar id="1">
+      <relative_height>7 px</relative_height>
+      <auto_interpolated_value>11</auto_interpolated_value>
+    </bar>
+    <bar id="2">
+      <relative_height>10 px</relative_height>
+      <auto_interpolated_value>15</auto_interpolated_value>
+    </bar>
+    <bar id="3">
+      <relative_height>8 px</relative_height>
+      <auto_interpolated_value>13</auto_interpolated_value>
+    </bar>
+    <bar id="4">
+      <relative_height>5 px</relative_height>
+      <auto_interpolated_value>8</auto_interpolated_value>
+    </bar>
+    <bar id="5">
+      <relative_height>36 px</relative_height>
+      <auto_interpolated_value>55</auto_interpolated_value>
+    </bar>
+    <bar id="6">
+      <relative_height>16 px</relative_height>
+      <auto_interpolated_value>25</auto_interpolated_value>
+    </bar>
+    <bar id="7">
+      <relative_height>6 px</relative_height>
+      <auto_interpolated_value>9</auto_interpolated_value>
+    </bar>     
+    <label>Japan</label>
+  </group>  
+  <relative_group_spacing>30 px</relative_group_spacing>
+  <legend>
+    <series id="1">'03</series>
+    <series id="2"></series>
+    <series id="3">'05</series>
+    <series id="4"></series>
+    <series id="5">'07</series>
+    <series id="6"></series>
+    <series id="7">'09</series>  
+  </legend>
+  <orientation>vertical</orientation>
+  <y-axis>Value of cross-border M%26A transactions by target's home country:</y-axis>
+</GroupedBarChart>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G240">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Shipments of organic light-emitting diode (OLED) panels
+	</y-axis>
+  <legend>
+    <series id="1">
+			Total OLED
+		</series>
+    <series id="2">
+			OLED TV
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2006
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			'07
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'08
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'09
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'10
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="6">
+    <label>
+			'11
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="7">
+    <label>
+			'12
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="8">
+    <label>
+			'13
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="9">
+    <label>
+			'14
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="10">
+    <label>
+			'15
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

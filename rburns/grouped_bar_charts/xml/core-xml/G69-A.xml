@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G69">
+  <orientation>horizontal</orientation>
+  <y-axis>Percentage share of average household income:</y-axis>
+  <legend>
+    <series id="1">Necessities</series>
+    <series id="2">Discretionary spending</series>
+  </legend>
+  <group id="1">
+    <label>1995</label>
+    <bar id="1">
+      <annotated_value>61%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>39%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2005</label>
+    <bar id="1">
+      <annotated_value>48%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>52%</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2015</label>
+    <bar id="1">
+      <annotated_value>39%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>61%</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>2025</label>
+    <bar id="1">
+      <annotated_value>30%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>70%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

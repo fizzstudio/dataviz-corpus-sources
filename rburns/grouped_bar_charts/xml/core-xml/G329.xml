@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G329">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Projected e-commerce revenue through 2005 (in billions of dollars):
+	</y-axis>
+  <legend>
+    <series id="1">
+			'99
+		</series>
+    <series id="2" />
+    <series id="3" />
+    <series id="4" />
+    <series id="5" />
+    <series id="6" />
+    <series id="7">
+			'05
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Taiwan
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+    <bar id="6" />
+    <bar id="7">
+      <annotated_value>
+				$24.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			South Korea
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+    <bar id="6" />
+    <bar id="7">
+      <annotated_value>
+				$23.0
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Hong Kong
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+    <bar id="6" />
+    <bar id="7">
+      <annotated_value>
+				$11.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			China
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+    <bar id="6" />
+    <bar id="7">
+      <annotated_value>
+				$8.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Singapore
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+    <bar id="6" />
+    <bar id="7">
+      <annotated_value>
+				$7.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			India
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+    <bar id="3" />
+    <bar id="4" />
+    <bar id="5" />
+    <bar id="6" />
+    <bar id="7">
+      <annotated_value>
+				$4.8
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

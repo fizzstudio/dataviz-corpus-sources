@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G352-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Percent of households with item on hand:
+	</y-axis>
+  <legend>
+    <series id="1">
+			1996
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Electric rice cooker
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Coffee grinder
+		</label>
+    <bar id="1">
+      <annotated_value>
+				18%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				22%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Electric bread baker
+		</label>
+    <bar id="1">
+      <annotated_value>
+				15%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				28%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

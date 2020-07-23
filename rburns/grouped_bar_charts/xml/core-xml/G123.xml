@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G123">
+  <orientation>vertical</orientation>
+  <y-axis>Percent reaching proficiency</y-axis>
+  <legend>
+    <series id="1">Boys</series>
+    <series id="2">Girls</series>
+  </legend>
+  <group id="1">
+    <label>'05-'06</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+  </group>
+  <group id="2">
+    <label>'06-'07</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">		
+		</bar>
+  </group>
+  <group id="3">
+    <label>'07-'08</label>
+    <bar id="1">
+      <annotated_value>35.73%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>32.92%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

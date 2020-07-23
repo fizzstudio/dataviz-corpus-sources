@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G353">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Before 60
+		</series>
+    <series id="2">
+			61-64
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Pre-retirees (55 and older)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				19%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				19%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Older boomers (47-54)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				36%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Younger boomers (36-46)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				31%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Generation X (35 and younger)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				6%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

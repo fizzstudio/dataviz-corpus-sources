@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G11-A">
+  <orientation>vertical</orientation>
+  <x-axis>BY BRANCE OF SERVICE</x-axis>
+  <y-axis>thousands</y-axis>
+  <legend>
+    <series id="1">1980</series>
+    <series id="2">2000</series>
+  </legend>
+  <group id="1">
+    <label>Army</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>Air Force</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>Navy</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>Marines</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

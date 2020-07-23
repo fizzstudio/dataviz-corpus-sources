@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G103">
+  <orientation>vertical</orientation>
+  <y-axis>Which of the following strcutrues to you [Iraqis] think Iraq should have in the future, %</y-axis>
+  <legend>
+    <series id="1">Unified country</series>
+    <series id="2">Regional states</series>
+    <series id="3">Separate independent states</series>
+  </legend>
+  <group id="1">
+    <label>February 2004</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="2">
+    <label>November 2005</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+  <group id="3">
+    <label>March 2007</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+    <bar id="3">
+		</bar>
+  </group>
+</GroupedBarChart>

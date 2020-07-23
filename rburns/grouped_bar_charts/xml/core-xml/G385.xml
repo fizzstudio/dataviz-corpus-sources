@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G385">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Fortune 500 positions:
+	</y-axis>
+  <legend>
+    <series id="1">
+			1995
+		</series>
+    <series id="2">
+			2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Board directors
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9.5%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11.7%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Corporate officers
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8.7%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12.5%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Corporate line officers
+		</label>
+    <bar id="1">
+      <annotated_value>
+				5.3%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7.3%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Top earners
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.2%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.1%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

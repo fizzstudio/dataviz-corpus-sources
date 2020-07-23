@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G257">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Price
+	</y-axis>
+  <legend>
+    <series id="1">
+			Generic
+		</series>
+    <series id="2">
+			Manufacturer's
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			'96 Toyota Camry
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$149
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$384
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			'94 Jeep Cherokee
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$141
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$310
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

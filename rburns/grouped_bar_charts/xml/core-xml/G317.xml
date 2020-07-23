@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G317">
+  <orientation>
+		horizontal
+	</orientation>
+  <x-axis>
+		Was it a mistake to go into the war in Korea?
+	</x-axis>
+  <y-axis>
+		What people said:
+	</y-axis>
+  <legend>
+    <series id="1">
+			Yes
+		</series>
+    <series id="2">
+			No
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			When the war began in 1950
+		</label>
+    <bar id="1">
+      <annotated_value>
+				29%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				65%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			When the war ended in 1953
+		</label>
+    <bar id="1">
+      <annotated_value>
+				36%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				50%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			June 6-7, 2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				34%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

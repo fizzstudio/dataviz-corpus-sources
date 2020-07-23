@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G369">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1995
+		</series>
+    <series id="2">
+			1996
+		</series>
+    <series id="3">
+			1997
+		</series>
+    <series id="4">
+			1998
+		</series>
+    <series id="5">
+			1999
+		</series>
+    <series id="6">
+			2000
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Boeing
+		</label>
+    <bar id="1">
+      <annotated_value>
+				436
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				726
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				573
+			</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>
+				648
+			</annotated_value>
+    </bar>
+    <bar id="5">
+      <annotated_value>
+				389
+			</annotated_value>
+    </bar>
+    <bar id="6">
+      <annotated_value>
+				467
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Airbus
+		</label>
+    <bar id="1">
+      <annotated_value>
+				106
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				326
+			</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>
+				460
+			</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>
+				556
+			</annotated_value>
+    </bar>
+    <bar id="5">
+      <annotated_value>
+				476
+			</annotated_value>
+    </bar>
+    <bar id="6">
+      <annotated_value>
+				306
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G275">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Shopping
+		</series>
+    <series id="2">
+			Selling
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			North America
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				14%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			United Kingdom
+		</label>
+    <bar id="1">
+      <annotated_value>
+				8%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Germany
+		</label>
+    <bar id="1">
+      <annotated_value>
+				20%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Italy
+		</label>
+    <bar id="1">
+      <annotated_value>
+				21%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				5%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G62">
+  <orientation>vertical</orientation>
+  <y-axis>Percentage of AIDS cases in the USA by race and ethnicity:</y-axis>
+  <legend>
+    <series id="1">White</series>
+    <series id="2">Black</series>
+    <series id="3">Hispanic</series>
+    <series id="4">Other</series>
+  </legend>
+  <group id="1">
+    <label>1981-87</label>
+    <bar id="1">
+      <annotated_value>59.7%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>25.5%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>14%</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>0.7%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2001-05</label>
+    <bar id="1">
+      <annotated_value>29%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>51%</annotated_value>
+    </bar>
+    <bar id="3">
+      <annotated_value>18%</annotated_value>
+    </bar>
+    <bar id="4">
+      <annotated_value>1.5%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

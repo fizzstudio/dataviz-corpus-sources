@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G22-A">
+  <orientation>vertical</orientation>
+  <y-axis>Number of Philadelphia-region loans by any type of lender</y-axis>
+  <legend>
+    <series id="1">All mortgages</series>
+    <series id="2">Refinancings only</series>
+  </legend>
+  <group id="1">
+    <label>2001</label>
+    <bar id="1">
+      <annotated_value>171,482</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>93,451</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>2003</label>
+    <bar id="1">
+      <annotated_value>345,692</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>253,087</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>2005</label>
+    <bar id="1">
+      <annotated_value>242,075</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>122,671</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G298-B">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Looking for product / service information
+		</label>
+    <bar id="1">
+      <annotated_value>
+				80%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				67%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Getting news
+		</label>
+    <bar id="1">
+      <annotated_value>
+				66%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				53%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Getting financial information
+		</label>
+    <bar id="1">
+      <annotated_value>
+				52%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				35%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Looking for health / medical information
+		</label>
+    <bar id="1">
+      <annotated_value>
+				47%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				61%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Checking sports scores and information
+		</label>
+    <bar id="1">
+      <annotated_value>
+				46%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Checking job information
+		</label>
+    <bar id="1">
+      <annotated_value>
+				35%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				41%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Playing online games
+		</label>
+    <bar id="1">
+      <annotated_value>
+				32%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>
+			Seeking religious / spiritual information
+		</label>
+    <bar id="1">
+      <annotated_value>
+				19%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				23%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G381">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			1993 CBO forecast
+		</series>
+    <series id="2">
+			Current forecast
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				19.7%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				14%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			2010
+		</label>
+    <bar id="1">
+      <annotated_value>
+				28%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16.7%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

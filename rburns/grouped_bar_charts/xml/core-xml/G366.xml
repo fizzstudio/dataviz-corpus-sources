@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G366">
+  <orientation>
+		vertical
+	</orientation>
+  <legend>
+    <series id="1">
+			Men
+		</series>
+    <series id="2">
+			Women
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Gymnastics
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				37%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Swimming
+		</label>
+    <bar id="1">
+      <annotated_value>
+				17%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				35%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Track and field
+		</label>
+    <bar id="1">
+      <annotated_value>
+				30%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Basketball
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

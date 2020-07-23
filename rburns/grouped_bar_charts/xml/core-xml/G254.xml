@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G254">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Inches of snow in selected U.S. cities from Sept. 1 through Jan. 10
+	</y-axis>
+  <legend>
+    <series id="1">
+			30-year average
+		</series>
+    <series id="2">
+			This season
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Bismark, N.D.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				17.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				9.8
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Boise
+		</label>
+    <bar id="1">
+      <annotated_value>
+				10.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				8.0
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Boston
+		</label>
+    <bar id="1">
+      <annotated_value>
+				12.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Buffalo
+		</label>
+    <bar id="1">
+      <annotated_value>
+				40.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				13.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Burlington, Vt.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				32.1
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				4.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="6">
+    <label>
+			Chicago
+		</label>
+    <bar id="1">
+      <annotated_value>
+				15.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.9
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="7">
+    <label>
+			Concord, N.H.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				23.8
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="8">
+    <label>
+			Denver
+		</label>
+    <bar id="1">
+      <annotated_value>
+				25.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				21.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="9">
+    <label>
+			Hartford, Conn.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				15.9
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="10">
+    <label>
+			Indianapolis
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="11">
+    <label>
+			Minneapolis
+		</label>
+    <bar id="1">
+      <annotated_value>
+				20.5
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11.7
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="12">
+    <label>
+			New York
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="13">
+    <label>
+			Philadelphia
+		</label>
+    <bar id="1">
+      <annotated_value>
+				7.3
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.2
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="14">
+    <label>
+			Rochester, N.Y.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				34.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				24.8
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="15">
+    <label>
+			Salt Lake City
+		</label>
+    <bar id="1">
+      <annotated_value>
+				25.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				34.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="16">
+    <label>
+			Spokane, Wash.
+		</label>
+    <bar id="1">
+      <annotated_value>
+				26.2
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.6
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

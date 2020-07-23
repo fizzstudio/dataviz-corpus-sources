@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G270">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Social Security finances (in billions)
+	</y-axis>
+  <legend>
+    <series id="1">
+			Tax revenue
+		</series>
+    <series id="2">
+			Benefits cost
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$538
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$409
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			2010
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$916
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$710
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			2020
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$1,479
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$1,405
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			2030
+		</label>
+    <bar id="1">
+      <annotated_value>
+				$2,041
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				$2,542
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

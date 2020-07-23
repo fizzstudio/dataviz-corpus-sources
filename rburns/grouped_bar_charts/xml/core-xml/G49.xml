@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G49">
+  <orientation>vertical</orientation>
+  <x-axis>Projections</x-axis>
+  <y-axis>The Air Force's spending projections for its rocket programs</y-axis>
+  <legend>
+    <series id="1">Large rockets</series>
+    <series id="2">Small rockets</series>
+  </legend>
+  <group id="1">
+    <label>FY2006</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="2">
+    <label>'07</label>
+    <bar id="1">		
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="3">
+    <label>'08</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="4">
+    <label>'09</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="5">
+    <label>'10</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+  <group id="6">
+    <label>'11</label>
+    <bar id="1">
+		</bar>
+    <bar id="2">
+		</bar>
+  </group>
+</GroupedBarChart>

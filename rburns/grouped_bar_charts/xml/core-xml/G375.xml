@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G375">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Cars
+		</series>
+    <series id="2">
+			Trucks
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			1996
+		</label>
+    <bar id="1">
+      <annotated_value>
+				582,461
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7,528
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			1997
+		</label>
+    <bar id="1">
+      <annotated_value>
+				643,135
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				48,185
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			1998
+		</label>
+    <bar id="1">
+      <annotated_value>
+				684,478
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				143,277
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			1999
+		</label>
+    <bar id="1">
+      <annotated_value>
+				686,400
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				198,897
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			2000
+		</label>
+    <bar id="1">
+      <annotated_value>
+				613,753
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				200,728
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

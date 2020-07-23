@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G194">
+  <orientation>vertical</orientation>
+  <y-axis>AVERAGE TEST SCORE, NATIONAL PERCENTILE RANK</y-axis>
+  <legend>
+    <series id="1">ENTERING 5TH GRADE</series>
+    <series id="2">ENTERING 8TH GRADE</series>
+  </legend>
+  <group id="1">
+    <label>MATHEMATICS</label>
+    <bar id="1">
+      <annotated_value>41%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>80%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>READING</label>
+    <bar id="1">
+      <annotated_value>31%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>58%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

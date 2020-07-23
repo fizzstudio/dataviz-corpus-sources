@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G81-A">
+  <orientation>horizontal</orientation>
+  <legend>
+    <series id="1">women</series>
+    <series id="2">men</series>
+  </legend>
+  <group id="1">
+    <label>Clinton</label>
+    <bar id="1">
+      <annotated_value>46%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>29%</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>Obama</label>
+    <bar id="1">
+      <annotated_value>34%</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>40%</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

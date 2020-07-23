@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G307">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Poor
+		</series>
+    <series id="2">
+			Others
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Ages 2-9 (Primary teeth only)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				36.8%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				17.3%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Ages 5-17 (Primary permanent teeth)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				43.6%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				23.4%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Ages 18 or older (Permanent teeth only)
+		</label>
+    <bar id="1">
+      <annotated_value>
+				34.4%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				11.3%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

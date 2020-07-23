@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G350">
+  <orientation>
+		horizontal
+	</orientation>
+  <legend>
+    <series id="1">
+			Parents
+		</series>
+    <series id="2">
+			Teens
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Mall
+		</label>
+    <highlighted />
+    <bar id="1">
+      <annotated_value>
+				74%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				83%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Stand-alone stores
+		</label>
+    <bar id="1">
+      <annotated_value>
+				39%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				22%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Factory outlets
+		</label>
+    <bar id="1">
+      <annotated_value>
+				30%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				19%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Catalog
+		</label>
+    <bar id="1">
+      <annotated_value>
+				16%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				14%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="5">
+    <label>
+			Internet
+		</label>
+    <bar id="1">
+      <annotated_value>
+				9%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				12%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

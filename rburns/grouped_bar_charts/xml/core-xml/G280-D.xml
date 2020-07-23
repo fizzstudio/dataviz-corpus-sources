@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G280-D">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		Breakdown of roles in TV and theatrical releases for minorities: (numbers in percentages)
+	</y-axis>
+  <legend>
+    <series id="1">
+			1992
+		</series>
+    <series id="2">
+			1998
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Blacks
+		</label>
+    <bar id="1">
+      <annotated_value>
+				12.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				13.4
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			Latinos
+		</label>
+    <bar id="1">
+      <annotated_value>
+				2.6
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				3.5
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Asians
+		</label>
+    <bar id="1">
+      <annotated_value>
+				1.7
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				2.1
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="4">
+    <label>
+			Native Americans
+		</label>
+    <bar id="1">
+      <annotated_value>
+				0.4
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				0.2
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>

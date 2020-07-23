@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GroupedBarChart id="G229">
+  <orientation>
+		vertical
+	</orientation>
+  <y-axis>
+		NASA spending on the space shuttle and its replacement program, Constellation
+	</y-axis>
+  <legend>
+    <series id="1">
+			Shuttle
+		</series>
+    <series id="2">
+			Constellation
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			FY 2007
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="2">
+    <label>
+			'08
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="3">
+    <label>
+			'09
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="4">
+    <label>
+			'10
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+  <group id="5">
+    <label>
+			'11
+		</label>
+    <bar id="1" />
+    <bar id="2" />
+  </group>
+</GroupedBarChart>

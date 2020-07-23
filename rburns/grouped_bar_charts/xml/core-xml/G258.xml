@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GroupedBarChart id="G258">
+  <orientation>
+		horizontal
+	</orientation>
+  <y-axis>
+		Percentage of vehicle weight
+	</y-axis>
+  <legend>
+    <series id="1">
+			1978
+		</series>
+    <series id="2">
+			1999
+		</series>
+  </legend>
+  <group id="1">
+    <label>
+			Regular steel
+		</label>
+    <bar id="1">
+      <annotated_value>
+				54%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				43%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="2">
+    <label>
+			High strength / medium steel
+		</label>
+    <bar id="1">
+      <annotated_value>
+				4%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				10%
+			</annotated_value>
+    </bar>
+  </group>
+  <group id="3">
+    <label>
+			Aluminum
+		</label>
+    <bar id="1">
+      <annotated_value>
+				3%
+			</annotated_value>
+    </bar>
+    <bar id="2">
+      <annotated_value>
+				7%
+			</annotated_value>
+    </bar>
+  </group>
+</GroupedBarChart>
