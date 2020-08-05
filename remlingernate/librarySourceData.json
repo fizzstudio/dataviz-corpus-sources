@@ -1,0 +1,1540 @@
+[
+    {
+        "id": 0,
+        "title": "DFS: How Well Does Quarterback Salary Predict Points? (Fantasy Football)",
+        "description": "Quarterback salary can be a quality indicator of fantasy points scored, with the highest-priced quarterbacks scoring the most on average and an exploitable group of mid-priced quarterbacks scoring similarly from week-to-week.",
+        "url": "https://www.fantasypros.com/2020/07/dfs-how-well-does-quarterback-salary-predict-points-fantasy-football/",
+        "datePublished": "2020-07-20T04:08:30-07:00",
+        "site": "FantasyPros",
+        "authors": [{"name":"Jon Anderson"}]
+    },
+    {
+        "id": 1,
+        "title": "Is Zero Closer to Eight or to One?",
+        "description": "Is zero closer to eight or to one? Is this a three or a five? This was the type of question we were pondering a few weeks ago when we examined the results",
+        "url": "https://www.datanami.com/2020/07/08/is-zero-closer-to-eight-or-to-one/",
+        "datePublished": "2020-07-08T19:47:42+00:00",
+        "site": "Datanami",
+        "authors": [
+            {
+                "name": "Rosaria Silipo"
+            },
+            {
+                "name": "Mischa Lisovyi"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "This economic model suggests Ethereum's price will be boosted by DeFi's growth",
+        "description": "Data suggests that there is a historical correlation between fees and market cap, suggesting that Ethereum may currently be undervalued.",
+        "url": "https://cryptoslate.com/this-economic-model-suggests-ethereums-price-will-be-boosted-by-defis-growth/",
+        "datePublished": "2020-07-18T13:00:01+00:00",
+        "site": "CryptoSlate",
+        "authors": [
+            {
+                "name": "Cole Petersen"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Why Bihar should be conducting more Covid-19 tests than Delhi is",
+        "description": "An HT analysis based on the latest Sample Registration System (SRS), National Sample Survey and Covid-19 testing statistics suggest otherwise. It tells us why a state like Bihar is more likely to fail to detect Covid-19 infections and deaths than a place like Delhi or Kerala.",
+        "url": "https://www.hindustantimes.com/india-news/why-bihar-should-be-conducting-more-covid-19-tests-than-delhi-is/story-Z7pT288etII9ieyQhHQtRM.html",
+        "datePublished": "2020-07-16T02:48:05+05:30",
+        "site": "Hindustan Times",
+        "authors": [
+            {
+                "name": "Roshan Kishore"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "To Succeed In Global Health, We Need To Find The Outliers",
+        "description": "To succeed in global health, we need to learn from positive and negative outliers (exemplars). Recently, the Exemplars in Global Health project was launched to broadly share lessons from positive outliers in global health. ",
+        "url": "https://www.forbes.com/sites/madhukarpai/2020/07/13/to-succeed-in-global-health-we-need-to-find-the-outliers/",
+        "datePublished": "2020-07-14",
+        "site": "Forbes",
+        "authors": [
+            {
+                "name": "Madhukar Pai"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Data Wonk: The War Against Masks",
+        "description": "It's the most cost effective way to slow the pandemic. So why such opposition?",
+        "url": "https://urbanmilwaukee.com/2020/07/08/data-wonk-the-war-against-masks/",
+        "datePublished": "2020-07-08",
+        "site": "Urban Milwaukee",
+        "authors": [
+            {
+                "name": "Bruce Thompson"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "What's Going On in This Graph? | Coronavirus Outbreak",
+        "description": "How does the new coronavirus compare to other infectious diseases?",
+        "url": "https://www.nytimes.com/2020/02/18/learning/whats-going-on-in-this-graph-coronavirus-outbreak.html",
+        "datePublished": "2020-02-18",
+        "site": "nytimes.com",
+        "authors": [
+            {
+                "name": "The Learning Network"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Top Five Luckiest And Unluckiest MLB Teams Since 2000",
+        "description": "Sabermetrician legend Bill James discovered that a team’s current winning percentage is not the best predictor of their future winning percentage. He believed",
+        "url": "https://www.lineups.com/articles/top-five-luckiest-and-unluckiest-mlb-teams-since-2000/",
+        "datePublished": "2020-07-06T11:34:18-07:00",
+        "site": "Sports Articles",
+        "authors": [
+            {
+                "name": "Zachary Boeder"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "A brief history of the scatter plot--data visualization's greatest invention",
+        "description": "Invented in the 19th century, it has probably changed the way you think about the world.",
+        "url": "https://qz.com/1235712/the-origins-of-the-scatter-plot-data-visualizations-greatest-invention/",
+        "datePublished": "2018-03-31",
+        "site": "Quartz",
+        "authors": [
+            {
+                "name": "Dan Kopf"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Learning R: Able to label",
+        "description": "Or, a deep dive on data labels.",
+        "url": "https://www.beyondtheboxscore.com/2020/5/10/21253504/learning-r-able-to-label-scatter-plots-nolan-ryan-hall-of-fame-pitching",
+        "datePublished": "2020-05-10T12:00:00-04:00",
+        "site": "Beyond the Box Score",
+        "authors": [
+            {
+                "name": "Kenny Kelly"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Will Redesigning the Scatter Plot Emphasize Correlation, Not Causation?",
+        "description": "Despite the chant that correlation is not causation, some researchers believe the design of scatter plots nudges us to the wrong conclusions. Can a change in their design lessen that risk?",
+        "url": "https://www.acsh.org/news/2018/10/09/will-redesigning-scatter-plot-emphasize-correlation-not-causation-13486",
+        "datePublished": "2018-10-09T09:41:55-04:00",
+        "site": "American Council on Science and Health",
+        "authors": [
+            {
+                "name": "Chuck Dinerstein, MD, MBA"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Learning R: What do you mean the object is not found?",
+        "description": "This week, I re-learn how to learn and discover I didn't know as much about scatter plots as I thought I did.",
+        "url": "https://www.beyondtheboxscore.com/2020/5/3/21245399/learning-r-object-not-found-analyzing-baseball-data-with-r",
+        "datePublished": "2020-05-03T12:00:00-04:00",
+        "site": "Beyond the Box Score",
+        "authors": [
+            {
+                "name": "Kenny Kelly"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Graphs, Charts and Maps From Three Years of 'What's Going On in This Graph?'",
+        "description": "A slide show including some of our favorite graphs from our weekly 'What's Going On in This Graph?' activity.",
+        "url": "https://www.nytimes.com/slideshow/2020/06/10/learning/graphs-charts-and-maps-from-three-years-of-whats-going-on-in-this-graph.html",
+        "datePublished": "2020-06-10",
+        "site": "nytimes.com",
+        "authors": [
+            {
+                "name": "The Learning Network"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Speculative Earnings And Recent Stock Price Movements - ValueWalk",
+        "description": "While it is tempting to speculate as to why the market treated stocks with a high fraction of speculative earnings so much differently",
+        "url": "https://www.valuewalk.com/2020/07/speculative-earnings-stock-price-movements/",
+        "datePublished": "2020-07-08T16:54:08+00:00",
+        "site": "ValueWalk",
+        "authors": [
+            {
+                "name": "Prof. Bradford Cornell"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "What's Going On in This Graph? | Nov. 6, 2019",
+        "description": "What can we learn about ride-hailing services like Uber and Lyft from this graph?",
+        "url": "https://www.nytimes.com/2019/10/31/learning/whats-going-on-in-this-graph-nov-6-2019.html",
+        "datePublished": "2019-11-06",
+        "site": "nytimes.com",
+        "authors": [
+            {
+                "name": "The Learning Network"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Learning R: Into the tidyverse",
+        "description": "Behold! I have made one (1) scatter plot.",
+        "url": "https://www.beyondtheboxscore.com/2020/4/26/21237039/learning-r-into-the-tidyverse-analyzing-baseball-data-with-r",
+        "datePublished": "2020-04-26T12:00:00-04:00",
+        "site": "Beyond the Box Score",
+        "authors": [
+            {
+                "name": "Kenny Kelly"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "As oil prices plummet, how can resource-rich countries diversify their economies?",
+        "description": "A new study analyzes the political economy of the resource curse to understand what drives economic diversification in resource-rich countries.",
+        "url": "https://www.brookings.edu/blog/future-development/2020/04/03/as-oil-prices-plummet-how-can-resource-rich-countries-diversify-their-economies/",
+        "datePublished": "2020-04-03T17:51:30+00:00",
+        "site": "Brookings",
+        "authors": [
+            {
+                "name": "Addisu Lashitew"
+            },
+            {
+                "name": "Michael Ross"
+            },
+            {
+                "name": "Eric Werker"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Data Wonk: Lessons from the Spring 2020 Election",
+        "description": "Republicans opposed liberals and alleged voter fraud and neither issue resonated.",
+        "url": "https://urbanmilwaukee.com/2020/06/03/data-wonk-lessons-from-the-spring-2020-election/",
+        "datePublished": "2020-06-03",
+        "site": "Urban Milwaukee",
+        "authors": [
+            {
+                "name": "Bruce Thompson"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "The opioid crisis and community-level spillovers onto children's education",
+        "description": "Examining the connections between the opioid epidemic and education outcomes.",
+        "url": "https://www.brookings.edu/research/the-opioid-crisis-and-community-level-spillovers-onto-childrens-education/",
+        "datePublished": "2020-04-13T04:05:55+00:00",
+        "site": "Brookings",
+        "authors": [
+            {
+                "name": "Rajeev Darolia"
+            },
+            {
+                "name": "John Tyler"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Covid Kills More In Older Hamden  |  New Haven Independent",
+        "description": "As Connecticut begins to open up, state data show a chilling difference between how Covid-19 affected Hamden and New Haven: fewer cases, but more deaths in the former.",
+        "url": "https://www.newhavenindependent.org/index.php/archives/entry/hamden_nursing_homes_covid/",
+        "datePublished": "2020-06-11T17:14:28-0400",
+        "site": "New Haven Independent",
+        "authors": [
+            {
+                "name": "Sam Gurwitt"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Philadelphia 76ers: How much is Tobias Harris REALLY worth?",
+        "description": "This isn't just another article saying Tobias Harris is overpaid, we know that already. Instead\u00a0we look at what Harris is really worth and what he should'...",
+        "url": "https://thesixersense.com/2020/04/06/philadelphia-76ers-how-much-tobias-harris-really-worth/",
+        "datePublished": "2020-04-06T14:30:14+00:00",
+        "site": "The Sixer Sense",
+        "authors": [
+            {
+                "name": "Alexandro Fidanza"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Here's How Your Coach's Background Affects His Fourth Down Decision-Making - Stadium",
+        "description": "Take a look at how a college football coach's background impacts his fourth down aggressiveness.",
+        "url": "https://watchstadium.com/heres-how-your-coachs-background-affects-his-fourth-down-decision-making-10-15-2019/",
+        "datePublished": "2019-10-15T17:51:51+00:00",
+        "site": "Stadium",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Column: Purdue's enrollment not affected by athletic success",
+        "description": "Despite popular myth, application data suggests that Purdue’s application numbers are not wholly affected by the performance of its athletic programs.",
+        "url": "https://www.purdueexponent.org/sports/article_02695b4a-5d64-5ec5-9958-741c9b9a1538.html",
+        "datePublished": "2019-08-22",
+        "site": "Purdue Exponent",
+        "authors": [
+            {
+                "name": "Steven Randall"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Updated timeline of released Nokia smartphones",
+        "description": "A loyal and diligent Nokia Redditor created a new Nokia Lineup chart that shows all the Nokia smartphones released from the start of the operation Nokia Mobile.",
+        "url": "https://nokiamob.net/2019/12/21/updated-timeline-of-released-nokia-smartphones/",
+        "datePublished": "2019-12-21T16:19:18+00:00",
+        "site": "Nokiamob",
+        "authors": [
+            {
+                "name": "Marin"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "FanGraphs Prep: Strikeouts, ERA, and the Relationship Between Variables",
+        "description": "What can strikeouts and ERA show us about the relationship between two variables?",
+        "url": "https://blogs.fangraphs.com/fangraphs-prep-strikeouts-era-and-the-relationship-between-variables/",
+        "datePublished": "2020-05-27",
+        "site": "FanGraphs Baseball",
+        "authors": [
+            {
+                "name": "Ben Clemens"
+            },
+            {
+                "name": "Jake Mailhot"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Under a draft tax plan, one-third of Utahns would pay more",
+        "description": "A significant tax cut for Utahns is the key sweetening ingredient in a sweeping tax plan that state lawmakers have been assembling in recent months.",
+        "url": "https://www.sltrib.com/news/politics/2019/11/21/draft-tax-plan-would-cut/",
+        "datePublished": "2019-11-21",
+        "site": "The Salt Lake Tribune",
+        "authors": [
+            {
+                "name": "Bethany Rodgers"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "On The Move: 2 HCM Stock Breakouts Signify Increasing Market Optimism",
+        "description": "Two leading HCM companies, Paycom and Ceridian, are breaking out to new all-time highs. These HCM companies, generally, reflect the state of the economy.",
+        "url": "https://seekingalpha.com/article/4352786-on-move-2-hcm-stock-breakouts-signify-increasing-market-optimism",
+        "datePublished": "2020-06-09",
+        "site": "Seeking Alpha",
+        "authors": [
+            {
+                "name": "Steve Auger"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Here's how the extended 3-point line has (and hasn't) affected college basketball this season",
+        "description": "The 3-point line was extended prior to the start of the 2019-20 college basketball season. Here's how it has affected the game, and in some cases, hasn't.",
+        "url": "https://www.ncaa.com/news/basketball-men/article/2019-12-11/impact-college-basketballs-new-3-point-line-2019-20-season",
+        "datePublished": "2019-12-19",
+        "site": "NCAA.com",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Who Won The January Democratic Debate?",
+        "description": "How Democratic voters feel about the presidential candidates before and after the January primary debate for the 2020 election cycle",
+        "url": "https://projects.fivethirtyeight.com/democratic-debate-january-poll/",
+        "datePublished": "2020-01-13T19:20:00-05:00",
+        "site": "FiveThirtyEight",
+        "authors": [
+            {
+                "name": "Aaron Bycoffe"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Effect of BMI on blood value of patients on HCG day with IUI treatment",
+        "description": "This study aims to analyze the effect of the body mass index (BMI) on E2, P and LH values in females who received intrauterine insemination (IUI) treatment on human chorionic gonadotropin (HCG) day. A total of 2319\u2009cycles of IUI-assisted pregnancy treatment were selected in our hospital. Based on the BMI, female infertility patients are divided into three groups: normal weight group, overweight and obese group. For patients with natural cycles and\u2009\u2264\u200935\u2009years old, there were 440, 178 and 197 cases in the three groups, respectively. For patients with natural cycles and\u2009&gt;\u200935\u2009years old, there were 90, 83 and 81\u2009cycles in the three groups, respectively. For patients with induced ovulation cycle and\u2009\u2264\u200935\u2009years old, there were 425, 203 and 516 cases in the three groups, respectively. For patients with induced ovulation cycle and\u2009&gt;\u200935\u2009years old, there were 26, 26 and 54 cases in the three groups, respectively. When a patient is \u226435\u2009years old, the BMI affects the E2, LH and P values on the day of artificial insemination. However, the BMI is negatively correlated with E2, LH and P in IUI on HCG day. After controlling for age and assisted pregnancy, the correlation analysis revealed that the BMI is negatively correlated with hormone E2 and LH. The higher the BMI was, the lower the levels of hormones E2, LH and P became. However, in the present study, the BMI did not significantly improve the clinical pregnancy rate of patients who received IUI.",
+        "url": "https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-020-00963-1",
+        "datePublished": "2020-05-14",
+        "site": "BMC Women's Health",
+        "authors": [
+            {
+                "name": "Li-Ting Wang"
+            },
+            {
+                "name": "Cheng-Xiang Wang"
+            },
+            {
+                "name": "Hong-Liang Sun"
+            },
+            {
+                "name": "Xue Wang"
+            },
+            {
+                "name": "Xue-Feng Li"
+            },
+            {
+                "name": "Yan-Lin Wang"
+            },
+            {
+                "name": "Qing-Chun Li"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Indexing Exoplanets with Physical Conditions Potentially Suitable for Rock-Dependent Extremophiles",
+        "description": null,
+        "url": "http://astrobiology.com/2020/03/indexing-exoplanets-with-physical-conditions-potentially-suitable-for-rock-dependent-extremophiles.html",
+        "datePublished": "2020-03-01",
+        "site": "Astrobiology.com",
+        "authors": [
+            {
+                "name": "Press Release"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Here's where the US falls on the 'Great Gatsby Curve,' a damning chart economists use to track inequality in every country",
+        "description": "Earning more than your parents might be harder if you live in countries with high inequality and a high dependency on what your parents earned.",
+        "url": "https://www.businessinsider.com/great-gatsby-curve-relationship-between-income-inequality-and-mobility-2020-2",
+        "datePublished": "2020-02-23",
+        "site": "Business Insider",
+        "authors": [
+            {
+                "name": "Madison Hoff"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "title": "How COVID-19 is transforming the world economy",
+        "description": "In the wake of the Global Crisis, uncertainty in the world economy led many firms to reassess their business models. Rather than relying on global supply chains, an increasing number of firms invested in robots, which prompted a renaissance of manufacturing in industrialised countries. This column argues that changes in the world economy due to COVID-19 make a V-shaped",
+        "url": "https://voxeu.org/article/how-covid-19-transforming-world-economy",
+        "datePublished": "2020-05-10",
+        "site": "VOX EU",
+        "authors": [
+            {
+                "name": "Kemal Kilic"
+            },
+            {
+                "name": "Dalia Marin"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Impact of international travel dynamics on domestic spread of 2019-nCoV in India: origin-based risk assessment in importation of infected travelers",
+        "description": "The recent pandemic caused by the 2019 outbreak of novel coronavirus (2019-nCoV or COVID-19) has affected more than 3.0 million people resulting ~\u2009212,000 deaths across 215 countries/territories as on 28th April 2020. The importation of the cases owing to enormous international travels from the affected countries is the foremost reason for local cycle of transmission. For a country like India, the second most populous country in the world with ~\u20091.35 billion population, the management and control of 2019-nCoV domestic spread heavily relied on effective screening and strict quarantine of passengers arriving at various international airports in India from affected countries. Here, by extracting the data from FLIRT, an online airline database for more than 800 airlines, and scanning more than 180,000 flights and 39.9 million corresponding passenger seats during 4th \u2013 25th March, we show that India experienced the highest risk index of importing the passengers from middle eastern airports. Contrary to perception, travelers from China imposed lowest risk of importing the infected cases in India. This is clearly evident form the fact that while the number of infected cases were on the peak in China India was one of the least affected countries. The number of cases in India started exhibiting a sharp increase in the infected cases only after the European countries and USA recorded large number of infected cases. We further argue that while the number of cases in middle eastern countries may still be very low, the airports in middle eastern countries, particularly Dubai, being one of the largest transit hubs for international passengers, including arriving in India, might have posed a higher risk of getting infected with 2019-nCoV. We suggest that any future travel related disease infection screening at the airports should critically assess the passengers from major transit hubs in addition to affected country of origin.",
+        "url": "https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-020-00575-2",
+        "datePublished": "2020-05-12",
+        "site": "Globalization and Health",
+        "authors": [
+            {
+                "name": "Sachin S. Gunthe"
+            },
+            {
+                "name": "Satya S. Patra"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Mid-season update: 3-point shooting in men's college basketball is pretty much back to normal in 2020",
+        "description": "We looked at the data from 3,780 games played so far this season (about double the amount since we last checked) and 3-point accuracy has just about returned to the level it was at when the line was a few feet closer to the basket.",
+        "url": "https://www.ncaa.com/news/basketball-men/article/2020-01-28/3-point-shooting-mens-basketball-pretty-much-back-normal",
+        "datePublished": "2020-01-29",
+        "site": "NCAA.com",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Crawl data analysis of 2 billion links from 90 million domains offer glimpse into today's web",
+        "description": "Data analysis reveals the distribution of PageRank is highly right-skewed meaning the majority of hosts have very low PageRank.",
+        "url": "https://searchengineland.com/crawl-data-analysis-of-2-billion-edges-from-90-million-domains-offers-glimpse-into-todays-web-323417",
+        "datePublished": "2019-10-15T12:00:34+00:00",
+        "site": "Search Engine Land",
+        "authors": [
+            {
+                "name": "Aysun Akrasu"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "title": "LCS Week 2: Comfort Champions More Successful Than OP Meta Picks?",
+        "description": "Comfort champions are generally outperforming OP champions in LCS Week 2. Expect teams to start dropping their priority on Senna and Lucian.",
+        "url": "https://thegamehaus.com/league-of-legends/lcs-week-2-comfort-champions-more-successful-than-op-meta-picks/2020/02/06/",
+        "datePublished": "2020-02-06T11:00:36+00:00",
+        "site": "The Game Haus",
+        "authors": [
+            {
+                "name": "Thomas Baker"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "title": "This Scatter Graph Helps You Understand Virtually Every Genre of Music",
+        "description": "If you have a hard time differentiating your pop Christmas tunes from you shimmer psych jams, you're in luck. This scatter graph will help you get a grip on pretty much any genre of music, including some you've likely never heard of.\n",
+        "url": "https://lifehacker.com/this-scatter-graph-helps-you-understand-virtually-every-1782370231",
+        "datePublished": "2016-06-22",
+        "site": "Lifehacker",
+        "authors": [
+            {
+                "name": "Claire Lower"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "title": "America's schools are more diverse than ever, yet teachers are still mostly white",
+        "description": "Minority students, particularly Latinos, are on the rise, but few of their classes are taught by teachers of the same race.",
+        "url": "https://www.washingtonpost.com/graphics/2019/local/education/teacher-diversity/",
+        "datePublished": "2019-12-27",
+        "site": "Washington Post",
+        "authors": [
+            {
+                "name": "Laura Meckler"
+            },
+            {
+                "name": "Kate Rabinowitz"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Measuring Sentiments During The COVID-19 Outbreak",
+        "description": "In this article, we illustrate one method of closely tracking companies using the earnings call transcripts that can help investment managers to identify themes in an unprecedented environment such as the Covid-19 outbreak.",
+        "url": "https://www.spglobal.com/marketintelligence/en/news-insights/research/measuring-sentiments-during-the-covid-19-outbreak",
+        "datePublished": "2020-04-7",
+        "site": "S&P Global",
+        "authors": [
+            {
+                "name": "Edwin Chan"
+            },
+            {
+                "name": "Sannya Joseph"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "title": "TOWN'S SEASON IN TERMS OF EXPECTED GOALS",
+        "description": "Statistical look at Huddersfield Town's 2019/20 Sky Bet Championship campaign",
+        "url": "https://www.htafc.com/news/2020/april/towns-season-in-terms-of-expected-goals/",
+        "datePublished": "2020-04-16",
+        "site": "htafc.com",
+        "authors": [
+            {
+                "name": "Adam Tomlinson"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Testing efficiently: How to allocate COVID-19 tests across regions",
+        "description": "Tests are crucial to detect people who have been infected by COVID-19 and to observe in real time whether the dynamics of the pandemic are accelerating or decelerating. However, tests are a scarce resource in many countries. This column proposes a data-driven and operational criterion to allocate tests efficiently across regions, with a view to maximising the fraction of",
+        "url": "https://voxeu.org/article/how-allocate-covid-19-tests-across-regions",
+        "datePublished": "2020-05-10",
+        "site": "VOX EU",
+        "authors": [
+            {
+                "name": "Christelle Baunez"
+            },
+            {
+                "name": "Mickael Degoulet"
+            },
+            {
+                "name": "Stéphane Luchini"
+            },
+            {
+                "name": "Patrick Pintus"
+            },
+            {
+                "name": "Miriam Teschl"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "title": "14 Data Visualization Charts for SEO",
+        "description": "As marketers, it's a never ending challenge to get stakeholders to take action on our recommendations. But\u2026I get it. It's\u2026",
+        "url": "https://www.business2community.com/seo/14-data-visualization-charts-for-seo-02269006",
+        "datePublished": "2019-12-19",
+        "site": "Business 2 Community",
+        "authors": [
+            {
+                "name": "Ryan Stewart"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "title": "A-Rob the Alpha Dog, Destined for the Record Books",
+        "description": "How good was Allen Robinson's 2019 and can he really be the leading receiver in franchise history? We dive into the numbers.",
+        "url": "https://www.windycitygridiron.com/2020/2/17/21136601/chicago-bears-allen-robinson-a-rob-the-alpha-destined-for-the-record-books",
+        "datePublished": "2020-02-17T09:00:00-06:00",
+        "site": "Windy City Gridiron",
+        "authors": [
+            {
+                "name": "Jeff Berckes"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "title": "New data show severity of water contamination in poor neighborhoods",
+        "description": "A new report highlights the glaring injustice inherent in the U.S.'s drinking water systems.",
+        "url": "https://www.salon.com/2019/10/27/new-data-show-severity-of-water-contamination-in-poor-neighborhoods_partner/",
+        "datePublished": "2019-10-27 13:29:35",
+        "site": "Salon",
+        "authors": [
+            {
+                "name": "Daniel Ross"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Could dire predictions for Covid-19 in SA be another buggy mess that looks like angel-hair pasta? - BizNews.com",
+        "description": "Dwaine van Vuuren looks at the pre-lockdown and post-lockdown forecasts painted in the media for SA Covid-19 cases and deaths.",
+        "url": "https://www.biznews.com/thought-leaders/2020/05/22/covid-19-forecasts-likely-overblown",
+        "datePublished": "2020-05-22T13:12:15+00:00",
+        "site": "BizNews.com",
+        "authors": [
+            {
+                "name": "Linda van Tilburg"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Who Won The South Carolina Democratic Debate?",
+        "description": "How Democratic voters feel about the presidential candidates before and after the South Carolina Democratic primary debate for the 2020 election cycle",
+        "url": "https://projects.fivethirtyeight.com/democratic-debate-south-carolina-poll/",
+        "datePublished": "2020-02-25T14:50:00-05:00",
+        "site": "FiveThirtyEight",
+        "authors": [
+            {
+                "name": "Aaron Bycoffe"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Distinguishing COVID-19 using Chest X-Rays | Analytics Insight",
+        "description": "COVID-19's rate of transmission depends on the timely detection of the carrier and the immediate implementation of interventions. Even though the CT scan is more sensitive to COVID Pneumonia, Chest X-rays used can be for a possible preliminary classification, due to its prevalent usage as a primary diagnostic test.",
+        "url": "https://www.analyticsinsight.net/distinguishing-covid-19-using-chest-x-rays/",
+        "datePublished": "2020-04-26T22:40:58+05:30",
+        "site": "Analytics Insight",
+        "authors": [
+            {
+                "name": "Srinivas Atreya"
+            },
+            {
+                "name": "Malini Vyakaranam"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "title": "How Should Nonstandard Category Settings Affect Your Draft Strategy (Fantasy Baseball)",
+        "description": "The proper approach to building a fantasy baseball team is hugely determined by league settings. If you have been reading Fantasy Pro's for any time at all, you have heard our experts hammer that point home repeatedly. There are so ... ",
+        "url": "https://www.fantasypros.com/2020/03/how-should-nonstandard-category-settings-affect-your-draft-strategy-fantasy-baseball/",
+        "datePublished": "2020-03-30T03:55:35-07:00",
+        "site": "FantasyPros",
+        "authors": [
+            {
+                "name": "Jon Anderson"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "title": "India slips 5 spots on Henley Passport Index; here's how it affects the economy",
+        "description": "In the last decade, only eight nations granted visa-free-access to Indian nationals.",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/india-slips-5-spots-on-henley-passport-index-heres-how-it-affects-the-economy/articleshow/70766432.cms",
+        "datePublished": "2019-08-21",
+        "site": "The Economic Times",
+        "authors": [
+            {
+                "name": "Rohan Abraham"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "title": "The Entire California State Assembly is Bought by Business",
+        "description": "California’s campaign finance laws for state elections mean high limits on what individuals, corporations, and businesses can donate to candidates, which in turn means the majority of incumbents’ donations do not come from the average Californian individual.",
+        "url": "https://knock-la.com/the-entire-california-state-assembly-is-bought-by-business-23442a92ba84",
+        "datePublished": "2020-06-25",
+        "site": "knock-la.com",
+        "authors": [
+            {
+                "name": "John Kerin"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Three Things That Have Caused MBB's Slow Start in the MAC",
+        "description": "New Year, New Bulls, but you won't like this",
+        "url": "https://www.ubbullrun.com/2020/1/10/21057973/three-things-that-have-caused-mbbs-slow-start-in-the-mac",
+        "datePublished": "2020-01-10T09:00:00-05:00",
+        "site": "Bull Run",
+        "authors": [
+            {
+                "name": "Zach Eaton"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "title": "This Chart Shows That States With Tighter Gun Control Laws Have Fewer Deaths",
+        "description": "Since a 26-year-old shot and killed at least 9 people and injured several others at Umpqua Community College in Oregon on Thursday, the debate about gu ...",
+        "url": "http://www.slate.com/blogs/the_slatest/2015/10/02/gun_control_by_state_tougher_laws_mean_fewer_deaths.html",
+        "datePublished": "2015-10-02",
+        "site": "Slate Magazine",
+        "authors": [
+            {
+                "name": "Chris Kirk"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Who Won The New Hampshire Democratic Primary Debate?",
+        "description": "How Democratic voters feel about the presidential candidates before and after the New Hampshire Democratic primary debate for the 2020 election cycle",
+        "url": "https://projects.fivethirtyeight.com/democratic-debate-first-february-poll/",
+        "datePublished": "2020-02-07T10:25:00-05:00",
+        "site": "FiveThirtyEight",
+        "authors": [
+            {
+                "name": "Aaron Bycoffe"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "title": "An Empirical Investigation of the Variables Influencing Contributions in NCAA Division I Athletics: A Quantitative Analysis",
+        "description": "Authors: Kyle J. Brannigan, University of Northern Colorado & Dr. Alan L. Morse, University of Northern Colorado\n\n\n\nCorresponding Author:Kyle J. Brannigan4750 W29th Street APT 1210 Greeley CO, 80634Kbrannigan429@gmail.com845-216-0965\n\n\n\nSecond Author:Dr. Alan L. MorseButler-Hancock 261A University of Northern Colorado Sports & Exercise ScienceCampus Box 118 Greeley, CO 80639",
+        "url": "https://thesportjournal.org/article/an-empirical-investigation-of-the-variables-influencing-contributions-in-ncaa-division-i-athletics-a-quantitative-analysis/",
+        "datePublished": "2020-04-17T11:30:00+00:00",
+        "site": "The Sport Journal",
+        "authors": [
+            {
+                "name": "Kyle J Brannigan"
+            },
+            {
+                "name": "Dr. Alan L. Morse"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Who Won The December Democratic Debate?",
+        "description": "How Democratic voters feel about the presidential candidates before and after the December primary debate of the 2020 election cycle",
+        "url": "https://projects.fivethirtyeight.com/democratic-debate-december-poll/",
+        "datePublished": "2019-12-18T12:45:00-05:00",
+        "site": "FiveThirtyEight",
+        "authors": [
+            {
+                "name": "Aaron Bycoffe"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Identification of TNFR2 and IL-33 as therapeutic targets in localized fibrosis",
+        "description": "Dissecting the molecular landscape of fibrotic disease, a major unmet need, will inform the development of novel treatment strategies to target disease progression and identify desperately needed therapeutic targets. Here, we provide a detailed single-cell analysis of the immune landscape in Dupuytren's disease, a localized fibrotic condition of the hand, and identify a pathogenic signaling circuit between stromal and immune cells. We demonstrate M2 macrophages and mast cells as key cellular sources of tumor necrosis factor (TNF) that promotes myofibroblast development. TNF acts via the inducible TNFR2 receptor and stimulates interleukin-33 (IL-33) secretion by myofibroblasts. In turn, stromal cell IL-33 acts as a potent stimulus for TNF production from immune cells. Targeting this reciprocal signaling pathway represents a novel therapeutic strategy to inhibit the low-grade inflammation in fibrosis and the mechanism that drives chronicity.",
+        "url": "https://advances.sciencemag.org/content/5/12/eaay0370",
+        "datePublished": "2019-12-04",
+        "site": "Science Advances",
+        "authors": [
+            {
+                "name": "David Izadi"
+            },
+            {
+                "name": "Thomas B. Layton"
+            },
+            {
+                "name": "Lynn Williams"
+            },
+            {
+                "name": "Fiona McCann"
+            },
+            {
+                "name": "Marisa Cabrita"
+            },
+            {
+                "name": "Ana I. Espirito Santo"
+            },
+            {
+                "name": "Weilin Xie"
+            },
+            {
+                "name": "Marco Fritzsche"
+            },
+            {
+                "name": "Huw Colin-York"
+            },
+            {
+                "name": "Marc Feldmann"
+            },
+            {
+                "name": "Kim S. Midwood"
+            },
+            {
+                "name": "Jagdeep Nanchahal"
+            }
+
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Analyzing College Football's Relationship Between Recruiting Class Rankings and Wins - Stadium",
+        "description": "Is there a positive relationship between recruiting class rankings and win totals in college football?",
+        "url": "https://watchstadium.com/analyzing-college-footballs-relationship-between-recruiting-class-rankings-and-wins-07-01-2019/",
+        "datePublished": "2019-07-02T14:46:08+00:00",
+        "site": "Stadium",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "title": "The 45 Best -- And Weirdest -- Charts We Made In 2018",
+        "description": "Another year, another few hundred charts and maps on FiveThirtyEight. (Not to mention our interactive graphics and updating dashboards.) To celebrate the end of\u2026",
+        "url": "https://fivethirtyeight.com/features/the-45-best-and-weirdest-charts-we-made-in-2018/",
+        "datePublished": "2018-12-27T10:58:40+00:00",
+        "site": "FiveThirtyEight",
+        "authors": [
+            {
+                "name": "FiveThirtyEight"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Phagocytosis of Wnt inhibitor SFRP4 by late wound macrophages drives chronic Wnt activity for fibrotic skin healing",
+        "description": "Human and murine skin wounding commonly results in fibrotic scarring, but the murine wounding model wound-induced hair neogenesis (WIHN) can frequently result in a regenerative repair response. Here, we show in single-cell RNA sequencing comparisons of semi-regenerative and fibrotic WIHN wounds, increased expression of phagocytic/lysosomal genes in macrophages associated with predominance of fibrotic myofibroblasts in fibrotic wounds. Investigation revealed that macrophages in the late wound drive fibrosis by phagocytizing dermal Wnt inhibitor SFRP4 to establish persistent Wnt activity. In accordance, phagocytosis abrogation resulted in transient Wnt activity and a more regenerative healing. Phagocytosis of SFRP4 was integrin-mediated and dependent on the interaction of SFRP4 with the EDA splice variant of fibronectin. In the human skin condition hidradenitis suppurativa, phagocytosis of SFRP4 by macrophages correlated with fibrotic wound repair. These results reveal that macrophages can modulate a key signaling pathway via phagocytosis to alter the skin wound healing fate.",
+        "url": "https://advances.sciencemag.org/content/6/12/eaay3704",
+        "datePublished": "2020-03-20",
+        "site": "Science Advances",
+        "authors": [
+            {
+                "name": "Denise Gay"
+            },
+            {
+                "name": "Giulia Ghinatti"
+            },
+            {
+                "name": "Christian F. Guerrero-Juarez"
+            },
+            {
+                "name": "Rubén A. Ferrer"
+            },
+            {
+                "name": "Federica Ferri"
+            },
+            {
+                "name": "Chae Ho Lim"
+            },
+            {
+                "name": "Shohei Murakami"
+            },
+            {
+                "name": "Nathalie Gault"
+            },
+            {
+                "name": "Vilma Barroca"
+            },
+            {
+                "name": "Isabelle Rombeau"
+            },
+            {
+                "name": "Philippe Mauffrey"
+            },
+            {
+                "name": "Lamya Irbah"
+            },
+            {
+                "name": "Elsa Treffeisen"
+            },
+            {
+                "name": "Sandra Franz"
+            },
+            {
+                "name": "Alexandre Boissonnas"
+            },
+            {
+                "name": "Christophe Combadière"
+            },
+            {
+                "name": "Mayumi Ito"
+            },
+            {
+                "name": "Maksim V. Plikus"
+            },
+            {
+                "name": "Paul-Henri Romeo"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "title": "How the 'championship arc' may reveal this season's top Final Four contenders",
+        "description": "Graph two metrics of recent Final Four teams and you'll see the championship arc, an easy way to identify potential college basketball national champions.",
+        "url": "https://www.ncaa.com/news/basketball-men/article/2020-02-02/how-championship-arc-may-reveal-seasons-top-final-four",
+        "datePublished": "2020-02-02",
+        "site": "NCAA.com",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "title": "The Indians bullpen just got some added help",
+        "description": "James Karinchak put up absurd numbers in the minor leagues. He'll now get a chance to contribute for the Indians during their playoff push.",
+        "url": "https://www.beyondtheboxscore.com/2019/9/19/20865421/cleveland-indians-james-karinchak-reliever-strikeouts-minors-brad-hand-nick-goody-adam-cimber",
+        "datePublished": "2019-09-19T12:00:00-04:00",
+        "site": "Beyond the Box Score",
+        "authors": [
+            {
+                "name": "Patrick Brennan"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Philip Morris: Bullish On A Smoke-Free Future",
+        "description": "Philip Morris, as a global business, has managed its declining sales with higher product pricing. While we have been recommending alternative high-yield stocks for our investment community, we share our opinion on PM.",
+        "url": "https://seekingalpha.com/article/4363028-philip-morris-bullish-on-smoke-free-future",
+        "datePublished": "2020-08-03 09:15:05 -0400",
+        "site": "Seeking Alpha",
+        "authors": [
+            {
+                "name": "Rida Morwa"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "title": "In 2019, Team Payroll and Wins Are Closely Linked",
+        "description": "Payroll and wins look as closely tied as they were in the late-90s and early 2000s.",
+        "url": "https://blogs.fangraphs.com/in-2019-team-payroll-and-wins-are-closely-linked/",
+        "datePublished": "2019-08-16",
+        "site": "FanGraphs Baseball",
+        "authors": [
+            {
+                "name": "Craig Edwards"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "title": "The 'Scott Pilgrim' Reunion Included An Adorable Cameo From Chris Evans' Dog",
+        "description": "The cast of 'Scott Pilgrim Vs. The World' reunited for a virtual table read to raise money for charity.",
+        "url": "https://www.bustle.com/entertainment/the-scott-pilgrim-reunion-featured-chris-evans-dog-dodger",
+        "datePublished": "2020-06-21",
+        "site": "Bustle",
+        "authors": [
+            {
+                "name": "Julia Emmanuele"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "title": "The Stat Man: Sunderland's huge striker problem, and why it is time for a change",
+        "description": "What does the data tell us? That the time has come to abandon the failed Wyke experiment and give Kyle Lafferty his chance in the team if we're serious about achieving automatic promotion.",
+        "url": "https://rokerreport.sbnation.com/2020/3/3/21160088/the-stat-man-sunderlands-huge-striker-problem-and-why-it-is-time-for-a-change",
+        "datePublished": "2020-03-03T10:00:00+00:00",
+        "site": "Roker Report",
+        "authors": [
+            {
+                "name": "Steve Tiltman"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Data Shows Tesla Batteries Lost Less Than 10 Percent of Capacity Over 165,000 Miles",
+        "description": "EVs may eventually outlive most gas-powered cars on the market.",
+        "url": "https://www.thedrive.com/tech/20149/data-shows-tesla-batteries-lose-less-than-10-percent-capacity-at-160000-miles",
+        "datePublished": "2018-04-17",
+        "site": "The Drive",
+        "authors": [
+            {
+                "name": "Rob Stumpf"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Prevention and treatment of autoimmune diseases with plant virus nanoparticles",
+        "description": "Plant viruses are natural, self-assembling nanostructures with versatile and genetically programmable shells, making them useful in diverse applications ranging from the development of new materials to diagnostics and therapeutics. Here, we describe the design and synthesis of plant virus nanoparticles displaying peptides associated with two different autoimmune diseases. Using animal models, we show that the recombinant nanoparticles can prevent autoimmune diabetes and ameliorate rheumatoid arthritis. In both cases, this effect is based on a strictly peptide-related mechanism in which the virus nanoparticle acts both as a peptide scaffold and as an adjuvant, showing an overlapping mechanism of action. This successful preclinical testing could pave the way for the development of plant viruses for the clinical treatment of human autoimmune diseases.",
+        "url": "https://advances.sciencemag.org/content/6/19/eaaz0295",
+        "datePublished": "2020-05-06",
+        "site": "Science Advances",
+        "authors": [
+            {
+                "name": "Roberta Zampieri"
+            },
+            {
+                "name": "Annalisa Brozzetti"
+            },
+            {
+                "name": "Eva Pericolini"
+            },
+            {
+                "name": "Elena Bartoloni"
+            },
+            {
+                "name": "Elena Gabrielli"
+            },
+            {
+                "name": "Elena Roselletti"
+            },
+            {
+                "name": "George Lomonosoff"
+            },
+            {
+                "name": "Yulia Meshcheriakova"
+            },
+            {
+                "name": "Luca Santi"
+            },
+            {
+                "name": "Francesca Imperatori"
+            },
+            {
+                "name": "Matilde Merlin"
+            },
+            {
+                "name": "Elisa Tinazzi"
+            },
+            {
+                "name": "Francesco Dotta"
+            },
+            {
+                "name": "Laura Nigi"
+            },
+            {
+                "name": "Guido Sebastiani"
+            },
+            {
+                "name": "Mario Pezzotti"
+            },
+            {
+                "name": "Alberto Falorni"
+            },
+            {
+                "name": "Linda Avesani"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "title": "A Final Look At Who Won And Lost The First Democratic Debates",
+        "description": "Who won the Democratic debates?",
+        "url": "http://projects.fivethirtyeight.com/democratic-debate-poll",
+        "datePublished": "2019-06-26T10:00:00-04:00",
+        "site": "FiveThirtyEight",
+        "authors": [
+            {
+                "name": "Aaron Bycoffe"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "title": "How the New 3-Point Line Has Affected Efficiency, Debut of NET Rankings Delayed - Stadium",
+        "description": "Don't miss the first edition of Andy Wittry's weekly college basketball column.",
+        "url": "https://watchstadium.com/how-the-new-3-point-line-has-affected-efficiency-debut-of-net-rankings-delayed-11-12-2019/",
+        "datePublished": "2019-11-13T15:16:07+00:00",
+        "site": "Stadium",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "title": "James Holzhauer's 'Jeopardy!' Greatness, in Charts",
+        "description": "How good is 'Jeopardy!' champ James Holzhauer? You have to see it to believe it.",
+        "url": "https://www.wired.com/story/james-holzhauer-jeopardy-greatness-charts/",
+        "datePublished": "2019-05-20",
+        "site": "Wired",
+        "authors": [
+            {
+                "name": "Brian Barrett"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "title": "A critical factor for wound healing",
+        "description": "The p53 family of transcription factors (p63 and p73) plays critical roles in keratinocyte (skin cell) function.",
+        "url": "https://medicalxpress.com/news/2019-07-critical-factor-wound.html",
+        "datePublished": "2019-07-17",
+        "site": "Medical Xpress",
+        "authors": [
+            {
+                "name": "Anivarya Kumar"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "title": "A new survey shows how economic policy divides the GOP and unites Democrats",
+        "description": "Lower-income Republicans are decidedly more moderate on economics.",
+        "url": "https://www.vox.com/2019/6/11/18659986/voter-study-group-democrats-economics",
+        "datePublished": "2019-06-11T09:10:00-04:00",
+        "site": "Vox",
+        "authors": [
+            {
+                "name": "Matthew Yglesias"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Researchers unlock the secrets of liver regeneration",
+        "description": "In a recent study published in the journal Developmental Cell, NYU Abu Dhabi researchers have reported a new way in which the liver is primed to regenerate itself. They found that by stripping parts of the epigenome, which play a primary role in repressing \"jumping genes\" (i.e. transposable elements), other epigenetic marks were redistributed.",
+        "url": "https://medicalxpress.com/news/2019-06-secrets-liver-regeneration.html",
+        "datePublished": "2019-06-2019",
+        "site": "Medical Xpress",
+        "authors": [
+            {
+                "name": "New York University"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Examining the Opening Drive Success of SEC Football Teams Last Season - Stadium",
+        "description": "Which SEC offense knows how to set the tone?",
+        "url": "https://watchstadium.com/examining-the-opening-drive-success-of-sec-football-teams-last-season-07-25-2019/",
+        "datePublished": "2019-07-26T14:27:33+00:00",
+        "site": "Stadium",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Star Wars Movie Scores Reveal Why You Should Ignore Rotten Tomatoes",
+        "description": "Charts comparing the Tomatometer rating and Audience Score for every episode in the Skywalker saga suggest a growing divide between film critics and the public.",
+        "url": "https://www.forbes.com/sites/jvchamary/2020/04/09/star-wars-movie-scores/",
+        "datePublished": "2020-04-09",
+        "site": "Forbes",
+        "authors": [
+            {
+                "name": "JV Chamary"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Infogol crunch the numbers of QPR's 2019/20",
+        "description": "Revolutionary new football product Infogol take an in-depth look at the numbers behind QPR's 2019/20 so far.",
+        "url": "https://www.qpr.co.uk/news/features/infogol-crunch-the-numbers-of-qprs-201920/",
+        "datePublished": "2020-03-27",
+        "site": "QPR",
+        "authors": [
+            {
+                "name": "Queens Park Rangers"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Asthma in Denver: Search rates by neighborhood",
+        "description": "Asthma rates in the Elyria-Swansea and Globeville neighborhoods are already higher than the state average, and there is concern air quality in those and surrounding neighborhoods could worsen with \u2026",
+        "url": "https://www.denverpost.com/2019/06/30/denver-asthma-rates/",
+        "datePublished": "2019-06-30T12:00:39+00:00",
+        "site": "The Denver Post",
+        "authors": [
+            {
+                "name": "Kevin Hamm"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "title": "The Hornets are winning an unprecedented amount of close games",
+        "description": "They're winning games in the finals seconds in a rate not seen in at least several years, and overachieving while doing it.",
+        "url": "https://www.atthehive.com/2020/1/7/21052152/the-charlotte-hornets-are-winning-an-unprecedented-amount-of-close-games",
+        "datePublished": "2020-01-07T09:00:00-05:00",
+        "site": "At The Hive",
+        "authors": [
+            {
+                "name": "Jonathan DeLong"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Who Won The Third Democratic Debate?",
+        "description": "How Democratic voters feel about the presidential candidates before and after the third primary debate of the 2020 election cycle",
+        "url": "https://projects.fivethirtyeight.com/democratic-debate-september-poll/",
+        "datePublished": "2019-09-12T06:00:00-04:00",
+        "site": "FiveThirtyEight",
+        "authors": [
+            {
+                "name": "Aaron Bycoffe"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Figure of the week: Climate change vulnerability and urban population growth",
+        "description": "The fastest growing cities in Africa are among the most susceptible to climate change over the next 30 years.",
+        "url": "https://www.brookings.edu/blog/africa-in-focus/2018/12/14/figure-of-the-week-climate-change-vulnerability-and-urban-population-growth/",
+        "datePublished": "2018-12-14T20:17:13+00:00",
+        "site": "Brookings",
+        "authors": [
+            {
+                "name": "Nirav Patel"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "title": "Was The 2019 Alabama Offense Too Good for Their Own Good?",
+        "description": "Maybe Tua Tagovailoa was the cause for the Tide's defensive decline?",
+        "url": "https://www.rollbamaroll.com/2020/1/8/21054362/was-alabamas-2019-offense-so-good-that-it-caused-their-defense-to-falter-football-tua-tagovailoa",
+        "datePublished": "2020-01-08T10:00:00-06:00",
+        "site": "Roll 'Bama Roll",
+        "authors": [
+            {
+                "name": "Brent C. Taylor"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "title": "The MLB Has a Competitive Balance Issue, and It's Related to Money and Payroll Inequalities - The Georgetown Voice",
+        "description": "At the end of the 2019 regular season, the top four records in Major League Baseball should not have been a surprise: the Astros, Dodgers, Yankees, and Twins all put... Read more",
+        "url": "https://georgetownvoice.com/2020/02/18/the-mlb-has-a-competitive-balance-issue-and-its-related-to-money-and-payroll-inequalities/",
+        "datePublished": "2020-02-19T02:12:25+00:00",
+        "site": "The Georgetown Voice",
+        "authors": [
+            {
+                "name": "Will Calandra"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Genome-wide kinetic properties of transcriptional bursting in mouse embryonic stem cells",
+        "description": "Transcriptional bursting is the stochastic activation and inactivation of promoters, contributing to cell-to-cell heterogeneity in gene expression. However, the mechanism underlying the regulation of transcriptional bursting kinetics (burst size and frequency) in mammalian cells remains elusive. In this study, we performed single-cell RNA sequencing to analyze the intrinsic noise and mRNA levels for elucidating the transcriptional bursting kinetics in mouse embryonic stem cells. Informatics analyses and functional assays revealed that transcriptional bursting kinetics was regulated by a combination of promoter- and gene body\u2013binding proteins, including the polycomb repressive complex 2 and transcription elongation factors. Furthermore, large-scale CRISPR-Cas9\u2013based screening identified that the Akt/MAPK signaling pathway regulated bursting kinetics by modulating transcription elongation efficiency. These results uncovered the key molecular mechanisms underlying transcriptional bursting and cell-to-cell gene expression noise in mammalian cells.",
+        "url": "https://advances.sciencemag.org/content/6/25/eaaz6699",
+        "datePublished": "2020-06-17",
+        "site": "Science Advances",
+        "authors": [
+            {
+                "name": "Hiroshi Ochiai"
+            },
+            {
+                "name": "Tetsutaro Hayashi"
+            },
+            {
+                "name": "Mana Umeda"
+            },
+            {
+                "name": "Mika Yoshimura"
+            },
+            {
+                "name": "Akihito Harada"
+            },
+            {
+                "name": "Yukiko Shimizu"
+            },
+            {
+                "name": "Kenta Nakano"
+            },
+            {
+                "name": "Noriko Saitoh"
+            },
+            {
+                "name": "Zhe Liu"
+            },
+            {
+                "name": "Takashi Yamamoto"
+            },
+            {
+                "name": "Tadashi Okamura"
+            },
+            {
+                "name": "Yasuyuki Ohkawa"
+            },
+            {
+                "name": "Hiroshi Kimura"
+            },
+            {
+                "name": "Itoshi Nikaido"
+            }
+
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Data Wonk: Why Raise the Minimum Wage",
+        "description": "The data is now overwhelming on the positive effect in states that did so.",
+        "url": "https://urbanmilwaukee.com/2019/11/20/data-wonk-why-raise-the-minimum-wage/",
+        "datePublished": "2019-11-20",
+        "site": "Urban Milwaukee",
+        "authors": [
+            {
+                "name": "Bruce Thompson"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "title": "This Is How Much It Costs to Land One of College Football's Top Recruiting Classes - Stadium",
+        "description": "It's not an exact science, but if you want to know how strong of a recruiting class your favorite team is likely to enroll, look at their financial investment for recruiting.",
+        "url": "https://watchstadium.com/this-is-how-much-it-costs-to-land-one-of-college-footballs-top-recruiting-classes-07-24-2019/",
+        "datePublished": "2019-07-25T14:43:45+00:00",
+        "site": "Stadium",
+        "authors": [
+            {
+                "name": "Andy Wittry"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "title": "Bernie Sanders cares passionately about trade. It's not clear the people voting for him agree.",
+        "description": "Sanders's win in Michigan was widely attributed to his message on trade. Is that right?",
+        "url": "https://www.vox.com/2016/4/11/11385776/bernie-sanders-trade",
+        "datePublished": "2016-04-11T08:00:02-04:00",
+        "site": "Vox",
+        "authors": [
+            {
+                "name": "Jeff Stein"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "title": "What's Going On in This Graph? | Feb. 13, 2018",
+        "description": "Look closely at this graph, and join the moderated conversation about what you and other students see.",
+        "url": "https://www.nytimes.com/interactive/2018/02/08/learning/13WGOITGraphLN.html",
+        "datePublished": "2018-02-08",
+        "site": "nytimes.com",
+        "authors": [
+            {
+                "name": "The Learning Network"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Visual analysis of AdWords data: a primer",
+        "description": "Columnist David Fothergill shows how data visualization can unlock insights about AdWords performance you may not have gleaned otherwise.",
+        "url": "https://searchengineland.com/visual-analysis-of-adwords-data-a-primer-246751",
+        "datePublished": "2016-04-08T13:38:21+00:00",
+        "site": "Search Engine Land",
+        "authors": [
+            {
+                "name": "David Fothergill"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "title": "Discovering unusual structures from exception using big data and machine learning techniques",
+        "description": "Machine learning (ML) has become a widely used technique in materials science study. Recently, a research team led by Prof. Feng Pan from Peking University, Shenzhen Graduate School, has trained an ML model for the relationship between atomic structures and band gaps of crystals. After analyzing structures whose band gap deviates much from the prediction made by the model, some structures with unusual structure units or other abnormities are found.",
+        "url": "https://eurekalert.org/pub_releases/2019-05/scp-dus051619.php",
+        "datePublished": "2019-05-16",
+        "site": "EurekAlert!",
+        "authors": [
+            {
+                "name": "Science China Press"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "title": "If you work in tech, these cities give you the most bang for your buck",
+        "description": "For twelve of the most common tech jobs, we gathered and ranked average income data per city and combined that with the cities' cost of living data.",
+        "url": "https://thenextweb.com/tech/2019/05/29/if-you-work-in-tech-these-cities-give-you-the-most-bang-for-your-buck/",
+        "datePublished": "2019-05-29T15:34:18+02:00",
+        "site": "The Next Web",
+        "authors": [
+            {
+                "name": "Yaron Yitzhak"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "title": "BrandMuscle 2018 State of Local Marketing Report Forecasts New Era of Precision Marketing",
+        "description": "Report serves as roadmap of customer-centricity at the local level",
+        "url": "http://www.globenewswire.com/news-release/2018/03/01/1409215/0/en/BrandMuscle-2018-State-of-Local-Marketing-Report-Forecasts-New-Era-of-Precision-Marketing.html",
+        "datePublished": "2018-03-01",
+        "site": "GlobeNewswire News Room",
+        "authors": [
+            {
+                "name": "BrandMuscle"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "title": "GraphMania II: More football, math and science",
+        "description": "We're turning to data comparisons to evaluate the week's slate of high school football games in the Ozarks",
+        "url": "https://www.news-leader.com/story/sports/high-school/2016/09/21/graphmania-ii-more-football-math-and-science/90790862/",
+        "datePublished": "2016-09-21",
+        "site": "Springfield News-Leader",
+        "authors": [
+            {
+                "name": "Rance Burger"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "title": "Is it time for Mizzou to perk up its pace?",
+        "description": "Three years of playing at a controlled clip and manufacturing 3-pointers have produced mixed results. Would pushing the ball and attacking early in the shot clock help the Tigers?",
+        "url": "https://www.rockmnation.com/2020/5/19/21068655/missouri-tigers-basketball-analysis-tempo-offense-fast-marquette-cuonzo-martin",
+        "datePublished": "2020-05-19T11:00:00-05:00",
+        "site": "Rock M Nation",
+        "authors": [
+            {
+                "name": "Matthew Harris"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "title": "Was the 2016 election actually a political realignment?",
+        "description": "Digging into the peculiar case of downscale Midwestern whites.",
+        "url": "https://www.vox.com/mischiefs-of-faction/2017/10/24/16524034/2016-realignment-midwest",
+        "datePublished": "2017-10-24T11:00:02-04:00",
+        "site": "Vox",
+        "authors": [
+            {
+                "name": "Seth Masket"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "title": "Data Wonk: Is State a Leader in 'Economic Freedom'?",
+        "description": "So says a Cato Institute report. There's reason to doubt this. ",
+        "url": "https://urbanmilwaukee.com/2019/05/08/data-wonk-is-state-a-leader-in-economic-freedom/",
+        "datePublished": "2019-05-08",
+        "site": "Urban Milwaukee",
+        "authors": [
+            {
+                "name": "Bruce Thompson"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "title": "Three reasons why low inflation is good for shares and property",
+        "description": "Share markets are at or around record levels despite lots of worries, particularly around the coronavirus (Covid-19) outbreak. A common concern is that this is because central banks (like the Fed and the RBA) are distorting market forces and just want higher asset prices. And flowing from this its argued...",
+        "url": "https://www.livewiremarkets.com/wires/three-reasons-why-low-inflation-is-good-for-shares-and-property",
+        "datePublished": "2020-02-19",
+        "site": "Livewire Markets",
+        "authors": [
+            {
+                "name": "Chris Stott"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "title": "New Data Proves Trump Voters More Likely to Have High BMIs",
+        "description": "Data compiled and studied by a Redditor shows a positive correlation between a state's number of Trump supporters and high body weight.",
+        "url": "https://www.inverse.com/article/33016-trump-voters-more-likely-to-be-fat-no-college-education",
+        "datePublished": "2017-06-15",
+        "site": "Inverse",
+        "authors": [
+            {
+                "name": "Emily Gaudette"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "title": " REIT Earnings, GDP Growth and the Pandemic",
+        "description": "Due to the highly unusual nature of this recession, uncertainty about the path of the pandemic, and the potential for a robust recovery, in upcoming earnings announcements the management's view of market conditions and discussion of the outlook are likely to attract at least as much attention as FFO.",
+        "url": "https://www.reit.com/news/blog/market-commentary/reit-earnings-gdp-growth-and-pandemic",
+        "datePublished": "2020-07-22",
+        "site": "Nareit",
+        "authors": [
+            {
+                "name": "Calvin Schnure"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "title": "The US Is the Only Country Where There Are More Guns Than People",
+        "description": "The US has the worst rate of gun violence among all developed countries, and still we fail to regulate.",
+        "url": "https://www.wired.com/story/guns-in-america-five-charts/",
+        "datePublished": "2018-11-12",
+        "site": "Wired",
+        "authors": [
+            {
+                "name": "Joanna Pearlstein"
+            }
+        ]
+    }
+]
