@@ -1,0 +1,5018 @@
+[
+    {
+        "name": "SP000_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP000_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP000_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP001.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP002.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP003_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP003_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP004.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP005.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP006.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP007.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP008.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP009.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP010_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP010_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP011.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP012_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP012_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP012_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP012_3.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP012_4.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP012_5.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP013_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP013_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP014.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP015.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP016_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP016_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP017_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP017_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP018.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP019.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP020.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP021_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP021_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP022.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP023.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP024.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP025.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP026.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP027_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP027_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP028.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP029_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP029_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP030.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP031_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP031_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP031_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP032_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP032_1_a.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP032_1_b.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP033.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP034.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP035_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP035_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP035_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP035_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP036.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP037.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP038_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP038_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP038_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP038_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP038_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP039.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP040_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP040_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP041_a.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP041_b.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP042.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP043_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP043_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP043_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP043_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP043_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP043_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP043_6.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP044.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP045_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP045_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP046.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP047_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP047_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP047_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP048_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP048_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP049.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP050.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP051_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP051_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP052.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP053.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP054_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP054_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP055.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP057_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP057_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP057_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP058_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP058_1_a.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP058_1_b.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP058_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP058_3.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_6.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_7.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_9.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP059_10.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP060_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP060_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP061.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_6.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP062_7.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP063_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP063_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP063_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP063_3.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP064.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_6.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_7.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_8.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_9.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_10.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP065_11.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP066.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP067_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP067_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP068.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP069.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP070_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP070_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP071.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP072_a.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP072_b.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP073_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP073_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP074_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP074_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP074_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP074_3.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP075.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP076_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP077.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP078_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP078_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP078_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP078_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP078_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP078_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP078_6.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP079.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP080.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP081_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP081_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP081_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP082.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_0_a.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_0_b.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_3_a.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_3_b.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_3_c.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_3_d.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_6.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP083_7.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP084.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP085_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP085_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP085_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP085_3.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP085_4.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP085_5.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP086.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP087.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_4.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_6.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_7.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_8.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_9.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP088_10.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP089.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP090.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP091.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP092.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP093_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP093_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP093_2.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP093_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP094_0.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP094_1.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP095_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP095_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP095_2.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP095_3.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP095_4.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP095_5.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP096_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP096_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP097.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP098.PNG",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP099_0.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    },
+    {
+        "name": "SP099_1.png",
+        "primary_intention": -1,
+        "secondary_intention": -1,
+        "signals": {
+            "trend": -1,
+            "variance": -1,
+            "outliers": [],
+            "lineOfBestFit": {
+                "hasSalientColor": false,
+                "isAnnotated": false,
+                "isCurved": false
+            },
+            "salientDatapoints": {
+                "colorOrShape": -1,
+                "annotation": -1,
+                "annotationColorOrShape": -1
+            },
+            "nonstandardComparisonLines": [],
+            "salientCaptionVerbs": []
+        }
+    }
+]
