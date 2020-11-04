@@ -147,9 +147,7 @@ represents a chart with no salient data points.
 These are lines of comparison in a chart that are not lines of best fit, the chart's axes, or a gridline. They are represented with an array of strings, each containing the label or stated meaning of each nonstandard comparison made in the chart.
 
 So,
-    "nonstandardComparisonLines": [
-        "average"
-    ]
+> "nonstandardComparisonLines": ["average"]
 
 represents a chart with a nonstandard comparison line which represents *average*.
 
@@ -162,9 +160,7 @@ represents a chart with no nonstandard comparison lines.
 These are words or phrases in a caption for a chart that tell you something about the chart's intentions. They are represented with an array of strings, each containing the meaningful word or phrase found in the caption.
 
 So,
-    "salientCaptionVerbs": [
-        "stands alone"
-    ]
+> "salientCaptionVerbs": ["stands alone"]
 
 represents a chart with a caption that mentions a data point *standing alone*.
 
