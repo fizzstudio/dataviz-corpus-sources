@@ -27,7 +27,7 @@
 The data file utilizes JSON to structure chart data. Each chart is represented by a JSON object in the data file's array.
 
 ## Name
-It's the name. The name of each object in the data file maps directly to the same filename in the library subdirectory. The files within the current library are prefaced with *SP* (**S**catter **P**lot), followed by the ID of the article in which they were found (IDs can be found in librarySourceData.json). If the article contained multiple scatter plots, an underscore followed by an ID assigned to each SP in the article is appended to the end. Sometimes, an image in an article contains more than one scatter plot. In that case, an underscore and a letter (beginning with a) is appended to the end. For existing images in the library, letters are assigned from left to right, top to bottom as they appear.
+It's the name. The name of each object in the data file maps almost directly to the same filename in the library subdirectory. The files within the current library are prefaced with *SP* (**S**catter **P**lot), followed by the ID of the article in which they were found (IDs can be found in librarySourceData.json). If the article contained multiple scatter plots, an underscore followed by an ID assigned to each SP in the article is appended to the end. Sometimes, an image in an article contains more than one scatter plot. In that case, an underscore and a letter (beginning with a) is appended to the end. For existing images in the library, letters are assigned from left to right, top to bottom as they appear.
 
 So,
 > "name": "SP010_3_b"
@@ -54,7 +54,7 @@ Intentions are assigned IDs according to the following list:
 Signals are represented by yet another object with a set of properties as follows.
 
 ## Trend
-Trend is the overall slope pattern found in the scatter plot. For the purposes of this analysis, trend is limited to the range [-1, 1]. -1 represents an extreme negative slope (\), 0 represents no slope (--), 1 represents an extreme positive slope (/).
+Trend is the overall slope pattern found in the scatter plot. For the purposes of this analysis, trend is limited to the range [-1, 1]. -1 represents an extreme negative slope (\\), 0 represents no slope (--), 1 represents an extreme positive slope (/).
 
 So, a scatter plot with a moderate negative slope could be assigned a trend value of -0.4.
 
