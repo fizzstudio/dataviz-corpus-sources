@@ -32,7 +32,7 @@ It's the name. The name of each object in the data file maps directly to the sam
 So,
 > "name": "SP010_3_b"
 
-is the second scatter plot in the fourth image assigned an ID in article 10. The image associated with this plot would be found in the library with the filename *SP010_3*.
+is the second scatter plot (b) in the fourth image (3, zero-based) assigned an ID in article 10. The image associated with this plot would be found in the library with the filename *SP010_3*.
 
 ## Intentions (primary and secondary)
 Intentions are assigned IDs according to the following list:
